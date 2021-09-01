@@ -1,0 +1,1402 @@
+<corpus lang="en">
+<lexelt item="sentiment">
+<instance id="620821002390339585">
+<answer instance="620821002390339585" sentiment="negative"/>
+<context>
+Does @macleansmag still believe that Ms. Angela Merkel is the "real leader of the free world"?  http://t.co/isQfoIcod0 (Greeks may disagree
+</context>
+</instance>
+<instance id="621090050848198657">
+<answer instance="621090050848198657" sentiment="negative"/>
+<context>
+By Michael Nienaber BERLIN, July 10 (Reuters) - The parties in Angela Merkel's coalition government sent conflicting signals on the latest
+</context>
+</instance>
+<instance id="621346870686826496">
+<answer instance="621346870686826496" sentiment="negative"/>
+<context>
+I was really excited for the Amazon Prime Day sale, but everything is garbage. Better than Black Friday my butt!
+</context>
+</instance>
+<instance id="621351900311478272">
+<answer instance="621351900311478272" sentiment="negative"/>
+<context>
+Amazon Prime Day its better than black friday if you are into buying useless crap. This "sale" isn't worth having Prime at all.
+</context>
+</instance>
+<instance id="621359167974961153">
+<answer instance="621359167974961153" sentiment="negative"/>
+<context>
+Is it just me, or is Amazon Prime Day less Black Friday and more your weird neighbor's garage sale?
+</context>
+</instance>
+<instance id="621399334806884352">
+<answer instance="621399334806884352" sentiment="negative"/>
+<context>
+Amazon Prime day is pretty much a bust at this point. Black Friday, its up to you to save us.
+</context>
+</instance>
+<instance id="621420485411082241">
+<answer instance="621420485411082241" sentiment="negative"/>
+<context>
+Amazon Prime Day: What all the fuss is about: Amazon's Prime Day promised massive deals rivaling Black Friday,... http://t.co/DUhXiEglXm
+</context>
+</instance>
+<instance id="621422611847880704">
+<answer instance="621422611847880704" sentiment="negative"/>
+<context>
+Amazon Prime Day is to Black Friday, as a root canal is to Christmas Day.   The hype didn't live up to the delivery.
+</context>
+</instance>
+<instance id="621424730407587840">
+<answer instance="621424730407587840" sentiment="negative"/>
+<context>
+Where I truly believe Amazon failed for their Amazon Prime Day sale.... The moment they claimed it'd have "Bigger deals than Black Friday"
+</context>
+</instance>
+<instance id="621432923137257472">
+<answer instance="621432923137257472" sentiment="negative"/>
+<context>
+Amazon Prime Day beats Black Friday says retailer Amazon Prime Day may have been an excuse for the retail... http://t.co/etdwgObjC2
+</context>
+</instance>
+<instance id="621435513069813760">
+<answer instance="621435513069813760" sentiment="negative"/>
+<context>
+Well Amazon Prime Day kind of sucked, didn't it? I was hoping for much more. "Bigger than Black Friday," huh?
+</context>
+</instance>
+<instance id="621463364758212608">
+<answer instance="621463364758212608" sentiment="negative"/>
+<context>
+Was the Amazon Prime day a big hit? Well.. there's a #PrimeDayFail hashtag trending. at 5 our @PriceCBS8 reports on what may have gone wrong
+</context>
+</instance>
+<instance id="621472538737119232">
+<answer instance="621472538737119232" sentiment="negative"/>
+<context>
+Amazon Prime Day is the equivalent of drinking alone at home on a Friday night.
+</context>
+</instance>
+<instance id="621493751421239296">
+<answer instance="621493751421239296" sentiment="negative"/>
+<context>
+YOUR TURN: Amazon Prime Day was supposed to put Black Friday Shopping in the dust.  But many say it's a garage... http://t.co/JKKRkhKLOK
+</context>
+</instance>
+<instance id="621512105842343936">
+<answer instance="621512105842343936" sentiment="negative"/>
+<context>
+If Amazon Prime Day is "better than Black Friday" then I'm going to sleep in!  Should have been called Amazon Garage Sale Day!
+</context>
+</instance>
+<instance id="621515755729895424">
+<answer instance="621515755729895424" sentiment="negative"/>
+<context>
+I knew Black Friday. Black Friday was a friend of mine. And you, Amazon Prime Day, are no Black Friday.
+</context>
+</instance>
+<instance id="621522460807143424">
+<answer instance="621522460807143424" sentiment="negative"/>
+<context>
+Amazon Prime Day? Amazon Scam Day is more like it. More deals than Black Friday my ass! http://t.co/ErRgfAbaXt http://t.co/y73hvTOy9Z
+</context>
+</instance>
+<instance id="621683248851234816">
+<answer instance="621683248851234816" sentiment="negative"/>
+<context>
+Angela Merkel, explaining to a crying child that Germany might just deport her. http://t.co/56aTBHvIUR http://t.co/yxtjaitzSO
+</context>
+</instance>
+<instance id="621701633735585792">
+<answer instance="621701633735585792" sentiment="negative"/>
+<context>
+This has just brought a tear to my eye: Angela Merkel tells sobbing asylum seeker why she cannot stay in Germany http://t.co/OcpQQYNMoU
+</context>
+</instance>
+<instance id="621931197531205632">
+<answer instance="621931197531205632" sentiment="negative"/>
+<context>
+Angela Merkel and a Palestinian asylum seeker:http://t.co/skU8zM7Slh Get civilized Islam! Stop crowding our world with your barbaric ways.
+</context>
+</instance>
+<instance id="622608485704957952">
+<answer instance="622608485704957952" sentiment="negative"/>
+<context>
+@nytimes What the world needs is for Angela Merkel to kick him in the nuts the 1st time Trump calls anyone around the G8 table a loser.
+</context>
+</instance>
+<instance id="623289728708792320">
+<answer instance="623289728708792320" sentiment="negative"/>
+<context>
+@AmazonHelp Ordered PC parts on Amazon Prime Day, one day shipping, haven't received my item yet. It is now Monday. Very dissatisfied.
+</context>
+</instance>
+<instance id="627604291289772032">
+<answer instance="627604291289772032" sentiment="negative"/>
+<context>
+Angela Merkel to run for 4th term....if this happens in Africa, UN, US, G7 etc will be planning to invade the country...hypocrites #africa
+</context>
+</instance>
+<instance id="628949369883000832">
+<answer instance="628949369883000832" sentiment="negative"/>
+<context>
+dear @Microsoft the newOoffice for Mac is great and all, but no Lync update? C'mon.
+</context>
+</instance>
+<instance id="629069918315544580">
+<answer instance="629069918315544580" sentiment="negative"/>
+<context>
+Heads up: An important change to Amazon Prime effective August 1 will limit how you can share free P... http://t.co/BndStpoVJq @debtblag
+</context>
+</instance>
+<instance id="629345637155360768">
+<answer instance="629345637155360768" sentiment="negative"/>
+<context>
+@MikeWolf1980 @Microsoft I will be downgrading and let #Windows10 be out for almost the 1st yr b4 trying it again. #Windows10fail
+</context>
+</instance>
+<instance id="629797991826722816">
+<answer instance="629797991826722816" sentiment="negative"/>
+<context>
+After attempting a reinstall, it still bricks, says, "Windows cannot finish installing," or somesuch. @Microsoft may have cost me $600.
+</context>
+</instance>
+<instance id="630542330827771904">
+<answer instance="630542330827771904" sentiment="negative"/>
+<context>
+Did @Microsoft break Windows 10? Was working fine on Wednesday but now I can't get passed the login screen without it freezing up.
+</context>
+</instance>
+<instance id="631104156187627520">
+<answer instance="631104156187627520" sentiment="negative"/>
+<context>
+For the 1st time @Skype has a "High Startup impact"   Does anyone at @Microsoft have a clue? #Windows10Fail http://t.co/loO3yd5rwe
+</context>
+</instance>
+<instance id="631543121407442946">
+<answer instance="631543121407442946" sentiment="negative"/>
+<context>
+@Microsoft support for 365 has been terrible. On the phone for an hour then got dropped. So far not worth the headache. May ask for refund.
+</context>
+</instance>
+<instance id="632262593889984512">
+<answer instance="632262593889984512" sentiment="negative"/>
+<context>
+"Arriving Tuesday" is decidedly the least Prime my Amazon Prime shipping has ever been. Wha happen?
+</context>
+</instance>
+<instance id="632393299282661378">
+<answer instance="632393299282661378" sentiment="negative"/>
+<context>
+Why would anyone want to form a Metallica cover band? What is the upside-one day if they are lucky they may open for an AC/DC cover band?
+</context>
+</instance>
+<instance id="632557717895442432">
+<answer instance="632557717895442432" sentiment="negative"/>
+<context>
+@cobbo3 And what did Angela Merkel say? She's going for a 4th term. Germany is going to the dogs, right?
+</context>
+</instance>
+<instance id="632983468188696576">
+<answer instance="632983468188696576" sentiment="negative"/>
+<context>
+@Microsoft you may want to fix this... http://t.co/pxg1yPddcm
+</context>
+</instance>
+<instance id="633041928922132480">
+<answer instance="633041928922132480" sentiment="negative"/>
+<context>
+After 75 minutes of being on hold with @Microsoft in India 1-800-936-5700 "Adrian" wants to transfer my call again (3rd time) #Windows10Fail
+</context>
+</instance>
+<instance id="633183008930009088">
+<answer instance="633183008930009088" sentiment="negative"/>
+<context>
+Migration the real European crisis - Angela Merkel https://t.co/9Z5Y9kEyVk
+</context>
+</instance>
+<instance id="633594289029808128">
+<answer instance="633594289029808128" sentiment="negative"/>
+<context>
+@Microsoft Heard you are a software company. Why then is most of your software so bad that it has to be replaced by 3rd party apps?
+</context>
+</instance>
+<instance id="633931987355574273">
+<answer instance="633931987355574273" sentiment="negative"/>
+<context>
+Angela Merkel  after 10yrs in power she is seeking a 4th term.Let just imagine she was an African leader..
+</context>
+</instance>
+<instance id="634036617632546816">
+<answer instance="634036617632546816" sentiment="negative"/>
+<context>
+@Microsoft @Windows Daily windows updates suck! W/ all the $$$ and drones U have working 4 U, maybe U guys could get it right the 1st time?
+</context>
+</instance>
+<instance id="634134662621691904">
+<answer instance="634134662621691904" sentiment="negative"/>
+<context>
+Great, my cables have now been bumped from being delivered today to friday. Thanks Amazon Prime, really feeling the worth here.
+</context>
+</instance>
+<instance id="634364883040006144">
+<answer instance="634364883040006144" sentiment="negative"/>
+<context>
+I thought @Microsoft was retiring the Lumia line to give way to Surface Mobile? I guess not. https://t.co/7NRWeBqjEN
+</context>
+</instance>
+<instance id="634657299680858113">
+<answer instance="634657299680858113" sentiment="negative"/>
+<context>
+@Microsoft "For a limited time"   What about an eternally lasting NO &amp; plz shove Cortana where the sun doesn't shine http://t.co/RLKSqTMneH
+</context>
+</instance>
+<instance id="634789226140139520">
+<answer instance="634789226140139520" sentiment="negative"/>
+<context>
+Ordered 3 Amazon Prime items yesterday. One will arrive Saturday (2 days!), another Sunday (3 days?), the third on Tuesday (5 days???).
+</context>
+</instance>
+<instance id="634921865916452864">
+<answer instance="634921865916452864" sentiment="negative"/>
+<context>
+I've just been told for the 5th time that my case number "will be escalated" to a Level II tech by @MicrosoftHelps @Microsoft @Windows
+</context>
+</instance>
+<instance id="635528136743092224">
+<answer instance="635528136743092224" sentiment="negative"/>
+<context>
+Spending the day on the phone with @Microsoft. This is not how I wanted to spend my Sunday
+</context>
+</instance>
+<instance id="635676950095364096">
+<answer instance="635676950095364096" sentiment="negative"/>
+<context>
+Angela Merkel may need as many refugees due to long penises from Africa to record movies, etc ...These cultures do not belong in the EU.
+</context>
+</instance>
+<instance id="636842896524726273">
+<answer instance="636842896524726273" sentiment="negative"/>
+<context>
+@Microsoft @MicrosoftHelps For the 2nd time I have been charged for something I wasnt made aware of. Person on the phone didn't care.
+</context>
+</instance>
+<instance id="637025180687167488">
+<answer instance="637025180687167488" sentiment="negative"/>
+<context>
+@tomwarren @microsoft the lumia cityman looks terrible and its blue not Cyan?! Buttons may be too small. #Lumia 730/735 has a superior look.
+</context>
+</instance>
+<instance id="637222123476533248">
+<answer instance="637222123476533248" sentiment="negative"/>
+<context>
+Aftr network drop Amazon prime streaming deal for 2 more years make the show unsignable for 3rd season by anybdy but amazon.
+</context>
+</instance>
+<instance id="638219008542535680">
+<answer instance="638219008542535680" sentiment="negative"/>
+<context>
+@Microsoft may you PLEASE release versions of Windows when its stable Windows 10 is no where near stable!
+</context>
+</instance>
+<instance id="639102028296376320">
+<answer instance="639102028296376320" sentiment="negative"/>
+<context>
+no diff from @Microsoft with BitLocker =at some point, platforms should provide data at rest encryption built in https://t.co/KATCGJER4W
+</context>
+</instance>
+<instance id="639211402247454720">
+<answer instance="639211402247454720" sentiment="negative"/>
+<context>
+May be get @KTHopkins to do us all a favour and sink the thing with a gunboat (Leave Angela Merkel) https://t.co/k5XWF52hfM
+</context>
+</instance>
+<instance id="639451183342596096">
+<answer instance="639451183342596096" sentiment="negative"/>
+<context>
+Why does @Microsoft make it so hard to reset my @skype password? RIDICULOUS. Still not sure why password stopped working in the 1st place!
+</context>
+</instance>
+<instance id="639902509566414848">
+<answer instance="639902509566414848" sentiment="negative"/>
+<context>
+And @Microsoft's Mail, Calendar, Music, and Video apps have been rewritten for the third time in four years... https://t.co/Rn27JuMGMP
+</context>
+</instance>
+<instance id="640273126962667521">
+<answer instance="640273126962667521" sentiment="negative"/>
+<context>
+@Smith_RFKennedy @nishelo why nobody have ever said it about any country outside Africa? : why Angela Merkel ran again for a 3rd term?
+</context>
+</instance>
+<instance id="640668469315403776">
+<answer instance="640668469315403776" sentiment="negative"/>
+<context>
+@tomwarren seems like @Microsoft may have bit off more than they could chew, with the state of W10 mobile and core apps on mobile &amp; PC.
+</context>
+</instance>
+<instance id="640736865499217920">
+<answer instance="640736865499217920" sentiment="negative"/>
+<context>
+Hey @Microsoft, fuck you. I don't have Internet until Thursday and my Xbox one won't even let me sign onto my account offline.
+</context>
+</instance>
+<instance id="640871644844572672">
+<answer instance="640871644844572672" sentiment="negative"/>
+<context>
+@ @Microsoft  3rd time my Lumia handset submitted in service Centre in last 8 Months, No one is looking into it. Need replacement of my 930
+</context>
+</instance>
+<instance id="641000154636623872">
+<answer instance="641000154636623872" sentiment="negative"/>
+<context>
+Angela Merkel says border controls may have to be restored It's a pity she didn't  listen before it was too late.
+</context>
+</instance>
+<instance id="641182669821358080">
+<answer instance="641182669821358080" sentiment="negative"/>
+<context>
+A little worried about Amazon. The collection was meant to go up on Saturday but is still not available.
+</context>
+</instance>
+<instance id="641237443295973376">
+<answer instance="641237443295973376" sentiment="negative"/>
+<context>
+May all the items saved for later in your Amazon basket increase in price #moderncurses
+</context>
+</instance>
+<instance id="641350001637982209">
+<answer instance="641350001637982209" sentiment="negative"/>
+<context>
+ordered my back pack off of Amazon 3 weeks ago and it turns out they lost my package and school starts tomorrow #sick
+</context>
+</instance>
+<instance id="641382034678661120">
+<answer instance="641382034678661120" sentiment="negative"/>
+<context>
+@Lumia #Lumia @Microsoft 2nd, you guys haven't released a lumia that has a QHD screen, or takes video in 2k resolution yet.
+</context>
+</instance>
+<instance id="641439198021615616">
+<answer instance="641439198021615616" sentiment="negative"/>
+<context>
+@burninglisa omg i can't use my credit card reward points on preorders and it's not available on amazon until the 18th -_- can u wait?
+</context>
+</instance>
+<instance id="641487529703817216">
+<answer instance="641487529703817216" sentiment="negative"/>
+<context>
+Author: IF I've EVER reviewed your book, grab a screen cap NOW! Amazon may pull it down. http://t.co/jA1RTUZlBp http://t.co/hs0Lox27ez
+</context>
+</instance>
+<instance id="641503123119341568">
+<answer instance="641503123119341568" sentiment="negative"/>
+<context>
+Damnit Amazon! When you say you're going to ship something on the 8th, I expect it to ship on the 8th!
+</context>
+</instance>
+<instance id="641525132738039808">
+<answer instance="641525132738039808" sentiment="negative"/>
+<context>
+@Monomirror JELLY. Mine won't be here until Friday because Amazon are tight with shipping dates :(.
+</context>
+</instance>
+<instance id="641597227652280320">
+<answer instance="641597227652280320" sentiment="negative"/>
+<context>
+@VofEscaflowne this is the exact reason why I don't preorder Friday releases from Amazon. They always push it back to the Monday delivery.
+</context>
+</instance>
+<instance id="641628743316992001">
+<answer instance="641628743316992001" sentiment="negative"/>
+<context>
+If it's U2 I'm breaking all my Apple devices https://t.co/2QcnbFssCj
+</context>
+</instance>
+<instance id="641640461111693312">
+<answer instance="641640461111693312" sentiment="negative"/>
+<context>
+I feel like I'll lose whatever "cool person" creds I may have had by saying this, but I honestly don't care about the Apple event today.
+</context>
+</instance>
+<instance id="641649190355996672">
+<answer instance="641649190355996672" sentiment="negative"/>
+<context>
+Amazon rainforest: Lungs of the world has lost a 10th of its trees in 5 decades http://t.co/Ox3QzWX65P
+</context>
+</instance>
+<instance id="641658182792691712">
+<answer instance="641658182792691712" sentiment="negative"/>
+<context>
+Oddly the Apple event will stream to a Edge browser but not to Chrome http://t.co/Uahli9KfIW
+</context>
+</instance>
+<instance id="641662004600639488">
+<answer instance="641662004600639488" sentiment="negative"/>
+<context>
+This is even more depressing than the Apple event. https://t.co/K7FxFYrT2z
+</context>
+</instance>
+<instance id="621334741221048320">
+<answer instance="621334741221048320" sentiment="positive"/>
+<context>
+For any Amazon Prime members, today is AMAZON PRIME DAY! Which is said to be bigger than Black Friday. If you are... http://t.co/jIZZ5tQyuq
+</context>
+</instance>
+<instance id="621338343746355200">
+<answer instance="621338343746355200" sentiment="positive"/>
+<context>
+Shop on Amazon Prime Day with us!  More deals than black friday, and 7% goes back to patients http://t.co/H5vMpMz3gg
+</context>
+</instance>
+<instance id="621340194382475264">
+<answer instance="621340194382475264" sentiment="positive"/>
+<context>
+It's Amazon Prime Day using the Autism Sprinter link, it's a new as good as getting deals on a Black Friday!!... http://t.co/1jOvC3C8zf
+</context>
+</instance>
+<instance id="621342283703693312">
+<answer instance="621342283703693312" sentiment="positive"/>
+<context>
+Amazon says it's offering more deals today than Black Friday. 8 tips for taking advantage of Amazon Prime Day: http://t.co/535p9N7iYj
+</context>
+</instance>
+<instance id="621351167394729984">
+<answer instance="621351167394729984" sentiment="positive"/>
+<context>
+Amazon Prime Day is here! More deals that Black Friday! Check it out. http://t.co/XHQLLXiVq7
+</context>
+</instance>
+<instance id="621358259933462528">
+<answer instance="621358259933462528" sentiment="positive"/>
+<context>
+It's #Wishlist Wednesday! Amazon Prime Day is in full force and CNET is keeping an updated list of the best deals. http://t.co/f5adaGJNMN
+</context>
+</instance>
+<instance id="621365073701810180">
+<answer instance="621365073701810180" sentiment="positive"/>
+<context>
+Amazon Prime Day is today-more deals than Black Friday. Eligible #AmazonSmile purchases earns us 0.5% when you shop https://t.co/rcF4T9Qmjp
+</context>
+</instance>
+<instance id="621393831326576640">
+<answer instance="621393831326576640" sentiment="positive"/>
+<context>
+Tomorrow is Amazon Prime Day. FREE 30-day trial to take advantage of all the sales tomorrow. http://t.co/R0OFTOD50U
+</context>
+</instance>
+<instance id="621407198153998337">
+<answer instance="621407198153998337" sentiment="positive"/>
+<context>
+Check Out: "Amazon Prime Day just outsold Black Friday" http://t.co/83GhTyrFl5
+</context>
+</instance>
+<instance id="621411710520262656">
+<answer instance="621411710520262656" sentiment="positive"/>
+<context>
+#TheVerge Amazon Prime Day is taking over Black Friday: Amazon has created its own holiday. The company just a... http://t.co/fonw146CDG
+</context>
+</instance>
+<instance id="621440496297201664">
+<answer instance="621440496297201664" sentiment="positive"/>
+<context>
+Amazon Prime Day is here! Members can get some amazing deals today, just like Black Friday! Please consider our... http://t.co/epRatK8H33
+</context>
+</instance>
+<instance id="621449015217909760">
+<answer instance="621449015217909760" sentiment="positive"/>
+<context>
+If you are one of the many shoppers out there wanting to take advantage of Amazon Prime Day today July 15 -... http://t.co/hbQaLKwDzV
+</context>
+</instance>
+<instance id="621671816461950977">
+<answer instance="621671816461950977" sentiment="positive"/>
+<context>
+Amazon Prime Day may be over, but you can still get a great deal on this FAA-Approved Airplane Seat Belt Extender http://t.co/dTZaccOkeK
+</context>
+</instance>
+<instance id="621756352264847361">
+<answer instance="621756352264847361" sentiment="positive"/>
+<context>
+Amazon Prime Day:  34.4 million items ordered breaking all Black Friday records with 398 items ordered per second.
+</context>
+</instance>
+<instance id="621831001547927552">
+<answer instance="621831001547927552" sentiment="positive"/>
+<context>
+Have you heard about Amazon Prime day? Don't miss it - July 15th! Yay! #ad #PrepForPrime @amazon #HappyPrimeDay  http://t.co/tBGCP9MHbV
+</context>
+</instance>
+<instance id="621949181981290496">
+<answer instance="621949181981290496" sentiment="positive"/>
+<context>
+Amazon Prime Day broke sales records exceeding Black Friday 2014 sales, which had been the biggest Black Friday to date says Amazon.
+</context>
+</instance>
+<instance id="622042211618811904">
+<answer instance="622042211618811904" sentiment="positive"/>
+<context>
+Despite all the funny posts about lack of discounts...Amazon Prime Day sales beat Black Friday http://t.co/ncjCn42ZNO
+</context>
+</instance>
+<instance id="622105547253391360">
+<answer instance="622105547253391360" sentiment="positive"/>
+<context>
+Amazon Prime Day Tops Biggest Black Friday for the Company: Amazon's first Prime Da.. http://t.co/eHOSR5aTmH http://t.co/jOhD6V4ZPf
+</context>
+</instance>
+<instance id="622235808339091456">
+<answer instance="622235808339091456" sentiment="positive"/>
+<context>
+Angela Merkel is a true leader . She has to tell a 14yr girl she cant have everyone stay in Germany http://t.co/KRiuHppCiH
+</context>
+</instance>
+<instance id="627947053767749632">
+<answer instance="627947053767749632" sentiment="positive"/>
+<context>
+10 Best Apps for the Apple Watch (That May Make You Crave One) #AppleWatch http://t.co/8u629ZxTTj
+</context>
+</instance>
+<instance id="628155253758693376">
+<answer instance="628155253758693376" sentiment="positive"/>
+<context>
+Apple Watch now works with August`s designer smart lock http://t.co/bx8IAPlUdG #charlesmilander http://t.co/M2MBAyqDzP
+</context>
+</instance>
+<instance id="628854701858099200">
+<answer instance="628854701858099200" sentiment="positive"/>
+<context>
+Good to see @eamonngriffin new book available in hard copy.  Amazon Prime bringing it tomorrow.
+</context>
+</instance>
+<instance id="628925899929313280">
+<answer instance="628925899929313280" sentiment="positive"/>
+<context>
+I have discovered that Bobby's World has unlimited streaming on Amazon Prime. I may or may not be watching it while I'm on the bike.
+</context>
+</instance>
+<instance id="629231802469732352">
+<answer instance="629231802469732352" sentiment="positive"/>
+<context>
+Hammond, Clarkson and May have signed with Amazon Prime http://t.co/MMxlghe3Ja via @wordpressdotcom #AmazonPrime #Hammond #Clarkson #May
+</context>
+</instance>
+<instance id="629606784706195456">
+<answer instance="629606784706195456" sentiment="positive"/>
+<context>
+Amazon Prime summary: great if you order loads of stuff, Sunday delivery, home essentials with Now. Prime video is a nice bonus.
+</context>
+</instance>
+<instance id="629750527560142848">
+<answer instance="629750527560142848" sentiment="positive"/>
+<context>
+Anyone seen these? Just stumbled across them on Amazon Prime. looks like I may have just planned out my Friday night. http://t.co/lqQtv9cLOI
+</context>
+</instance>
+<instance id="630016985909358592">
+<answer instance="630016985909358592" sentiment="positive"/>
+<context>
+Thought BBC lost @ripper_street to Amazon Prime but delighted to see it back on TV for 3rd series. Period detective drama at its best!
+</context>
+</instance>
+<instance id="630374444830171137">
+<answer instance="630374444830171137" sentiment="positive"/>
+<context>
+Amazon Prime is pretty nice :D ordered my cousins bday presents Friday and they're already in the nearest usps location.
+</context>
+</instance>
+<instance id="630818265799921664">
+<answer instance="630818265799921664" sentiment="positive"/>
+<context>
+Innovation for jobs is just around the corner - to be exact next Wednesday 8/19 at @Microsoft http://t.co/3DK6ToZeA8 http://t.co/L2wOZcwgRb
+</context>
+</instance>
+<instance id="630939756440846337">
+<answer instance="630939756440846337" sentiment="positive"/>
+<context>
+Ahhhhh I'm getting a turntable tomorrow! Shouts to Amazon Prime one day shipping!
+</context>
+</instance>
+<instance id="631228786265096193">
+<answer instance="631228786265096193" sentiment="positive"/>
+<context>
+@AlanClayFilm Will do!  Hope you'll check out my 1st feature @SurvivingFamily on iTunes and Amazon Prime!
+</context>
+</instance>
+<instance id="631521079245307904">
+<answer instance="631521079245307904" sentiment="positive"/>
+<context>
+Top 5 most searched for Back-to-School topics -- the list may surprise you http://t.co/Xj21uMVo0p  @bing @MSFTnews #backtoschool @Microsoft
+</context>
+</instance>
+<instance id="631808336032366592">
+<answer instance="631808336032366592" sentiment="positive"/>
+<context>
+Just in time since we are almost done with the Justified Series on Amazon Prime.  &lt;g&gt; https://t.co/P2mV963TuA
+</context>
+</instance>
+<instance id="631843393971204097">
+<answer instance="631843393971204097" sentiment="positive"/>
+<context>
+@taehongmin1 We have an IOT workshop by @Microsoft at 11PM on the Friday - definitely worth going for inspiration! #HackThePlanet
+</context>
+</instance>
+<instance id="632192537156042756">
+<answer instance="632192537156042756" sentiment="positive"/>
+<context>
+This just in, new car show on Amazon Prime to be called "2nd Gear"! Cheers to @JeremyClarkson and company!
+</context>
+</instance>
+<instance id="632266628600889344">
+<answer instance="632266628600889344" sentiment="positive"/>
+<context>
+Can't beat it. Friday night, no kids, a few beers, listening to Taylor Swift....no, wait! I meant AC/DC. Motorhead!
+</context>
+</instance>
+<instance id="632358269168807936">
+<answer instance="632358269168807936" sentiment="positive"/>
+<context>
+@MikkiC1115 yes I'll be there. Also have AC/DC on the 26th and Buckcherry at Starland on the 28th before the carney!
+</context>
+</instance>
+<instance id="632436722324783104">
+<answer instance="632436722324783104" sentiment="positive"/>
+<context>
+This is on Amazon Prime! Can't wait to see it tomorrow!  http://t.co/i2iqRNdF4V
+</context>
+</instance>
+<instance id="632557193376587776">
+<answer instance="632557193376587776" sentiment="positive"/>
+<context>
+Going from AC/DC to ABBA and back again is quite the mind fuck on a Saturday morning!  Thank goodness I can handle it!!  @FizzButtonCC
+</context>
+</instance>
+<instance id="632584620811395073">
+<answer instance="632584620811395073" sentiment="positive"/>
+<context>
+@KingsHillChat love Amazon Prime just placed an order and it will be here by lunchtime tomorrow. Great for impatient shoppers like me.
+</context>
+</instance>
+<instance id="632648782199554049">
+<answer instance="632648782199554049" sentiment="positive"/>
+<context>
+Thanks to Amazon Prime I have a new phone case coming tomorrow. I don't want to do what my momma did and drop it and smash the screen.
+</context>
+</instance>
+<instance id="632884348430237696">
+<answer instance="632884348430237696" sentiment="positive"/>
+<context>
+Hello lovelies again! Super Sunday. Thai food, AC/DC raunchy dancing during warm up, you lot and the Boys. More season 1, I'm a lucky woman
+</context>
+</instance>
+<instance id="633345798109990912">
+<answer instance="633345798109990912" sentiment="positive"/>
+<context>
+Carly Fiorina may very well be the smartest woman in the world. Next to Angela Merkel, that is. https://t.co/Y520oqEh2j
+</context>
+</instance>
+<instance id="633405121976778753">
+<answer instance="633405121976778753" sentiment="positive"/>
+<context>
+@myk_saiten That's a great movie. It's on Amazon Prime too. I watched it for 3rd time last night.
+</context>
+</instance>
+<instance id="633547870327717888">
+<answer instance="633547870327717888" sentiment="positive"/>
+<context>
+Just turned 16. Hitched from Newcastle to get there. Went for AC/DC, left obsessed with Van Halen. Carefree days. https://t.co/ZwE9vSPjIK
+</context>
+</instance>
+<instance id="633628599271190528">
+<answer instance="633628599271190528" sentiment="positive"/>
+<context>
+@ProfessorF @gilwuvsyou @Microsoft @LivioDeLaCruz We already knew the media march in ideological lockstep but it is nice of him to show it.
+</context>
+</instance>
+<instance id="633679857331908608">
+<answer instance="633679857331908608" sentiment="positive"/>
+<context>
+If you haven't seen @iambigbirdmovie from my husband @chadnwalker, catch it on Amazon Prime starting Sept 5th! http://t.co/gjOyPozJZT
+</context>
+</instance>
+<instance id="633694793852407808">
+<answer instance="633694793852407808" sentiment="positive"/>
+<context>
+PAX Prime Thursday is overloaded for me with @Microsoft and Nintendo indie events going down. Also, cider!!! :p
+</context>
+</instance>
+<instance id="633827911972356096">
+<answer instance="633827911972356096" sentiment="positive"/>
+<context>
+@JustopolisTv Um, I may or may not have bought the first season on Amazon Prime and am kind of excitedly freaking out right now.
+</context>
+</instance>
+<instance id="633838929767211008">
+<answer instance="633838929767211008" sentiment="positive"/>
+<context>
+And lemme tell you why my Amazon Prime addiction is real. I COULD go to the store to purchase an umbrella, but Im online. Delivery tomorrow.
+</context>
+</instance>
+<instance id="634005885371711489">
+<answer instance="634005885371711489" sentiment="positive"/>
+<context>
+Have you heard the news? Our next meetup is on September 10th with Ryan Berry of @Microsoft! RSVP now for free -&gt; http://t.co/QOp26oct4f
+</context>
+</instance>
+<instance id="634169076210733056">
+<answer instance="634169076210733056" sentiment="positive"/>
+<context>
+Pet adoptions are $10 this Friday @BFAS_LA thanks to @Microsoft @Windows. #Upgradeyourworld with a new best friend! http://t.co/0aI2QiBbCR
+</context>
+</instance>
+<instance id="634709942088409088">
+<answer instance="634709942088409088" sentiment="positive"/>
+<context>
+Good Friday morning. This city is changing. Are you with it? #300MenMarch @targetnews @mcdonalds @BP_America @cocacola @microsoft @comcast
+</context>
+</instance>
+<instance id="634733114456166400">
+<answer instance="634733114456166400" sentiment="positive"/>
+<context>
+Fuck it. Closed the job down early to grab a flight to Boston for AC/DC concert tomorrow. Ride the highs of free money yo. #LookoutBoston
+</context>
+</instance>
+<instance id="634790760408350720">
+<answer instance="634790760408350720" sentiment="positive"/>
+<context>
+[Reddit] - If you're going to AC/DC tomorrow at Gillette, don't forget your Free Brady shirt! http://t.co/9xZibJVMvO
+</context>
+</instance>
+<instance id="634877877725569025">
+<answer instance="634877877725569025" sentiment="positive"/>
+<context>
+Did you know our Lunch&amp;Learns are now open to the public? Join us on August 31 with @asaunders from @Microsoft! https://t.co/FdPz5JcqI6
+</context>
+</instance>
+<instance id="635091272223617024">
+<answer instance="635091272223617024" sentiment="positive"/>
+<context>
+Surprising my mom with AC/DC tickets for Wednesday. Just going to show up
+</context>
+</instance>
+<instance id="635116963971342337">
+<answer instance="635116963971342337" sentiment="positive"/>
+<context>
+Sitting 14th row for AC/DC tonight!! Let's go!
+</context>
+</instance>
+<instance id="635619836538822657">
+<answer instance="635619836538822657" sentiment="positive"/>
+<context>
+Having dinner with @maysoonzayid to plan 12th annual  NY Arab American comedy festival and AC/DC walked in. But couldn't get a photo
+</context>
+</instance>
+<instance id="635795783099387904">
+<answer instance="635795783099387904" sentiment="positive"/>
+<context>
+@Microsoft - congratulations on the 20th Birth Anniversary of @Windows 95.  20 years since we've come to love you (&amp; backward compatibility)
+</context>
+</instance>
+<instance id="635858634027724800">
+<answer instance="635858634027724800" sentiment="positive"/>
+<context>
+@JakeAReid planning on AC/DC live in Moncton? Coming up sooner than later, in Montreal on the 31st. At the big "O".
+</context>
+</instance>
+<instance id="635914448121626624">
+<answer instance="635914448121626624" sentiment="positive"/>
+<context>
+Looks like @Microsoft may still be in the handset/smartphone business!  #SurfacePhone #Windows10 http://t.co/SubGXXMqlz
+</context>
+</instance>
+<instance id="635967581627650048">
+<answer instance="635967581627650048" sentiment="positive"/>
+<context>
+Angus Young's cap flew off six songs into AC/DC's set on Saturday at Gillette Stadium, but the guitarist didn't... http://t.co/36PHufBywo
+</context>
+</instance>
+<instance id="636062553009987584">
+<answer instance="636062553009987584" sentiment="positive"/>
+<context>
+Enjoying feasibility workshop replacing #Cognos with @Microsoft #BI. 4th customer in less than a year!
+</context>
+</instance>
+<instance id="636333501621661696">
+<answer instance="636333501621661696" sentiment="positive"/>
+<context>
+This time tomorrow AC/DC will be melting my fucking face off along with 82,000 other faces. #acdc #MetLife
+</context>
+</instance>
+<instance id="636391115034333185">
+<answer instance="636391115034333185" sentiment="positive"/>
+<context>
+As he stared at his monitor, the decision to puchase Amazon Prime was suddenly an easy one for Steve Sarkisian https://t.co/pql6rXVmle
+</context>
+</instance>
+<instance id="636518314508976128">
+<answer instance="636518314508976128" sentiment="positive"/>
+<context>
+The day sure snaps awake when your 1st tune is Back in Black by AC/DC !! Good Wednesday #HR !! #HRMusicShare #HRPositive
+</context>
+</instance>
+<instance id="636698611867385857">
+<answer instance="636698611867385857" sentiment="positive"/>
+<context>
+@MrsAshRick I used Amazon Prime to get Harper a Pete the Cat shirt :) Wish she could have it in time for the Pete the Cat parade tomorrow.
+</context>
+</instance>
+<instance id="636770930019053568">
+<answer instance="636770930019053568" sentiment="positive"/>
+<context>
+from September 2nd in Japan: Netflix, Amazon Prime Video + Hulu and all the other streaming services already operating. Which one to choose?
+</context>
+</instance>
+<instance id="636931785054638080">
+<answer instance="636931785054638080" sentiment="positive"/>
+<context>
+Just turned on my @pandora_radio and got The Ronettes followed by AC/DC. I just might survive Thursday if this keeps up.
+</context>
+</instance>
+<instance id="636977259736399872">
+<answer instance="636977259736399872" sentiment="positive"/>
+<context>
+For sale: one general admission ticket to AC/DC at Downsview Park on September 10th. You will have the pleasure of... http://t.co/jUDNkNCerg
+</context>
+</instance>
+<instance id="637039838580113408">
+<answer instance="637039838580113408" sentiment="positive"/>
+<context>
+When you're sick of waiting for a book to come in from BN so you ask your husband to order it via Amazon Prime. Yup. Getting it Saturday.
+</context>
+</instance>
+<instance id="637209631027261441">
+<answer instance="637209631027261441" sentiment="positive"/>
+<context>
+Treat yourself to TabletTV this Bank Holiday. Order today with Amazon Prime and you could have it tomorrow. http://t.co/WrSnRzLWI2
+</context>
+</instance>
+<instance id="637226942668771328">
+<answer instance="637226942668771328" sentiment="positive"/>
+<context>
+@AnthonyGermain bucket list tour to see AC/DC in Ottawa Thurs.  A friends first trip to ONT he's 52! (His bucket list) I will webcast ya!
+</context>
+</instance>
+<instance id="637338158997180416">
+<answer instance="637338158997180416" sentiment="positive"/>
+<context>
+@business @google @Microsoft - nothing new under the sun! History always repeats! @Bershidsky - Brilliant article, thanks.
+</context>
+</instance>
+<instance id="637453598734057472">
+<answer instance="637453598734057472" sentiment="positive"/>
+<context>
+Friday the 13th The Series is on Amazon Prime. See you all Monday
+</context>
+</instance>
+<instance id="637809432890576896">
+<answer instance="637809432890576896" sentiment="positive"/>
+<context>
+I know more about AC/DC concerts than Angus Young probably remembers and I'm only getting to witness it live on Monday. I just
+</context>
+</instance>
+<instance id="638013081818415104">
+<answer instance="638013081818415104" sentiment="positive"/>
+<context>
+I just found Quest for Camelot on Amazon Prime. My Sunday afternoon is complete
+</context>
+</instance>
+<instance id="638209440785805312">
+<answer instance="638209440785805312" sentiment="positive"/>
+<context>
+Tonight I spent 20 minutes looking for someone with Amazon Prime so I could order a Ouija board for Friday without my mom finding out #adult
+</context>
+</instance>
+<instance id="638342141572460544">
+<answer instance="638342141572460544" sentiment="positive"/>
+<context>
+If AC/DC has a really successful show on Thursday, they will get a second show, that bumps one of the One Direction shows.
+</context>
+</instance>
+<instance id="638370183984222208">
+<answer instance="638370183984222208" sentiment="positive"/>
+<context>
+Entertainment: AC/DC rocks the Big O Monday night * 69 http://t.co/yahyfeIFvj http://t.co/TJyaMT44gc
+</context>
+</instance>
+<instance id="638390556675194880">
+<answer instance="638390556675194880" sentiment="positive"/>
+<context>
+The 1st season of Hand of God, with @perlmutations, will be available 9/4 on Amazon Prime.  WTG @perlmutations!!! Loved you in Blacklist!
+</context>
+</instance>
+<instance id="638570993397682177">
+<answer instance="638570993397682177" sentiment="positive"/>
+<context>
+I can't wait to speak at @Microsoft's #MSAPC2015 event tomorrow, then fly to #NYC for the weekend, &amp; then #INBOUND15! http://t.co/WwOUjsslKt
+</context>
+</instance>
+<instance id="638683716286464001">
+<answer instance="638683716286464001" sentiment="positive"/>
+<context>
+@johnhancockcbc This is the field at TD Place as AC/DC gets ready to play on Thursday! @OttawaMorning http://t.co/3rptfPa8Vp
+</context>
+</instance>
+<instance id="638940182113161216">
+<answer instance="638940182113161216" sentiment="positive"/>
+<context>
+Less than 24 hours to make your bid for the live auction of 2 tickets to the AC/DC concert this Thursday. Tickets... http://t.co/LUcZWoeheS
+</context>
+</instance>
+<instance id="639009525958352896">
+<answer instance="639009525958352896" sentiment="positive"/>
+<context>
+@KasweshiLwiimbo @Microsoft will be presenting on the 4th I will come we talk about some stuff
+</context>
+</instance>
+<instance id="639067023054651392">
+<answer instance="639067023054651392" sentiment="positive"/>
+<context>
+If you are a frequent flier, you may want to finally get that Amazon Prime membership... http://t.co/eHXGq4I85B via @UPROXX #Flying #Amazon
+</context>
+</instance>
+<instance id="639122550287671300">
+<answer instance="639122550287671300" sentiment="positive"/>
+<context>
+Is anyone going to AC/DC at Ford field next Tuesday?
+</context>
+</instance>
+<instance id="639159279715545089">
+<answer instance="639159279715545089" sentiment="positive"/>
+<context>
+Young or old, rock fan or not, you do not wanna miss AC/DC tomorrow #supershow http://t.co/SZEFg1j02n
+</context>
+</instance>
+<instance id="639228849704804352">
+<answer instance="639228849704804352" sentiment="positive"/>
+<context>
+Grocery delivery services Instacart and Amazon Prime Now to the test in this Does it Work Wednesday: http://t.co/530E2CKNZ1
+</context>
+</instance>
+<instance id="639438669443502080">
+<answer instance="639438669443502080" sentiment="positive"/>
+<context>
+This Friday! Start your Labor Day weekend with some Led Zeppelin, Aerosmith, Van Halen and AC/DC! LAVA Rock is... http://t.co/jobDSuOqti
+</context>
+</instance>
+<instance id="639537119141175297">
+<answer instance="639537119141175297" sentiment="positive"/>
+<context>
+In honour of the Big Show we'll play nothing but AC/DC tonight on our shop sound system. Then again, because of the Big Show we may not. ;)
+</context>
+</instance>
+<instance id="639577639561359360">
+<answer instance="639577639561359360" sentiment="positive"/>
+<context>
+There's a couple here, the 3rd row from the stage, wearing a tux and long white dress... for AC/DC... Lol ok.
+</context>
+</instance>
+<instance id="639820535917092864">
+<answer instance="639820535917092864" sentiment="positive"/>
+<context>
+@festivaluprise @Microsoft Good luck to all Pitch Battlers. May the best pitch win!
+</context>
+</instance>
+<instance id="639935724033339393">
+<answer instance="639935724033339393" sentiment="positive"/>
+<context>
+Look @Qualcomm I found the 1st #Snapdragon Phone in my stuff from #Toshiba and @Microsoft. Still Working :) http://t.co/dLbuag6QDU
+</context>
+</instance>
+<instance id="640214000156848128">
+<answer instance="640214000156848128" sentiment="positive"/>
+<context>
+It's cool outside and I've got AC/DC playing inside. This is how you adult on a Saturday night.
+</context>
+</instance>
+<instance id="640356107274207232">
+<answer instance="640356107274207232" sentiment="positive"/>
+<context>
+@Sky1Ron can you get me back stage for AC/DC on Sept 25th???
+</context>
+</instance>
+<instance id="640458572422377472">
+<answer instance="640458572422377472" sentiment="positive"/>
+<context>
+Angela Merkel: Europe as a whole must help with refugees - video  (via @NewsfusionApps #World #News) http://t.co/9G3heT8DZd
+</context>
+</instance>
+<instance id="640510504159584256">
+<answer instance="640510504159584256" sentiment="positive"/>
+<context>
+Thank you to @Microsoft for inviting us to join them at the #IBCShow in Amsterdam next Thursday - http://t.co/AuaXij5BQL
+</context>
+</instance>
+<instance id="640867036328009728">
+<answer instance="640867036328009728" sentiment="positive"/>
+<context>
+Fun week ahead...holiday today...AC/DC concert tomorrow and off to San Diego on Thursday for the Lions opener on Sunday...#funtimes
+</context>
+</instance>
+<instance id="640893279605796866">
+<answer instance="640893279605796866" sentiment="positive"/>
+<context>
+AC/DC tomorrow at Ford Field. Someone is going to be tired on the second day of 6th grade. #butitshisfavoriteband \m/ \m/
+</context>
+</instance>
+<instance id="640950156054142977">
+<answer instance="640950156054142977" sentiment="positive"/>
+<context>
+@EddieTrunk wish you were at Midway, I would have bought you a beer safe travels Eddie.on way to Detroit for AC/DC tomorrow night! \m/
+</context>
+</instance>
+<instance id="640987727492722688">
+<answer instance="640987727492722688" sentiment="positive"/>
+<context>
+Should you upgrade to @Microsoft's new OS, #Windows10?  Lunch-and-Learn, in #PalmCoast, this Wednesday, Sept 9th: http://t.co/kKXfJhDGW5
+</context>
+</instance>
+<instance id="641024489870987264">
+<answer instance="641024489870987264" sentiment="positive"/>
+<context>
+#Producers Catch me in Dallas Sept 12th at the @Microsoft event.  Also at @A3C in #ATL for the On The Spot Beat Shopping!
+</context>
+</instance>
+<instance id="641050683731496960">
+<answer instance="641050683731496960" sentiment="positive"/>
+<context>
+See how cute she is on her day off? I spent my day off in my pjs watching the 1st season of Survivor on Amazon Prime http://t.co/wns6D1ZTiU
+</context>
+</instance>
+<instance id="641133565728657408">
+<answer instance="641133565728657408" sentiment="positive"/>
+<context>
+AC/DC with family tomorrow night in Detroit Rock City! LETS GO
+</context>
+</instance>
+<instance id="641188113268641792">
+<answer instance="641188113268641792" sentiment="positive"/>
+<context>
+@nbauer10 yep AC/DC tonight at Ford Field then on a plane Thursday to San Diego...
+</context>
+</instance>
+<instance id="641198931217547264">
+<answer instance="641198931217547264" sentiment="positive"/>
+<context>
+AMAZON. This amazing company sells anything available under the sun, including "Cloud". Absolute disruption.
+</context>
+</instance>
+<instance id="641235224450338821">
+<answer instance="641235224450338821" sentiment="positive"/>
+<context>
+I've just listed this book for sale on Amazon. This is the 3rd edition, revised, of a thorough, 410-page... http://t.co/Q1S6KoFDiY
+</context>
+</instance>
+<instance id="641255033636454400">
+<answer instance="641255033636454400" sentiment="positive"/>
+<context>
+Im going to see AC/DC with my dad Thurs night and I only know thunderstruck bc when I played boys hockey we were thunder aka it was our song
+</context>
+</instance>
+<instance id="641262559035830272">
+<answer instance="641262559035830272" sentiment="positive"/>
+<context>
+Nice. The Man in the High Castle will be on Amazon Instant on November 20th.
+</context>
+</instance>
+<instance id="641268293282623488">
+<answer instance="641268293282623488" sentiment="positive"/>
+<context>
+DEAL: Nexus 6 Drops to $349 at Best Buy Too: On Friday, Amazon cut the price of the Nexus 6 across the board b... http://t.co/RFBRJADxiy
+</context>
+</instance>
+<instance id="641277646056374272">
+<answer instance="641277646056374272" sentiment="positive"/>
+<context>
+Good News: @Film_Movement will be releasing us in the US. VOD, iTunes and Amazon from Oct 2nd, DVD Dec 1st - all under a new title: AMOROUS
+</context>
+</instance>
+<instance id="641286935772708870">
+<answer instance="641286935772708870" sentiment="positive"/>
+<context>
+While software may be eating the world, Amazon appears to be eating everything. Amazon Prime will soon include free restaurant delivery.
+</context>
+</instance>
+<instance id="641309506748682240">
+<answer instance="641309506748682240" sentiment="positive"/>
+<context>
+@TravellousWorld Nice to meet you on Twitter! Anything Amazon travel related you may need, we're here :) !
+</context>
+</instance>
+<instance id="641312202528567296">
+<answer instance="641312202528567296" sentiment="positive"/>
+<context>
+Yes, highly recommend "Curiosity" by Amanda - get it on Google Play, Amazon or other outlets.  https://t.co/B4sbFe14xO
+</context>
+</instance>
+<instance id="641323600822304768">
+<answer instance="641323600822304768" sentiment="positive"/>
+<context>
+@BiteThePain I ordered it from Amazon, should have it by Friday.
+</context>
+</instance>
+<instance id="641334097328140288">
+<answer instance="641334097328140288" sentiment="positive"/>
+<context>
+@SilentCoda @CobraOrlando @yankeejack I just ordered several mongoose from Amazon. They'll be on my doorstep tomorrow morning.
+</context>
+</instance>
+<instance id="641354192422989824">
+<answer instance="641354192422989824" sentiment="positive"/>
+<context>
+Since it's free on Amazon Prime, I'm gonna watch Teenage Mutant Ninja Turtles now. May the gods have mercy on my soul.
+</context>
+</instance>
+<instance id="641357479692009472">
+<answer instance="641357479692009472" sentiment="positive"/>
+<context>
+I want this. And yes, I'm playing on Amazon instead of reading for class tomorrow. Because my head is spinning. http://t.co/tCqn6T2KEv
+</context>
+</instance>
+<instance id="641367727270174720">
+<answer instance="641367727270174720" sentiment="positive"/>
+<context>
+Dont be on Amazon Prime at night. Amazon Prime is the new Home Shopping Network.You mess around &amp; have 7 blenders at your door on Thursday.
+</context>
+</instance>
+<instance id="641370873757335552">
+<answer instance="641370873757335552" sentiment="positive"/>
+<context>
+CNET Update - Amazon may be cooking up a $50 tablet  Oh My God! Welcome back @BridgetCarey I missed you so much!! http://t.co/kRWg3EQjez
+</context>
+</instance>
+<instance id="641378494757400576">
+<answer instance="641378494757400576" sentiment="positive"/>
+<context>
+@scott_trudi @seanflanery You have to put it on your Easter list: Release date is April 5th 2016. You can preorder on Amazon.
+</context>
+</instance>
+<instance id="641400681597939712">
+<answer instance="641400681597939712" sentiment="positive"/>
+<context>
+Amazon #PreOrder is #Live for Vivid!! Go Pre-Order your copy and have it on your kindle October 11th!  Amazon US:... http://t.co/ThdThD507V
+</context>
+</instance>
+<instance id="641404820855914496">
+<answer instance="641404820855914496" sentiment="positive"/>
+<context>
+Happiness cause Amazon just notified me that my Bluray version of Gotham will be here tomorrow!
+</context>
+</instance>
+<instance id="641407753383227393">
+<answer instance="641407753383227393" sentiment="positive"/>
+<context>
+OMG!  See you on Amazon! https://t.co/uU7yfD5O6E
+</context>
+</instance>
+<instance id="641426934426013696">
+<answer instance="641426934426013696" sentiment="positive"/>
+<context>
+I'll make these available on Amazon tomorrow as well! http://t.co/4mXBrJRTS9
+</context>
+</instance>
+<instance id="641462939090817024">
+<answer instance="641462939090817024" sentiment="positive"/>
+<context>
+Had this new planner on my wish list on Amazon.. Let's just say it's on the way and will be here Friday :)
+</context>
+</instance>
+<instance id="641472833076469760">
+<answer instance="641472833076469760" sentiment="positive"/>
+<context>
+@grace_march I'll check tomorrow to see if it's on Amazon or Netflix :)
+</context>
+</instance>
+<instance id="641499463316582400">
+<answer instance="641499463316582400" sentiment="positive"/>
+<context>
+ROSES ARE RED just received its 10th review on Amazon! DOUBLE DIGITS! :D... http://t.co/9Yo4yVnzSF
+</context>
+</instance>
+<instance id="641509564937076737">
+<answer instance="641509564937076737" sentiment="positive"/>
+<context>
+@auroretrav2014 ((I feel you may have a date with Amazon today!))
+</context>
+</instance>
+<instance id="641540897243561985">
+<answer instance="641540897243561985" sentiment="positive"/>
+<context>
+I ordered a 64GB Nexus 6 from Amazon a couple days ago. It just shipped and should be here on Thursday!
+</context>
+</instance>
+<instance id="641582970483146752">
+<answer instance="641582970483146752" sentiment="positive"/>
+<context>
+Good morning! 2nd day of my two day work week and then more travel tomorrow! And it's Apple event day! Yay!
+</context>
+</instance>
+<instance id="641594551224934402">
+<answer instance="641594551224934402" sentiment="positive"/>
+<context>
+Know what is event more exciting than the Apple event today? Bit Fest Thursday &amp; Friday? http://t.co/4qeOMUVvQD http://t.co/eW4TbrhNMy
+</context>
+</instance>
+<instance id="641597582880301056">
+<answer instance="641597582880301056" sentiment="positive"/>
+<context>
+In an unprecedented move, Apple is supporting streaming of today's event on "a PC with Microsoft Edge on Windows 10" http://t.co/ptAKXrcYmO
+</context>
+</instance>
+<instance id="641608077423329280">
+<answer instance="641608077423329280" sentiment="positive"/>
+<context>
+Here you go @tomiahonen: What to expect from Apple's BIG event http://t.co/oHobcFAYDo &gt;&gt; fallen off the chair with excitment.
+</context>
+</instance>
+<instance id="641611227765080064">
+<answer instance="641611227765080064" sentiment="positive"/>
+<context>
+@mcelhearn Thems the breaks. I may have made more $ from the Fire Phone than Amazon did. ;)
+</context>
+</instance>
+<instance id="641621763126902784">
+<answer instance="641621763126902784" sentiment="positive"/>
+<context>
+Email from Amazon this morning tells me the new @thebenshi book will arrive on Tuesday!  Looking forward to the #narrative on #science
+</context>
+</instance>
+<instance id="641626118949326848">
+<answer instance="641626118949326848" sentiment="positive"/>
+<context>
+.@Microsoft's patch Tuesday incorporated 56 fixes for #security #vulnerabilities - some with active #exploits http://t.co/R6Yz9m57JT insane!
+</context>
+</instance>
+<instance id="641626377142169601">
+<answer instance="641626377142169601" sentiment="positive"/>
+<context>
+Amazon Hiring Fair: $11.25 hr. with a shift differential - Free Transportation - Benefits September 10th 2015... http://t.co/DXSsyXcPD5
+</context>
+</instance>
+<instance id="641627937364512768">
+<answer instance="641627937364512768" sentiment="positive"/>
+<context>
+Goosebumps I always get before an announcement.  10AM it will be streaming on Apple's website.  Get ready! https://t.co/QGPRfDYJ8G
+</context>
+</instance>
+<instance id="641631147370352640">
+<answer instance="641631147370352640" sentiment="positive"/>
+<context>
+The Apple event starts 10 minutes after I get out of Chemistry. I may be sprinting back to my dorm to catch it in time.
+</context>
+</instance>
+<instance id="641632441665347584">
+<answer instance="641632441665347584" sentiment="positive"/>
+<context>
+@AUThackeray You may check with Amazon for Kindle as it's screen is glare free and can be read in Sunlight too.
+</context>
+</instance>
+<instance id="641634937339297792">
+<answer instance="641634937339297792" sentiment="positive"/>
+<context>
+Apple fans: today's the day to watch! #AppleEvent starts at 1pm EST. Watch it live at http://t.co/ReKWeYInd1 http://t.co/ElxJN8FkeU
+</context>
+</instance>
+<instance id="641636086398087170">
+<answer instance="641636086398087170" sentiment="positive"/>
+<context>
+Can't wait! I'm so happy I can sub on Amazon to see it!  https://t.co/idkKtz2IGQ
+</context>
+</instance>
+<instance id="641637064971128833">
+<answer instance="641637064971128833" sentiment="positive"/>
+<context>
+We will be LIVE shortly with Apple's September 9th iPhone -- and more -- launch. Starts at 9am PST. http://t.co/0RQJA8F6OU via @CNET
+</context>
+</instance>
+<instance id="641639715167465472">
+<answer instance="641639715167465472" sentiment="positive"/>
+<context>
+Looks like Apple exec @cue just confirmed we'll be seeing some big screen news today https://t.co/Fmb6Ufxaax #AppleEvent
+</context>
+</instance>
+<instance id="641640990319710208">
+<answer instance="641640990319710208" sentiment="positive"/>
+<context>
+This chick bid on the 1st showcase (bunch of Apple products). Rookie mistake. 2d showcase was a trip, a TV and a car. Her face was hilarious
+</context>
+</instance>
+<instance id="641644999164231684">
+<answer instance="641644999164231684" sentiment="positive"/>
+<context>
+@TheLegendBlue At the same time as the Apple event? Nope! Test weapons have to wait until tomorrow! ;-) #destinythegame #apple #appleevent
+</context>
+</instance>
+<instance id="641647937236373504">
+<answer instance="641647937236373504" sentiment="positive"/>
+<context>
+As Apple goes bigger/expensive on Tablets, I had a nice chat with @KatieGBurke about Amazon going smaller/cheaper https://t.co/HwE8yZ5Ul7
+</context>
+</instance>
+<instance id="641649097682874368">
+<answer instance="641649097682874368" sentiment="positive"/>
+<context>
+Rumor has it Apple is likely to unveil 3 new iPhones at their 9 Sep media event; iPhone 6s, iPhone 6s Plus,iPhone 6c http://t.co/QF8d6P1Y7R
+</context>
+</instance>
+<instance id="641651845421768704">
+<answer instance="641651845421768704" sentiment="positive"/>
+<context>
+Thats what I did with mine. I scoured Amazon for months and found a deal just like that and snatched it up so fast. https://t.co/QsooHxmirg
+</context>
+</instance>
+<instance id="641653832439562240">
+<answer instance="641653832439562240" sentiment="positive"/>
+<context>
+15 minutes until all of the Android fanboys goes squealing for the Apple's September 9th Event! ;)
+</context>
+</instance>
+<instance id="641656762588762112">
+<answer instance="641656762588762112" sentiment="positive"/>
+<context>
+Check out our live coverage of the Apple event here. http://t.co/m7GTh00fgA
+</context>
+</instance>
+<instance id="641656839952732160">
+<answer instance="641656839952732160" sentiment="positive"/>
+<context>
+#AppleEvent is about to start! Watch Apple's live stream here: http://t.co/pItt3mUI4B
+</context>
+</instance>
+<instance id="641659133863718912">
+<answer instance="641659133863718912" sentiment="positive"/>
+<context>
+Apple's @tim_cook gives an update on the projects launched in June. #AppleWatch has gate 97% satisfaction. #AppleLive http://t.co/PR2NzVygol
+</context>
+</instance>
+<instance id="641659814779715584">
+<answer instance="641659814779715584" sentiment="positive"/>
+<context>
+I don't think they'd drop the album at the Apple event, however it may explain them performing at the Apple Music event in September-A
+</context>
+</instance>
+<instance id="641661475098988544">
+<answer instance="641661475098988544" sentiment="positive"/>
+<context>
+Apple's event is streaming in stereo.  May seem minor but as a audiophile, I just love and appreciate this.
+</context>
+</instance>
+<instance id="641661703508332544">
+<answer instance="641661703508332544" sentiment="positive"/>
+<context>
+@Marnie_Riches just finished #thegirlwho pt2,Wow! just Wow! You got a date for part 3 yet? Amazon is saying March 16 but ad says October 15?
+</context>
+</instance>
+<instance id="641666486793203712">
+<answer instance="641666486793203712" sentiment="positive"/>
+<context>
+That may just be the most shocking moment of todays #AppleEvent, @Microsoft doing a demo on the new #iPadPro.....
+</context>
+</instance>
+</lexelt>
+</corpus>

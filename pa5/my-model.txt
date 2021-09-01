@@ -1,0 +1,1739 @@
+Training Data Sentiment Frequency Table:
+negative: 73
+positive: 160
+
+Training Data Word-Sentiment Pair Frequency Table:
+('negative', 'believe'):	2
+('negative', 'real'):	2
+('negative', 'leader'):	2
+('negative', 'angela'):	14
+('negative', 'disagree'):	1
+('negative', '<url>'):	22
+('negative', 'world'):	4
+('negative', '@macleansmag'):	1
+('negative', 'merkel'):	13
+('negative', 'ms'):	1
+('negative', 'may'):	16
+('negative', 'greeks'):	1
+('negative', 'still'):	4
+('negative', 'free'):	2
+('negative', 'conflicting'):	1
+('negative', 'michael'):	1
+('negative', 'berlin'):	1
+('negative', 'coalition'):	1
+('negative', 'government'):	1
+('negative', 'july'):	1
+('negative', '-'):	3
+('negative', 'nienaber'):	1
+('negative', 'sent'):	1
+('negative', 'reuters'):	1
+('negative', 'latest'):	1
+('negative', 'merkels'):	1
+('negative', 'signals'):	1
+('negative', 'parties'):	1
+('negative', 'friday'):	17
+('negative', 'day'):	18
+('negative', 'really'):	2
+('negative', 'amazon'):	30
+('negative', 'excited'):	1
+('negative', 'black'):	13
+('negative', 'sale'):	5
+('negative', 'prime'):	21
+('negative', 'butt'):	1
+('negative', 'garbage'):	1
+('negative', 'better'):	3
+('negative', 'everything'):	1
+('negative', 'worth'):	3
+('negative', 'buying'):	1
+('negative', 'isnt'):	1
+('negative', 'useless'):	1
+('negative', 'crap'):	1
+('negative', 'weird'):	1
+('negative', 'less'):	1
+('negative', 'garage'):	3
+('negative', 'neighbors'):	1
+('negative', 'point'):	2
+('negative', 'bust'):	1
+('negative', 'pretty'):	1
+('negative', 'us'):	3
+('negative', 'save'):	1
+('negative', 'much'):	2
+('negative', 'rivaling'):	1
+('negative', 'promised'):	1
+('negative', 'amazons'):	1
+('negative', 'fuss'):	1
+('negative', 'deals'):	3
+('negative', 'massive'):	1
+('negative', 'live'):	1
+('negative', 'hype'):	1
+('negative', 'delivery'):	2
+('negative', 'christmas'):	1
+('negative', 'didnt'):	4
+('negative', 'root'):	1
+('negative', 'canal'):	1
+('negative', 'failed'):	1
+('negative', 'itd'):	1
+('negative', 'claimed'):	1
+('negative', 'bigger'):	2
+('negative', 'moment'):	1
+('negative', 'truly'):	1
+('negative', 'says'):	3
+('negative', 'retailer'):	1
+('negative', 'retail'):	1
+('negative', 'excuse'):	1
+('negative', 'beats'):	1
+('negative', 'huh'):	1
+('negative', 'hoping'):	1
+('negative', 'well'):	2
+('negative', 'kind'):	1
+('negative', 'sucked'):	1
+('negative', 'hit'):	1
+('negative', 'theres'):	1
+('negative', '@pricecbs'):	1
+('negative', 'hashtag'):	1
+('negative', 'big'):	1
+('negative', '#primedayfail'):	1
+('negative', 'gone'):	1
+('negative', 'wrong'):	1
+('negative', 'reports'):	1
+('negative', 'trending'):	1
+('negative', 'alone'):	1
+('negative', 'night'):	1
+('negative', 'equivalent'):	1
+('negative', 'drinking'):	1
+('negative', 'home'):	1
+('negative', 'supposed'):	1
+('negative', 'many'):	2
+('negative', 'say'):	3
+('negative', 'dust'):	1
+('negative', 'turn'):	1
+('negative', 'put'):	1
+('negative', 'shopping'):	1
+('negative', 'im'):	2
+('negative', 'sleep'):	1
+('negative', 'going'):	3
+('negative', 'called'):	1
+('negative', 'friend'):	1
+('negative', 'mine'):	2
+('negative', 'knew'):	1
+('negative', 'like'):	3
+('negative', 'scam'):	1
+('negative', 'ass'):	1
+('negative', 'child'):	1
+('negative', 'germany'):	3
+('negative', 'explaining'):	1
+('negative', 'deport'):	1
+('negative', 'might'):	1
+('negative', 'crying'):	1
+('negative', 'stay'):	1
+('negative', 'brought'):	1
+('negative', 'seeker'):	2
+('negative', 'cannot'):	2
+('negative', 'asylum'):	2
+('negative', 'tells'):	1
+('negative', 'tear'):	1
+('negative', 'sobbing'):	1
+('negative', 'eye'):	1
+('negative', 'islam'):	1
+('negative', 'barbaric'):	1
+('negative', 'palestinian'):	1
+('negative', 'civilized'):	1
+('negative', 'stop'):	1
+('negative', 'get'):	4
+('negative', 'crowding'):	1
+('negative', 'ways'):	1
+('negative', 'needs'):	1
+('negative', 'kick'):	1
+('negative', 'g'):	2
+('negative', 'time'):	9
+('negative', 'around'):	1
+('negative', '@nytimes'):	1
+('negative', 'trump'):	1
+('negative', 'table'):	1
+('negative', 'anyone'):	3
+('negative', 'st'):	5
+('negative', 'nuts'):	1
+('negative', 'loser'):	1
+('negative', 'calls'):	1
+('negative', 'havent'):	2
+('negative', '@amazonhelp'):	1
+('negative', 'received'):	1
+('negative', 'pc'):	2
+('negative', 'dissatisfied'):	1
+('negative', 'item'):	1
+('negative', 'one'):	4
+('negative', 'shipping'):	3
+('negative', 'yet'):	2
+('negative', 'ordered'):	3
+('negative', 'monday'):	2
+('negative', 'parts'):	1
+('negative', 'happens'):	1
+('negative', 'hypocrites'):	1
+('negative', 'country'):	2
+('negative', '#africa'):	1
+('negative', 'th'):	7
+('negative', 'planning'):	1
+('negative', 'etc'):	2
+('negative', 'term'):	4
+('negative', 'invade'):	1
+('negative', 'africa'):	3
+('negative', 'run'):	1
+('negative', 'un'):	1
+('negative', '@microsoft'):	23
+('negative', 'dear'):	1
+('negative', 'lync'):	1
+('negative', 'cmon'):	1
+('negative', 'update'):	1
+('negative', 'great'):	2
+('negative', 'newooffice'):	1
+('negative', 'mac'):	1
+('negative', 'share'):	1
+('negative', 'important'):	1
+('negative', 'change'):	1
+('negative', 'limit'):	1
+('negative', 'p'):	1
+('negative', 'august'):	1
+('negative', 'effective'):	1
+('negative', 'heads'):	1
+('negative', '@debtblag'):	1
+('negative', 'fail'):	3
+('negative', '@mikewolf'):	1
+('negative', 'yr'):	1
+('negative', 'trying'):	1
+('negative', 'b'):	1
+('negative', 'let'):	3
+('negative', 'downgrading'):	1
+('negative', '#windows'):	3
+('negative', 'almost'):	1
+('negative', 'attempting'):	1
+('negative', 'finish'):	1
+('negative', 'installing'):	1
+('negative', 'cost'):	1
+('negative', 'somesuch'):	1
+('negative', 'windows'):	4
+('negative', '$'):	1
+('negative', 'reinstall'):	1
+('negative', 'bricks'):	1
+('negative', 'cant'):	2
+('negative', 'without'):	1
+('negative', 'passed'):	1
+('negative', 'screen'):	3
+('negative', 'wednesday'):	1
+('negative', 'login'):	1
+('negative', 'freezing'):	1
+('negative', 'fine'):	1
+('negative', 'working'):	3
+('negative', 'break'):	1
+('negative', '@skype'):	2
+('negative', 'startup'):	1
+('negative', 'high'):	1
+('negative', 'clue'):	1
+('negative', 'impact'):	1
+('negative', 'dropped'):	1
+('negative', 'headache'):	1
+('negative', 'got'):	1
+('negative', 'far'):	1
+('negative', 'phone'):	3
+('negative', 'hour'):	1
+('negative', 'support'):	1
+('negative', 'ask'):	1
+('negative', 'refund'):	1
+('negative', 'terrible'):	2
+('negative', 'tuesday'):	2
+('negative', 'least'):	1
+('negative', 'ever'):	3
+('negative', 'arriving'):	1
+('negative', 'wha'):	1
+('negative', 'happen'):	1
+('negative', 'decidedly'):	1
+('negative', 'want'):	2
+('negative', 'metallica'):	1
+('negative', 'open'):	1
+('negative', 'would'):	1
+('negative', 'ac/dc'):	1
+('negative', 'band'):	1
+('negative', 'lucky'):	1
+('negative', 'upside-one'):	1
+('negative', 'cover'):	1
+('negative', 'form'):	1
+('negative', 'right'):	2
+('negative', '@cobbo'):	1
+('negative', 'shes'):	1
+('negative', 'dogs'):	1
+('negative', 'fix'):	1
+('negative', 'hold'):	1
+('negative', 'minutes'):	1
+('negative', 'india'):	1
+('negative', 'call'):	1
+('negative', 'wants'):	1
+('negative', 'transfer'):	1
+('negative', 'adrian'):	1
+('negative', 'rd'):	5
+('negative', 'migration'):	1
+('negative', 'european'):	1
+('negative', 'crisis'):	1
+('negative', 'apps'):	3
+('negative', 'bad'):	1
+('negative', 'party'):	1
+('negative', 'replaced'):	1
+('negative', 'heard'):	1
+('negative', 'software'):	1
+('negative', 'company'):	1
+('negative', 'power'):	1
+('negative', 'seeking'):	1
+('negative', 'yrs'):	1
+('negative', 'african'):	1
+('negative', 'imagine'):	1
+('negative', 'daily'):	1
+('negative', '$$$'):	1
+('negative', 'drones'):	1
+('negative', 'w/'):	1
+('negative', 'guys'):	2
+('negative', 'could'):	2
+('negative', 'updates'):	1
+('negative', '@windows'):	2
+('negative', 'maybe'):	1
+('negative', 'u'):	3
+('negative', 'suck'):	1
+('negative', 'bumped'):	1
+('negative', 'cables'):	1
+('negative', 'delivered'):	1
+('negative', 'today'):	2
+('negative', 'feeling'):	1
+('negative', 'thanks'):	1
+('negative', 'mobile'):	2
+('negative', 'retiring'):	1
+('negative', 'surface'):	1
+('negative', 'way'):	1
+('negative', 'guess'):	1
+('negative', 'give'):	1
+('negative', 'thought'):	1
+('negative', 'lumia'):	4
+('negative', 'line'):	1
+('negative', 'shine'):	1
+('negative', 'cortana'):	1
+('negative', 'shove'):	1
+('negative', 'sun'):	1
+('negative', 'eternally'):	1
+('negative', 'plz'):	1
+('negative', 'limited'):	1
+('negative', 'lasting'):	1
+('negative', 'doesnt'):	1
+('negative', '&amp'):	2
+('negative', 'sunday'):	2
+('negative', 'third'):	2
+('negative', 'saturday'):	2
+('negative', 'yesterday'):	1
+('negative', 'another'):	1
+('negative', 'days'):	1
+('negative', 'arrive'):	1
+('negative', 'items'):	2
+('negative', 'ii'):	1
+('negative', 'escalated'):	1
+('negative', 'level'):	1
+('negative', 'ive'):	2
+('negative', '@microsofthelps'):	2
+('negative', 'tech'):	1
+('negative', 'number'):	1
+('negative', 'case'):	1
+('negative', 'told'):	1
+('negative', 'spend'):	1
+('negative', 'wanted'):	1
+('negative', 'spending'):	1
+('negative', 'refugees'):	1
+('negative', 'need'):	2
+('negative', 'due'):	1
+('negative', 'eu'):	1
+('negative', 'penises'):	1
+('negative', 'movies'):	1
+('negative', 'belong'):	1
+('negative', 'long'):	1
+('negative', 'record'):	1
+('negative', 'cultures'):	1
+('negative', 'care'):	2
+('negative', 'charged'):	1
+('negative', 'made'):	1
+('negative', 'something'):	2
+('negative', 'aware'):	1
+('negative', 'wasnt'):	1
+('negative', 'nd'):	2
+('negative', 'person'):	2
+('negative', 'blue'):	1
+('negative', '/'):	1
+('negative', '@tomwarren'):	2
+('negative', 'look'):	1
+('negative', 'cyan'):	1
+('negative', 'looks'):	1
+('negative', 'small'):	1
+('negative', 'superior'):	1
+('negative', '#lumia'):	2
+('negative', 'buttons'):	1
+('negative', 'cityman'):	1
+('negative', 'unsignable'):	1
+('negative', 'aftr'):	1
+('negative', 'network'):	1
+('negative', 'drop'):	1
+('negative', 'show'):	1
+('negative', 'make'):	2
+('negative', 'streaming'):	1
+('negative', 'anybdy'):	1
+('negative', 'deal'):	1
+('negative', 'season'):	1
+('negative', 'years'):	2
+('negative', 'versions'):	1
+('negative', 'near'):	1
+('negative', 'release'):	1
+('negative', 'stable'):	1
+('negative', 'please'):	1
+('negative', 'rest'):	1
+('negative', 'built'):	1
+('negative', 'encryption'):	1
+('negative', 'provide'):	1
+('negative', '=at'):	1
+('negative', 'diff'):	1
+('negative', 'platforms'):	1
+('negative', 'bitlocker'):	1
+('negative', 'data'):	1
+('negative', 'gunboat'):	1
+('negative', 'thing'):	1
+('negative', 'leave'):	1
+('negative', '@kthopkins'):	1
+('negative', 'sink'):	1
+('negative', 'favour'):	1
+('negative', 'reset'):	1
+('negative', 'hard'):	1
+('negative', 'sure'):	1
+('negative', 'ridiculous'):	1
+('negative', 'place'):	1
+('negative', 'stopped'):	1
+('negative', 'password'):	1
+('negative', 'rewritten'):	1
+('negative', 'four'):	1
+('negative', '@microsofts'):	1
+('negative', 'calendar'):	1
+('negative', 'video'):	2
+('negative', 'mail'):	1
+('negative', 'music'):	1
+('negative', '@nishelo'):	1
+('negative', 'outside'):	1
+('negative', 'said'):	1
+('negative', 'ran'):	1
+('negative', 'nobody'):	1
+('negative', '@smith_rfkennedy'):	1
+('negative', 'bit'):	1
+('negative', 'chew'):	1
+('negative', 'core'):	1
+('negative', 'seems'):	1
+('negative', 'w'):	1
+('negative', 'state'):	1
+('negative', 'even'):	2
+('negative', 'onto'):	1
+('negative', 'sign'):	1
+('negative', 'offline'):	1
+('negative', 'wont'):	2
+('negative', 'thursday'):	1
+('negative', 'internet'):	1
+('negative', 'fuck'):	1
+('negative', 'account'):	1
+('negative', 'xbox'):	1
+('negative', 'hey'):	1
+('negative', 'dont'):	3
+('negative', '@'):	1
+('negative', 'looking'):	1
+('negative', 'replacement'):	1
+('negative', 'last'):	1
+('negative', 'centre'):	1
+('negative', 'submitted'):	1
+('negative', 'months'):	1
+('negative', 'service'):	1
+('negative', 'handset'):	1
+('negative', 'listen'):	1
+('negative', 'controls'):	1
+('negative', 'restored'):	1
+('negative', 'late'):	1
+('negative', 'pity'):	1
+('negative', 'border'):	1
+('negative', 'available'):	2
+('negative', 'worried'):	1
+('negative', 'meant'):	1
+('negative', 'collection'):	1
+('negative', 'little'):	1
+('negative', 'go'):	1
+('negative', 'price'):	1
+('negative', 'increase'):	1
+('negative', 'basket'):	1
+('negative', '#moderncurses'):	1
+('negative', 'later'):	1
+('negative', 'saved'):	1
+('negative', 'starts'):	1
+('negative', 'back'):	2
+('negative', 'weeks'):	1
+('negative', 'turns'):	1
+('negative', 'tomorrow'):	1
+('negative', '#sick'):	1
+('negative', 'pack'):	1
+('negative', 'school'):	1
+('negative', 'lost'):	2
+('negative', 'package'):	1
+('negative', 'ago'):	1
+('negative', 'released'):	1
+('negative', 'resolution'):	1
+('negative', 'k'):	1
+('negative', '@lumia'):	1
+('negative', 'takes'):	1
+('negative', 'qhd'):	1
+('negative', '-_-'):	1
+('negative', 'wait'):	1
+('negative', '@burninglisa'):	1
+('negative', 'credit'):	1
+('negative', 'reward'):	1
+('negative', 'omg'):	1
+('negative', 'use'):	1
+('negative', 'points'):	1
+('negative', 'card'):	1
+('negative', 'preorders'):	1
+('negative', 'author'):	1
+('negative', 'book'):	1
+('negative', 'pull'):	1
+('negative', 'reviewed'):	1
+('negative', 'grab'):	1
+('negative', 'cap'):	1
+('negative', 'youre'):	1
+('negative', 'ship'):	1
+('negative', 'damnit'):	1
+('negative', 'expect'):	1
+('negative', 'tight'):	1
+('negative', 'jelly'):	1
+('negative', '@monomirror'):	1
+('negative', 'dates'):	1
+('negative', '<sad>'):	1
+('negative', '@vofescaflowne'):	1
+('negative', 'exact'):	1
+('negative', 'preorder'):	1
+('negative', 'push'):	1
+('negative', 'releases'):	1
+('negative', 'always'):	1
+('negative', 'reason'):	1
+('negative', 'apple'):	4
+('negative', 'breaking'):	1
+('negative', 'devices'):	1
+('negative', 'cool'):	1
+('negative', 'event'):	3
+('negative', 'creds'):	1
+('negative', 'feel'):	1
+('negative', 'whatever'):	1
+('negative', 'lose'):	1
+('negative', 'honestly'):	1
+('negative', 'ill'):	1
+('negative', 'saying'):	1
+('negative', 'lungs'):	1
+('negative', 'trees'):	1
+('negative', 'decades'):	1
+('negative', 'rainforest'):	1
+('negative', 'chrome'):	1
+('negative', 'stream'):	1
+('negative', 'browser'):	1
+('negative', 'oddly'):	1
+('negative', 'edge'):	1
+('negative', 'depressing'):	1
+('positive', 'today'):	9
+('positive', 'friday'):	26
+('positive', 'day'):	25
+('positive', 'amazon'):	80
+('positive', '<url>'):	75
+('positive', 'black'):	14
+('positive', 'bigger'):	1
+('positive', 'members'):	2
+('positive', 'prime'):	52
+('positive', 'said'):	1
+('positive', 'back'):	7
+('positive', 'shop'):	3
+('positive', 'goes'):	3
+('positive', '%'):	3
+('positive', 'us'):	6
+('positive', 'deals'):	7
+('positive', 'patients'):	1
+('positive', 'sprinter'):	1
+('positive', 'new'):	13
+('positive', 'getting'):	4
+('positive', 'using'):	1
+('positive', 'autism'):	1
+('positive', 'good'):	7
+('positive', 'link'):	1
+('positive', 'offering'):	1
+('positive', 'says'):	3
+('positive', 'taking'):	2
+('positive', 'advantage'):	3
+('positive', 'tips'):	1
+('positive', 'check'):	6
+('positive', 'force'):	1
+('positive', 'keeping'):	1
+('positive', 'full'):	1
+('positive', 'cnet'):	2
+('positive', 'wednesday'):	6
+('positive', 'updated'):	1
+('positive', '#wishlist'):	1
+('positive', 'list'):	5
+('positive', 'best'):	6
+('positive', '#amazonsmile'):	1
+('positive', 'eligible'):	1
+('positive', 'earns'):	1
+('positive', 'today-more'):	1
+('positive', 'purchases'):	1
+('positive', 'take'):	2
+('positive', 'trial'):	1
+('positive', 'tomorrow'):	25
+('positive', '-day'):	1
+('positive', 'sales'):	3
+('positive', 'free'):	8
+('positive', 'outsold'):	1
+('positive', '#theverge'):	1
+('positive', 'created'):	1
+('positive', 'holiday'):	3
+('positive', 'company'):	4
+('positive', 'like'):	6
+('positive', 'amazing'):	2
+('positive', 'consider'):	1
+('positive', 'get'):	11
+('positive', 'please'):	1
+('positive', 'wanting'):	1
+('positive', 'many'):	1
+('positive', 'july'):	2
+('positive', '-'):	14
+('positive', 'one'):	7
+('positive', 'shoppers'):	2
+('positive', 'belt'):	1
+('positive', 'seat'):	1
+('positive', 'airplane'):	1
+('positive', 'faa-approved'):	1
+('positive', 'great'):	4
+('positive', 'may'):	23
+('positive', 'extender'):	1
+('positive', 'still'):	3
+('positive', 'deal'):	3
+('positive', 'second'):	3
+('positive', 'records'):	2
+('positive', 'breaking'):	1
+('positive', 'million'):	1
+('positive', 'ordered'):	5
+('positive', 'per'):	1
+('positive', 'items'):	1
+('positive', '@amazon'):	1
+('positive', '#prepforprime'):	1
+('positive', '#happyprimeday'):	1
+('positive', '#ad'):	1
+('positive', 'yay'):	2
+('positive', 'th'):	22
+('positive', 'heard'):	2
+('positive', 'dont'):	5
+('positive', 'miss'):	2
+('positive', 'biggest'):	2
+('positive', 'broke'):	1
+('positive', 'exceeding'):	1
+('positive', 'date'):	4
+('positive', 'posts'):	1
+('positive', 'lack'):	1
+('positive', 'discounts'):	1
+('positive', 'beat'):	3
+('positive', 'despite'):	1
+('positive', 'funny'):	1
+('positive', 'da'):	1
+('positive', 'amazons'):	1
+('positive', 'tops'):	1
+('positive', 'first'):	3
+('positive', 'girl'):	1
+('positive', 'stay'):	1
+('positive', 'cant'):	5
+('positive', 'everyone'):	1
+('positive', 'germany'):	1
+('positive', 'yr'):	1
+('positive', 'angela'):	3
+('positive', 'leader'):	1
+('positive', 'tell'):	2
+('positive', 'merkel'):	3
+('positive', 'true'):	1
+('positive', 'apps'):	1
+('positive', '#applewatch'):	2
+('positive', 'watch'):	5
+('positive', 'apple'):	14
+('positive', 'make'):	3
+('positive', 'crave'):	1
+('positive', 'works'):	1
+('positive', '#charlesmilander'):	1
+('positive', 'smart'):	1
+('positive', 'august`s'):	1
+('positive', 'designer'):	1
+('positive', 'lock'):	1
+('positive', 'copy'):	2
+('positive', 'see'):	10
+('positive', '@eamonngriffin'):	1
+('positive', 'available'):	4
+('positive', 'bringing'):	1
+('positive', 'hard'):	1
+('positive', 'book'):	4
+('positive', 'im'):	9
+('positive', 'bike'):	1
+('positive', 'world'):	3
+('positive', 'unlimited'):	1
+('positive', 'streaming'):	5
+('positive', 'bobbys'):	1
+('positive', 'discovered'):	1
+('positive', 'watching'):	2
+('positive', 'via'):	5
+('positive', '@wordpressdotcom'):	1
+('positive', '#hammond'):	1
+('positive', 'clarkson'):	1
+('positive', 'signed'):	1
+('positive', '#clarkson'):	1
+('positive', '#may'):	1
+('positive', '#amazonprime'):	1
+('positive', 'hammond'):	1
+('positive', 'order'):	5
+('positive', 'sunday'):	4
+('positive', 'essentials'):	1
+('positive', 'bonus'):	1
+('positive', 'summary'):	1
+('positive', 'delivery'):	4
+('positive', 'loads'):	1
+('positive', 'nice'):	6
+('positive', 'video'):	3
+('positive', 'stuff'):	3
+('positive', 'home'):	2
+('positive', 'planned'):	1
+('positive', 'stumbled'):	1
+('positive', 'night'):	9
+('positive', 'seen'):	2
+('positive', 'across'):	2
+('positive', 'looks'):	3
+('positive', 'anyone'):	2
+('positive', '@ripper_street'):	1
+('positive', 'drama'):	1
+('positive', 'delighted'):	1
+('positive', 'period'):	1
+('positive', 'thought'):	1
+('positive', 'series'):	3
+('positive', 'rd'):	4
+('positive', 'tv'):	2
+('positive', 'lost'):	1
+('positive', 'bbc'):	1
+('positive', 'detective'):	1
+('positive', 'theyre'):	1
+('positive', 'nearest'):	1
+('positive', 'already'):	3
+('positive', 'usps'):	1
+('positive', 'presents'):	1
+('positive', 'pretty'):	1
+('positive', 'd'):	3
+('positive', 'bday'):	1
+('positive', 'location'):	1
+('positive', 'cousins'):	1
+('positive', 'jobs'):	1
+('positive', 'corner'):	1
+('positive', '@microsoft'):	19
+('positive', 'around'):	2
+('positive', 'exact'):	1
+('positive', '/'):	2
+('positive', 'next'):	5
+('positive', 'innovation'):	1
+('positive', 'ahhhhh'):	1
+('positive', 'shouts'):	1
+('positive', 'shipping'):	1
+('positive', 'turntable'):	1
+('positive', 'youll'):	1
+('positive', '@alanclayfilm'):	1
+('positive', '@survivingfamily'):	1
+('positive', 'feature'):	1
+('positive', 'itunes'):	2
+('positive', 'hope'):	1
+('positive', 'st'):	8
+('positive', '--'):	2
+('positive', '@msftnews'):	1
+('positive', 'top'):	1
+('positive', 'surprise'):	1
+('positive', 'searched'):	1
+('positive', 'topics'):	1
+('positive', '#backtoschool'):	1
+('positive', '@bing'):	1
+('positive', 'back-to-school'):	1
+('positive', 'since'):	3
+('positive', 'time'):	6
+('positive', '&lt'):	1
+('positive', 'done'):	1
+('positive', 'justified'):	1
+('positive', 'almost'):	1
+('positive', 'g&gt'):	1
+('positive', 'worth'):	1
+('positive', 'definitely'):	1
+('positive', 'pm'):	2
+('positive', 'iot'):	1
+('positive', 'workshop'):	2
+('positive', '@taehongmin'):	1
+('positive', '#hacktheplanet'):	1
+('positive', 'going'):	9
+('positive', 'inspiration'):	1
+('positive', 'car'):	2
+('positive', 'cheers'):	1
+('positive', 'show'):	5
+('positive', '@jeremyclarkson'):	1
+('positive', 'called'):	1
+('positive', 'nd'):	4
+('positive', 'gear'):	1
+('positive', 'beers'):	1
+('positive', 'ac/dc'):	34
+('positive', 'wait'):	5
+('positive', 'swift'):	1
+('positive', 'meant'):	1
+('positive', 'motorhead'):	1
+('positive', 'listening'):	1
+('positive', 'kids'):	1
+('positive', 'taylor'):	1
+('positive', '@mikkic'):	1
+('positive', 'buckcherry'):	1
+('positive', 'yes'):	3
+('positive', 'also'):	3
+('positive', 'starland'):	1
+('positive', 'carney'):	1
+('positive', 'ill'):	3
+('positive', 'morning'):	5
+('positive', 'mind'):	1
+('positive', 'thank'):	2
+('positive', 'saturday'):	4
+('positive', 'fuck'):	2
+('positive', '@fizzbuttoncc'):	1
+('positive', 'abba'):	1
+('positive', 'goodness'):	1
+('positive', 'quite'):	1
+('positive', 'handle'):	1
+('positive', 'impatient'):	1
+('positive', 'lunchtime'):	1
+('positive', '@kingshillchat'):	1
+('positive', 'love'):	3
+('positive', 'placed'):	1
+('positive', 'want'):	3
+('positive', 'momma'):	1
+('positive', 'phone'):	3
+('positive', 'drop'):	2
+('positive', 'screen'):	3
+('positive', 'smash'):	1
+('positive', 'coming'):	2
+('positive', 'case'):	1
+('positive', 'thanks'):	3
+('positive', 'food'):	1
+('positive', 'thai'):	1
+('positive', 'hello'):	1
+('positive', 'woman'):	2
+('positive', 'lot'):	1
+('positive', 'raunchy'):	1
+('positive', 'boys'):	2
+('positive', 'lucky'):	1
+('positive', 'warm'):	1
+('positive', 'season'):	4
+('positive', 'super'):	1
+('positive', 'dancing'):	1
+('positive', 'lovelies'):	1
+('positive', 'fiorina'):	1
+('positive', 'smartest'):	1
+('positive', 'well'):	4
+('positive', 'carly'):	1
+('positive', 'watched'):	1
+('positive', 'last'):	1
+('positive', '@myk_saiten'):	1
+('positive', 'movie'):	1
+('positive', 'thats'):	2
+('positive', 'carefree'):	1
+('positive', 'van'):	2
+('positive', 'halen'):	2
+('positive', 'newcastle'):	1
+('positive', 'obsessed'):	1
+('positive', 'left'):	1
+('positive', 'days'):	2
+('positive', 'turned'):	2
+('positive', 'hitched'):	1
+('positive', 'went'):	1
+('positive', '@liviodelacruz'):	1
+('positive', '@gilwuvsyou'):	1
+('positive', 'media'):	2
+('positive', 'lockstep'):	1
+('positive', 'ideological'):	1
+('positive', '@professorf'):	1
+('positive', 'march'):	2
+('positive', 'knew'):	1
+('positive', 'husband'):	2
+('positive', 'havent'):	1
+('positive', '@iambigbirdmovie'):	1
+('positive', 'starting'):	1
+('positive', '@chadnwalker'):	1
+('positive', 'catch'):	3
+('positive', 'sept'):	4
+('positive', 'events'):	1
+('positive', 'overloaded'):	1
+('positive', 'pax'):	1
+('positive', 'p'):	1
+('positive', 'nintendo'):	1
+('positive', 'indie'):	1
+('positive', 'cider'):	1
+('positive', 'thursday'):	11
+('positive', 'excitedly'):	1
+('positive', 'right'):	1
+('positive', 'bought'):	2
+('positive', 'kind'):	1
+('positive', 'um'):	1
+('positive', 'freaking'):	1
+('positive', '@justopolistv'):	1
+('positive', 'online'):	1
+('positive', 'real'):	1
+('positive', 'purchase'):	1
+('positive', 'could'):	4
+('positive', 'lemme'):	1
+('positive', 'addiction'):	1
+('positive', 'umbrella'):	1
+('positive', 'go'):	5
+('positive', 'store'):	1
+('positive', 'news'):	3
+('positive', 'ryan'):	1
+('positive', 'rsvp'):	1
+('positive', 'berry'):	1
+('positive', 'september'):	6
+('positive', 'meetup'):	1
+('positive', '-&gt'):	1
+('positive', '@bfas_la'):	1
+('positive', 'friend'):	1
+('positive', '$'):	5
+('positive', 'adoptions'):	1
+('positive', '#upgradeyourworld'):	1
+('positive', '@windows'):	2
+('positive', 'pet'):	1
+('positive', 'changing'):	1
+('positive', '@cocacola'):	1
+('positive', '@bp_america'):	1
+('positive', '#'):	1
+('positive', '@mcdonalds'):	1
+('positive', 'city'):	2
+('positive', '@comcast'):	1
+('positive', '@targetnews'):	1
+('positive', 'menmarch'):	1
+('positive', 'concert'):	3
+('positive', 'money'):	1
+('positive', 'ride'):	1
+('positive', 'closed'):	1
+('positive', 'boston'):	1
+('positive', 'flight'):	1
+('positive', 'job'):	1
+('positive', 'highs'):	1
+('positive', 'yo'):	1
+('positive', 'early'):	1
+('positive', '#lookoutboston'):	1
+('positive', 'grab'):	1
+('positive', 'youre'):	2
+('positive', 'brady'):	1
+('positive', 'shirt'):	2
+('positive', '[reddit]'):	1
+('positive', 'gillette'):	2
+('positive', 'forget'):	1
+('positive', 'learns'):	1
+('positive', 'open'):	1
+('positive', 'know'):	4
+('positive', 'august'):	1
+('positive', '@asaunders'):	1
+('positive', 'public'):	1
+('positive', 'lunch&amp'):	1
+('positive', 'join'):	2
+('positive', 'mom'):	2
+('positive', 'tickets'):	2
+('positive', 'surprising'):	1
+('positive', 'sitting'):	1
+('positive', 'tonight'):	4
+('positive', 'row'):	2
+('positive', 'lets'):	3
+('positive', 'walked'):	1
+('positive', 'dinner'):	1
+('positive', 'plan'):	1
+('positive', 'comedy'):	1
+('positive', 'ny'):	1
+('positive', 'photo'):	1
+('positive', 'couldnt'):	1
+('positive', 'annual'):	1
+('positive', 'american'):	1
+('positive', 'arab'):	1
+('positive', '@maysoonzayid'):	1
+('positive', 'festival'):	1
+('positive', 'backward'):	1
+('positive', 'compatibility'):	1
+('positive', 'anniversary'):	1
+('positive', 'weve'):	1
+('positive', 'congratulations'):	1
+('positive', 'come'):	3
+('positive', 'years'):	1
+('positive', '&amp'):	4
+('positive', 'birth'):	1
+('positive', '@jakeareid'):	1
+('positive', 'sooner'):	1
+('positive', 'moncton'):	1
+('positive', 'live'):	7
+('positive', 'o'):	2
+('positive', 'planning'):	1
+('positive', 'montreal'):	1
+('positive', 'big'):	5
+('positive', 'later'):	1
+('positive', 'handset/smartphone'):	1
+('positive', 'business'):	1
+('positive', '#windows'):	2
+('positive', '#surfacephone'):	1
+('positive', 'flew'):	1
+('positive', 'stadium'):	1
+('positive', 'songs'):	1
+('positive', 'youngs'):	1
+('positive', 'ac/dcs'):	1
+('positive', 'angus'):	2
+('positive', 'six'):	1
+('positive', 'set'):	1
+('positive', 'didnt'):	1
+('positive', 'guitarist'):	1
+('positive', 'cap'):	1
+('positive', 'year'):	1
+('positive', '#cognos'):	1
+('positive', 'customer'):	1
+('positive', 'replacing'):	1
+('positive', 'less'):	2
+('positive', 'feasibility'):	1
+('positive', '#bi'):	1
+('positive', 'enjoying'):	1
+('positive', 'fucking'):	1
+('positive', 'faces'):	1
+('positive', 'along'):	1
+('positive', '#acdc'):	1
+('positive', '#metlife'):	1
+('positive', 'face'):	2
+('positive', 'melting'):	1
+('positive', 'easy'):	1
+('positive', 'sarkisian'):	1
+('positive', 'decision'):	1
+('positive', 'monitor'):	1
+('positive', 'steve'):	1
+('positive', 'stared'):	1
+('positive', 'puchase'):	1
+('positive', 'suddenly'):	1
+('positive', 'awake'):	1
+('positive', 'tune'):	1
+('positive', '#hrpositive'):	1
+('positive', 'sure'):	1
+('positive', 'snaps'):	1
+('positive', '#hrmusicshare'):	1
+('positive', '#hr'):	1
+('positive', 'cat'):	1
+('positive', 'used'):	1
+('positive', 'wish'):	3
+('positive', 'harper'):	1
+('positive', '<happy>'):	9
+('positive', 'pete'):	1
+('positive', 'parade'):	1
+('positive', '@mrsashrick'):	1
+('positive', 'choose'):	1
+('positive', 'hulu'):	1
+('positive', '+'):	1
+('positive', 'netflix'):	2
+('positive', 'japan'):	1
+('positive', 'operating'):	1
+('positive', 'services'):	2
+('positive', 'got'):	3
+('positive', 'keeps'):	1
+('positive', 'followed'):	1
+('positive', '@pandora_radio'):	1
+('positive', 'survive'):	1
+('positive', 'might'):	1
+('positive', 'ronettes'):	1
+('positive', 'pleasure'):	1
+('positive', 'ticket'):	1
+('positive', 'admission'):	1
+('positive', 'sale'):	2
+('positive', 'downsview'):	1
+('positive', 'park'):	1
+('positive', 'general'):	1
+('positive', 'waiting'):	1
+('positive', 'bn'):	1
+('positive', 'yup'):	1
+('positive', 'ask'):	1
+('positive', 'sick'):	1
+('positive', 'tablettv'):	1
+('positive', 'bank'):	1
+('positive', 'treat'):	1
+('positive', 'friends'):	1
+('positive', 'bucket'):	1
+('positive', 'ont'):	1
+('positive', '@anthonygermain'):	1
+('positive', 'tour'):	1
+('positive', 'hes'):	1
+('positive', 'webcast'):	1
+('positive', 'trip'):	2
+('positive', 'ya'):	1
+('positive', 'ottawa'):	1
+('positive', 'thurs'):	2
+('positive', '@bershidsky'):	1
+('positive', 'brilliant'):	1
+('positive', 'sun'):	2
+('positive', '@business'):	1
+('positive', 'history'):	1
+('positive', 'repeats'):	1
+('positive', 'always'):	2
+('positive', 'article'):	1
+('positive', 'nothing'):	2
+('positive', '@google'):	1
+('positive', 'monday'):	3
+('positive', 'concerts'):	1
+('positive', 'remembers'):	1
+('positive', 'probably'):	1
+('positive', 'witness'):	1
+('positive', 'young'):	2
+('positive', 'complete'):	1
+('positive', 'found'):	3
+('positive', 'afternoon'):	1
+('positive', 'camelot'):	1
+('positive', 'quest'):	1
+('positive', 'without'):	1
+('positive', 'minutes'):	3
+('positive', 'spent'):	2
+('positive', '#adult'):	1
+('positive', 'ouija'):	1
+('positive', 'looking'):	2
+('positive', 'finding'):	1
+('positive', 'board'):	2
+('positive', 'someone'):	2
+('positive', 'really'):	1
+('positive', 'direction'):	1
+('positive', 'bumps'):	1
+('positive', 'shows'):	1
+('positive', 'successful'):	1
+('positive', '*'):	1
+('positive', 'entertainment'):	1
+('positive', 'rocks'):	1
+('positive', 'god'):	2
+('positive', 'hand'):	1
+('positive', 'blacklist'):	1
+('positive', 'loved'):	1
+('positive', 'wtg'):	1
+('positive', '@perlmutations'):	1
+('positive', '#msapc'):	1
+('positive', 'event'):	13
+('positive', '#nyc'):	1
+('positive', 'speak'):	1
+('positive', 'weekend'):	2
+('positive', 'fly'):	1
+('positive', '@microsofts'):	3
+('positive', '#inbound'):	1
+('positive', 'ready'):	2
+('positive', 'gets'):	1
+('positive', 'td'):	1
+('positive', '@ottawamorning'):	1
+('positive', 'play'):	3
+('positive', '@johnhancockcbc'):	1
+('positive', 'field'):	4
+('positive', 'place'):	1
+('positive', 'hours'):	1
+('positive', 'bid'):	2
+('positive', 'auction'):	1
+('positive', 'talk'):	1
+('positive', '@kasweshilwiimbo'):	1
+('positive', 'presenting'):	1
+('positive', '#flying'):	1
+('positive', 'membership'):	1
+('positive', 'flier'):	1
+('positive', 'finally'):	1
+('positive', '@uproxx'):	1
+('positive', '#amazon'):	1
+('positive', 'frequent'):	1
+('positive', 'tuesday'):	3
+('positive', 'ford'):	3
+('positive', 'rock'):	3
+('positive', 'old'):	1
+('positive', 'wanna'):	1
+('positive', '#supershow'):	1
+('positive', 'fan'):	1
+('positive', 'grocery'):	1
+('positive', 'work'):	2
+('positive', 'instacart'):	1
+('positive', 'test'):	2
+('positive', 'labor'):	1
+('positive', 'start'):	2
+('positive', 'zeppelin'):	1
+('positive', 'aerosmith'):	1
+('positive', 'lava'):	1
+('positive', 'led'):	1
+('positive', 'system'):	1
+('positive', 'sound'):	1
+('positive', 'honour'):	1
+('positive', 'wearing'):	1
+('positive', 'tux'):	1
+('positive', 'theres'):	1
+('positive', 'ok'):	1
+('positive', 'lol'):	1
+('positive', 'white'):	1
+('positive', 'stage'):	2
+('positive', 'dress'):	1
+('positive', 'couple'):	2
+('positive', 'long'):	1
+('positive', 'battlers'):	1
+('positive', 'win'):	1
+('positive', 'luck'):	1
+('positive', '@festivaluprise'):	1
+('positive', 'pitch'):	1
+('positive', '#toshiba'):	1
+('positive', 'working'):	1
+('positive', 'look'):	1
+('positive', '#snapdragon'):	1
+('positive', '@qualcomm'):	1
+('positive', 'cool'):	1
+('positive', 'inside'):	1
+('positive', 'ive'):	2
+('positive', 'outside'):	1
+('positive', 'playing'):	2
+('positive', 'adult'):	1
+('positive', 'ron'):	1
+('positive', '@sky'):	1
+('positive', 'must'):	1
+('positive', 'refugees'):	1
+('positive', 'whole'):	1
+('positive', '@newsfusionapps'):	1
+('positive', '#news'):	1
+('positive', 'help'):	1
+('positive', '#world'):	1
+('positive', 'europe'):	1
+('positive', 'inviting'):	1
+('positive', 'amsterdam'):	1
+('positive', '#ibcshow'):	1
+('positive', 'lions'):	1
+('positive', '#funtimes'):	1
+('positive', 'fun'):	1
+('positive', 'week'):	2
+('positive', 'ahead'):	1
+('positive', 'san'):	2
+('positive', 'opener'):	1
+('positive', 'diego'):	2
+('positive', '\\m/'):	2
+('positive', 'grade'):	1
+('positive', 'tired'):	1
+('positive', '#butitshisfavoriteband'):	1
+('positive', 'midway'):	1
+('positive', 'would'):	1
+('positive', 'safe'):	1
+('positive', 'beer'):	1
+('positive', 'way'):	2
+('positive', '@eddietrunk'):	1
+('positive', 'detroit'):	2
+('positive', 'eddie'):	1
+('positive', 'travels'):	1
+('positive', 'upgrade'):	1
+('positive', 'os'):	1
+('positive', 'lunch-and-learn'):	1
+('positive', '#palmcoast'):	1
+('positive', '#atl'):	1
+('positive', 'dallas'):	1
+('positive', 'c'):	2
+('positive', 'spot'):	1
+('positive', '#producers'):	1
+('positive', '@a'):	1
+('positive', 'shopping'):	2
+('positive', 'cute'):	1
+('positive', 'survivor'):	1
+('positive', 'pjs'):	1
+('positive', 'family'):	1
+('positive', 'yep'):	1
+('positive', 'plane'):	1
+('positive', '@nbauer'):	1
+('positive', 'sells'):	1
+('positive', 'cloud'):	1
+('positive', 'anything'):	2
+('positive', 'including'):	1
+('positive', 'disruption'):	1
+('positive', 'absolute'):	1
+('positive', 'revised'):	1
+('positive', 'listed'):	1
+('positive', 'edition'):	1
+('positive', '-page'):	1
+('positive', 'thorough'):	1
+('positive', 'thunder'):	1
+('positive', 'hockey'):	1
+('positive', 'aka'):	1
+('positive', 'song'):	1
+('positive', 'thunderstruck'):	1
+('positive', 'played'):	1
+('positive', 'bc'):	1
+('positive', 'dad'):	1
+('positive', 'castle'):	1
+('positive', 'man'):	1
+('positive', 'high'):	1
+('positive', 'november'):	1
+('positive', 'instant'):	1
+('positive', 'buy'):	1
+('positive', 'price'):	1
+('positive', 'drops'):	1
+('positive', 'nexus'):	2
+('positive', 'b'):	1
+('positive', 'cut'):	1
+('positive', 'dec'):	1
+('positive', 'releasing'):	1
+('positive', 'vod'):	1
+('positive', 'amorous'):	1
+('positive', 'dvd'):	1
+('positive', '@film_movement'):	1
+('positive', 'title'):	1
+('positive', 'oct'):	1
+('positive', 'include'):	1
+('positive', 'restaurant'):	1
+('positive', 'soon'):	1
+('positive', 'appears'):	1
+('positive', 'software'):	1
+('positive', 'eating'):	1
+('positive', 'everything'):	1
+('positive', 'twitter'):	1
+('positive', 'travel'):	2
+('positive', 'need'):	1
+('positive', 'meet'):	1
+('positive', 'related'):	1
+('positive', '@travellousworld'):	1
+('positive', 'outlets'):	1
+('positive', 'curiosity'):	1
+('positive', 'highly'):	1
+('positive', 'recommend'):	1
+('positive', 'amanda'):	1
+('positive', 'google'):	1
+('positive', '@bitethepain'):	1
+('positive', '@yankeejack'):	1
+('positive', '@cobraorlando'):	1
+('positive', '@silentcoda'):	1
+('positive', 'doorstep'):	1
+('positive', 'theyll'):	1
+('positive', 'mongoose'):	1
+('positive', 'several'):	1
+('positive', 'mutant'):	1
+('positive', 'teenage'):	1
+('positive', 'gods'):	1
+('positive', 'turtles'):	1
+('positive', 'ninja'):	1
+('positive', 'gonna'):	1
+('positive', 'mercy'):	1
+('positive', 'soul'):	1
+('positive', 'class'):	1
+('positive', 'reading'):	1
+('positive', 'instead'):	1
+('positive', 'head'):	1
+('positive', 'spinning'):	1
+('positive', 'blenders'):	1
+('positive', 'door'):	1
+('positive', 'network'):	1
+('positive', 'mess'):	1
+('positive', 'cooking'):	1
+('positive', 'welcome'):	1
+('positive', 'update'):	2
+('positive', 'oh'):	1
+('positive', '@bridgetcarey'):	1
+('positive', 'tablet'):	1
+('positive', 'much'):	1
+('positive', 'missed'):	1
+('positive', 'release'):	1
+('positive', 'easter'):	1
+('positive', '@seanflanery'):	1
+('positive', 'preorder'):	1
+('positive', 'put'):	1
+('positive', 'april'):	1
+('positive', '@scott_trudi'):	1
+('positive', '#preorder'):	1
+('positive', 'pre-order'):	1
+('positive', 'kindle'):	2
+('positive', 'october'):	2
+('positive', '#live'):	1
+('positive', 'vivid'):	1
+('positive', 'notified'):	1
+('positive', 'cause'):	1
+('positive', 'happiness'):	1
+('positive', 'bluray'):	1
+('positive', 'version'):	1
+('positive', 'gotham'):	1
+('positive', 'omg'):	1
+('positive', 'planner'):	1
+('positive', 'say'):	1
+('positive', '@grace_march'):	1
+('positive', 'digits'):	1
+('positive', 'double'):	1
+('positive', 'received'):	1
+('positive', 'review'):	1
+('positive', 'red'):	1
+('positive', 'roses'):	1
+('positive', 'feel'):	1
+('positive', '@auroretrav'):	1
+('positive', 'shipped'):	1
+('positive', 'gb'):	1
+('positive', 'ago'):	1
+('positive', 'two'):	1
+('positive', 'bit'):	1
+('positive', 'exciting'):	1
+('positive', 'fest'):	1
+('positive', 'windows'):	1
+('positive', 'move'):	1
+('positive', 'supporting'):	1
+('positive', 'pc'):	1
+('positive', 'todays'):	3
+('positive', 'unprecedented'):	1
+('positive', 'microsoft'):	1
+('positive', 'edge'):	1
+('positive', 'expect'):	1
+('positive', 'chair'):	1
+('positive', 'fallen'):	1
+('positive', '&gt'):	1
+('positive', '@tomiahonen'):	1
+('positive', 'excitment'):	1
+('positive', 'apples'):	7
+('positive', 'fire'):	1
+('positive', 'thems'):	1
+('positive', 'made'):	1
+('positive', 'breaks'):	1
+('positive', '@mcelhearn'):	1
+('positive', '#science'):	1
+('positive', 'forward'):	1
+('positive', '@thebenshi'):	1
+('positive', '#narrative'):	1
+('positive', 'email'):	1
+('positive', 'tells'):	1
+('positive', 'arrive'):	1
+('positive', 'active'):	1
+('positive', '#vulnerabilities'):	1
+('positive', 'incorporated'):	1
+('positive', '#security'):	1
+('positive', '#exploits'):	1
+('positive', 'fixes'):	1
+('positive', 'insane'):	1
+('positive', 'patch'):	1
+('positive', 'transportation'):	1
+('positive', 'hiring'):	1
+('positive', 'shift'):	1
+('positive', 'benefits'):	1
+('positive', 'differential'):	1
+('positive', 'fair'):	1
+('positive', 'hr'):	1
+('positive', 'website'):	1
+('positive', 'goosebumps'):	1
+('positive', 'announcement'):	1
+('positive', 'starts'):	3
+('positive', 'sprinting'):	1
+('positive', 'chemistry'):	1
+('positive', 'dorm'):	1
+('positive', 'sunlight'):	1
+('positive', '@authackeray'):	1
+('positive', 'glare'):	1
+('positive', 'read'):	1
+('positive', 'fans'):	1
+('positive', '#appleevent'):	5
+('positive', 'est'):	1
+('positive', 'sub'):	1
+('positive', 'happy'):	1
+('positive', 'shortly'):	1
+('positive', '@cnet'):	1
+('positive', 'iphone'):	2
+('positive', 'pst'):	1
+('positive', 'launch'):	1
+('positive', 'confirmed'):	1
+('positive', 'seeing'):	1
+('positive', 'exec'):	1
+('positive', '@cue'):	1
+('positive', 'rookie'):	1
+('positive', 'mistake'):	1
+('positive', 'showcase'):	1
+('positive', 'products'):	1
+('positive', 'hilarious'):	1
+('positive', 'bunch'):	1
+('positive', 'chick'):	1
+('positive', '@thelegendblue'):	1
+('positive', 'weapons'):	1
+('positive', 'nope'):	1
+('positive', '#destinythegame'):	1
+('positive', '#apple'):	1
+('positive', 'chat'):	1
+('positive', '@katiegburke'):	1
+('positive', 'tablets'):	1
+('positive', 'bigger/expensive'):	1
+('positive', 'smaller/cheaper'):	1
+('positive', 'plus'):	1
+('positive', 'iphones'):	1
+('positive', 'unveil'):	1
+('positive', 'sep'):	1
+('positive', 'likely'):	1
+('positive', 'rumor'):	1
+('positive', 'fast'):	1
+('positive', 'scoured'):	1
+('positive', 'months'):	1
+('positive', 'mine'):	1
+('positive', 'snatched'):	1
+('positive', 'fanboys'):	1
+('positive', 'squealing'):	1
+('positive', 'android'):	1
+('positive', 'coverage'):	1
+('positive', 'stream'):	1
+('positive', 'gives'):	1
+('positive', 'june'):	1
+('positive', '#applelive'):	1
+('positive', 'gate'):	1
+('positive', 'launched'):	1
+('positive', '@tim_cook'):	1
+('positive', 'satisfaction'):	1
+('positive', 'projects'):	1
+('positive', 'performing'):	1
+('positive', 'theyd'):	1
+('positive', 'september-a'):	1
+('positive', 'music'):	1
+('positive', 'think'):	1
+('positive', 'album'):	1
+('positive', 'however'):	1
+('positive', 'explain'):	1
+('positive', 'audiophile'):	1
+('positive', 'stereo'):	1
+('positive', 'appreciate'):	1
+('positive', 'minor'):	1
+('positive', 'seem'):	1
+('positive', 'pt'):	1
+('positive', 'finished'):	1
+('positive', '@marnie_riches'):	1
+('positive', 'part'):	1
+('positive', 'wow'):	1
+('positive', 'ad'):	1
+('positive', 'yet'):	1
+('positive', 'saying'):	1
+('positive', '#thegirlwho'):	1
+('positive', 'demo'):	1
+('positive', '#ipadpro'):	1
+('positive', 'moment'):	1
+('positive', 'shocking'):	1
+
+Sentiment Analysis for Test Data:
+
+Instance ID		Predicted Sentiment	Log-Likelihood	Bag-of-Words
+620979391984566272		negative	-17.9151393383126	{'hollande', 'sunday', 'angela', '<url>', 'pm', 'seems', 'tsipras', 'francois', '#happilyeverafter', 'merkel', 'note', 'another', 'greek', 'married'}
+621340584804888578		positive	-21.73619564521418	{'friday', 'day', 'will-making', 'amazon', 'like', 'black', 'bulk', 'prime', 'powder', 'software', 'buy', 'protein'}
+621351052047028224		positive	-19.82950620931215	{'day', 'hours', 'amazon', 'disappoints', 'promised', 'black', '<url>', 'prime', 'shoppers', 'fri', 'deals'}
+621357165211742208		positive	-44.62715807159532	{'want', 'friday', 'day', 'amazon', 'like', 'part', 'black', 'thing', 'sale', 'prime', 'ignore', 'didnt', 'put', 'anything', 'buy'}
+621392677519540224		negative	-10.317318545307927	{'day', 'amazon', '<url>', 'disaster', 'despi', 'people', 'prime', 'may', 'get', 'never'}
+621403164856549376		positive	-8.302433668740758	{'friday', 'day', 'fixed', 'amazon', 'address', 'black', '#primeday', 'people', 'prime'}
+621422587382358016		positive	-26.405904352339842	{'two', 'friday', 'day', 'amazon', 'things', 'black', 'bigger', '&gt', 'prime', 'gamergate', 'going', 'group', 'hate', 'common'}
+621423173880315904		positive	-25.30729206367174	{'friday', 'day', 'feel', 'amazon', 'sleeping', 'black', 'bust', 'sales', 'prime', 'going', 'justified', 'replace', '#amazonprimeday'}
+621426617479335936		negative	-18.813181085450882	{'fail', 'day', 'amazon', 'th', 'composite', 'held', 'prime', '#primedayfail', 'saw', 'destined', 'knew'}
+621435426197368832		positive	-23.35668339383487	{'day', 'anti-climactic', 'amazon', 'im', 'comparing', 'kid', 'well', 'prime', 'ill', 'pile', 'granted', 'giving', 're', 'add', 'nd', 'birth'}
+621442454743568384		positive	-38.70468639597429	{'friday', 'day', 'rain', 'right', 'amazon', 'got', 'cause', 'black', 'theres', 'way', 'prime', 'rained', 'whens', 'date', 'deals', 'rival'}
+621468278909579266		positive	-13.377607483974584	{'friday', 'day', 'tried', 'fact', 'amazon', 'born', 'black', 'prime', '#primedayfail', 'realized', 'white'}
+621477327592124416		positive	-18.176149062943217	{'day', 'amazon', 'right', 'left', 'basically', 'january', 'prime', 'lame', 'stuff'}
+621499402474139648		positive	-27.63334951285092	{'week', 'day', 'amazon', 'finally', '#primeday', '&gt', 'prime', 'seriously', '#primedayfail', 'worse', 'monday', 'discovered'}
+621513803532890113		positive	-25.553907971171093	{'day', 'ive', 'amazon', 'every', 'years', 'call', 'seen', 'sales', 'prime', 'witnessing', 'saturday', 'realize', 'garage'}
+621519370921967620		negative	-23.479223893337107	{'friday--overhyped', 'worth', 'day', 'turns', 'amazon', '#bitteroldmantweet', 'like', 'time', 'black', 'lot', 'prime', 'turn', '*did*'}
+621675777654935552		negative	-32.99753556122633	{'stay', 'cant', 'angela', 'illustrates', 'moving', '<url>', 'problem', 'seeker', 'merkel', 'asylum', 'tells', 'europes', 'video', 'refugee', 'sobbing'}
+621701322815995904		negative	-36.18938271370661	{'stay', 'germany', 'angela', '<url>', 'wow', 'seeker', 'merkel', 'asylum', 'cannot', 'tells', 'video', 'sobbing'}
+621726465067847680		positive	-37.92827837212968	{'cant', 'everyone', 'germany', 'angela', '<url>', 'manage', 'help', 'merkel', 'deportation', 'tells', 'teenage', 'refugee', 'slated', 'sobbing'}
+622029088044261376		positive	-21.24111837841633	{'imo', 'live', 'friday', 'day', 'hype', 'amazon', '<url>', 'black', '--&gt', 'sales', 'prime', 'leads', 'surge', 'didnt', 'consumer', 'complaints'}
+622898205873733632		positive	-33.79471309675431	{'order', 'germany', 'angela', 'time', 'stupid', 'new', 'world', 'senseless', 'idea', 'bailing', 'greece', 'retarded', 'merkel', 'rd', 'agree', 'dont'}
+623590958102392832		positive	-31.16670560332563	{'changing', 'species', 'obamas', 'angela', 'apes', 'im', 'planet', 'sure', '<url>', 'look', 'merkel', 'come'}
+628810212095475712		positive	-22.96364080572526	{'sunday', 'amazon', 'watch', 'trying', 'theres', 'given', 'chunks', 'prime', 'cut', 'big', 'film'}
+628976607420645377		positive	-23.60580243155234	{'friggin', 'doesnt', 'time', '@microsoft', 'system', 'eat', 'make', 'discs', 'happened', 'sick', 'nd'}
+629122242236932096		negative	-46.61963091705293	{'today', 'delivered', 'right', 'amazon', 'im', 'tomorrow', 'supposed', 'leave', 'prime', 'something', 'ordered', 'wasnt', 'bummed', '<sad>'}
+629394528336637953		negative	-17.786427232124026	{'fail', 'computer', '@microsoft', '<url>', 'error', 'guess', 'shelve', '#windows', 'sp', 'nd'}
+629991453154897921		positive	-25.41080712753041	{'angela', 'tomorrow', 'wont', 'trump', '@cnni', 'think', 'worry', 'merkel', 'ramifications', 'using', 'kind', 'remember', 'language'}
+630636736746422272		positive	-13.86091990919285	{'gave', 'team', 'every', 'time', '@microsoft', 'spent', 'cmon', 'dosh', '@msau', 'print', 'coz', 'mins', 'changes', 'pls', '&amp', 'earn'}
+631223085476261890		positive	-17.262117290855006	{'failed', 'sell', 'work', '@billgates', 'tried', 'gates', '@microsoft', 'miserably', 'product', '@paulgallen', 'wouldnt', '#teens', 'company', 'st', '#nevergiveup', '&amp'}
+631954824100102144		positive	-42.28113462950378	{'today', 'two', 'shipped', 'amazon', 'im', 'confused', 'th', 'isnt', 'days', 'prime', 'coming', 'kind', 'certainly', 'stuff', 'thats', 'th-'}
+632374683334258688		positive	-24.550264040393188	{'copy', 'invited', 'havent', 'reserved', 'back', 'june', '@microsoft', 'download', 'updates', '@windows', 'hey', 'timeline'}
+632536348419690496		negative	-29.014600780664285	{'limits', 'unfortunately', 'im', 'dinosaur', '@microsoft', 'win-', 'another', 'use', '@eyesonfoxorg', 'one', 'using', 'may', 'vista', 'still', '&amp', 'free'}
+632805868334153728		positive	-24.70441472022045	{'hours', '@microsoft', 'takes', 'try', 'check', 'email', 'normal', 'creating', 'microsoft', 'account', 'name', 'nd'}
+633021033281388544		negative	-28.35918086379125	{'want', 'sunday', 'amazon', 'time', 'night', 'grrr', '@amazonuk', 'use', 'prime', 'streaming', 'one', 'ruined'}
+633119630417129476		negative	-19.477382002230115	{'hold', 'minutes', '@microsoft', 'cmon', 'support'}
+633500866096574464		negative	-18.784234821670168	{'doesnt', 'else', 'june', 'right', 'support', '@microsoft', 'find', 'drive', 'beyond', 'gotta', 'frustrated', 'fix', '#xbox', 'someone'}
+633905855797309440		positive	-21.299714708007095	{'retard', 'ive', 'managed', 'trial', 'amazon', 'time', 'somehow', 'cancel', 'prime', 'forgot', 'get', 'another', 'nd'}
+634005145563570176		positive	-15.142676461406378	{'failed', '@laurakfillault', 'angela', 'see', 'like', '<url>', 'german', 'utterly', 'merkel', 'multiculturalism', '@aviwoolf'}
+634098901025484800		positive	-36.38897684188461	{'john', 'hello', 'like', 'computer', '@microsoft', 'call', '/', 'phone', 'look', 'ok', 'may', 'calling', 'id', 'ask'}
+634299598467678208		negative	-18.798028143802505	{'@techcrunch', 'annoying', 'like', '@microsoft', 'lose', 'bulky', 'phone', 'use', 'tolerate', 'may', 'tall', '@blackberry'}
+634517732067778561		positive	-15.494074348244265	{'bound', 'bing', 'picture', '@microsoft', '<url>', 'wtf', 'dictionary', 'office', 'show', 'using', 'rd', 'type'}
+634728000702021632		positive	-35.5043499222845	{'news', 'concert', 'game', 'ac/dc', 'night', 'tomorrow', 'sox', 'tonight', 'give', 'may', 'get', 'tickets', 'rained', 'good', 'somebody', 'red'}
+634842103588233217		negative	-14.031957335862481	{'take', 'ac/dc', 'promised', 'tomorrow', 'niece', 'soooo', 'mood'}
+634926683284336640		negative	-29.03034913763242	{'online', 'im', '@microsoft', 'trying', 'time', '@microsofthelps', 'th', 'm', '@windows', 'get', 'support'}
+635669962074554368		negative	-30.150940333019307	{'know', 'sunday', 'else', 'amazon', 'hours', 'yeah', 'whatnot', '-', 'delivery', 'prime', 'late', 'half', 'far', 'package', '&amp'}
+636712645568163842		positive	-33.15481043071317	{'@amazon', 'purchase', 'amazon', 'got', 'expecting', 'member', 'finally', 'delivery', 'prime', 'late', 'broke', 'better', 'st'}
+636861074256592896		negative	-14.795250775105895	{'share', 'day', 'application', '@adobe', '@microsoft', 'crash', 'office', 'dislike', 'ur', '#firstplace', 'close', 'hate', 'tho', 'nd', 'u'}
+637179517832982528		positive	-10.268667290767985	{'illogical', 'police', 'angela', 'democracy', 'clear', 'things', 'betrayal', 'accussing', 'crack', 'nazis', 'merkel', 'may', 'deutschen'}
+637830987108343808		positive	-18.19165324947918	{'devastated', 'hung', 'absolutely', 'customer', 'wow', 'rep', '@microsofts', 'service', 'rd', 'treated'}
+638643398090620928		negative	-22.89874596002094	{'controls', 'take', 'angela', '<url>', 'uk', 'merkel', 'shes', 'putting', 'immigrants', 'april', 'border', 'told'}
+639111212870037504		negative	-31.445667500613702	{'really', 'amazon', 'like', 'pay', 'fucks', 'prime', 'something', 'fuck', 'get', 'rd', 'season', 'much'}
+639292679524872192		negative	-19.093794334654245	{'angela', '<url>', 'many', 'jackets', 'colours', 'look', 'one', 'merkels'}
+639716079430967296		negative	-30.976259286687732	{'game', '@microsoft', 'available', 'give', 'us', 'one', 'evolve', 'xbox', 'monday', 'dont', 'free'}
+640261386417897473		negative	-21.97608197415045	{'cost', 'plus', '@microsoft', 'ur', 'give', 'laptop', 'monday', 'company', 'u', 'pounds'}
+640278345461141504		positive	-36.97276692710224	{'youre', 'amazon', 'right', '@bbc', 'channel', '<url>', 'yes', 'netflix', 'prime', 'close', 'meant', 'dont', 'thats', 'best'}
+640681655271845888		positive	-19.320402632567532	{'angela', 'dear', 'german', 'concerns', 'win', 'racist', 'love', 'mean', 'merkel', 'may', 'citizens', 'actions', 'criticisms', 'xenophobic'}
+640860896282046464		positive	-37.421366647684835	{'want', 'sucks', 'cant', 'concert', 'see', 'ac/dc', 'wait', 'cause', 'play', 'tomorrow', 'kinda', 'school', 'go', 'dont'}
+640960724215439360		positive	-13.40807540601827	{'concert', 'see', 'ac/dc', 'tomorrow', 'grandma', 'going', 'despises'}
+641143732897628161		positive	-20.463466683806473	{'germany', 'angela', 'th', 'invasion', '@reaganitegoper', 'help', '@freedomoffreedo', 'merkel', 'organising', 'columnista', 'selling'}
+641218935053000704		positive	-20.505532349091986	{'/v', 'publishers', 'jan-jun', 'amazon', 'prices', '@michaelbhaskar', '<url>', 'due', '%', 'sales', 'us', 'e-books', 'rise', 'big', 'deal'}
+641303378719543296		positive	-21.020481690041834	{'copy', 'doesnt', 'amazon', 'blu-ray', 'man', 'th', '<url>', 'aw', 'get', 'gone', 'pre-ordered', 'store'}
+641368424145387521		negative	-39.43879971800837	{'anyone', 'day', 'lives', 'amazon', 'th', 'uk', 'wont', 'isnt', 'available', 'delivery', 'shays', 'ordered', 'release', 'book', 'come', '&amp'}
+641437722045890561		negative	-30.915039249551537	{'friday', 'amazon', 'im', 'game', '$', 'counting', 'thursday', 'well', 'prime', 'one', 'later', 'stuff', 'fiasco', 'u', 'guaranteed'}
+641472127665864704		positive	-22.275312911601265	{'fire', 'nicely', '<url>', 'market', 'phone', 'refusal', 'android', 'undoing', 'amazons', 'may', 'integrate', 'ecosystem'}
+641499203730960384		negative	-34.29407505941084	{'today', 'delivered', 'amazon', 'pm', 'tomorrow', 'supposed', 'guess', 'ill', 'get', 'means', 'package'}
+641510138235367424		positive	-26.592801025137575	{'care', 'amazon', 'customer', '@amazonhelp', 'emails', 'write', 'many', 'check', 'may', 'called', 'complaint', 'please', 'pending'}
+641586058388344832		negative	-20.952693106719927	{'care', '#sf', 'like', '#fb', 'bill', '@', 'apple', 'may', 'disruptions', 'graham', 'remember', 'massive', 'announcing'}
+641605506973306880		positive	-31.00072046585137	{'care', 'hes', 'see', 'disappointed', 'im', 'ac/dc', 'tomorrow', 'probably', 'guy', 'going', 'working', 'dont'}
+641629245790404608		negative	-20.53343467647943	{'cant', 'believe', 'im', 'ac/dc', 'tomorrow', 'gonna', 'toronto', 'miss'}
+641648879646175232		negative	-32.649640304939645	{'@amazon', 'amazon', 'book', 'isnt', 'last', 'prime', 'ordered', 'literally', 'still', 'monday', 'better', '&amp', 'lie'}
+641654885583351808		positive	-35.958895866889236	{'live', 'event', 'screw', '<url>', 'win', 'stream', '<happy>', 'browser', 'users', 'statistics', 'edge', 'lets', 'come', 'apples'}
+641661164783468545		negative	-13.845079962532667	{'plugins', 'call', '<url>', 'apple', 'complications', 'id', 'calls'}
+620838510191362048		positive	-11.026352992465503	{'theory', 'angela', 'game', '<url>', 'grand', 'expertise', 'merkel', 'varoufakis', 'may', 'master'}
+621335034859925504		positive	-31.273682973227604	{'today', 'friday', 'day', 'amazon', '<url>', 'black', 'deals', 'love', 'prime', 'great', 'forget', '**if', 'dont', 'deal--', 'type'}
+621339506529054720		positive	-18.517319820345982	{'--', 'friday', 'day', 'amazon', '<url>', 'black', 'say', 'prime', 'enjoy', 'better'}
+621341016587698176		negative	-20.977678969284543	{'happens', 'today', 'wishlist', 'day', 'amazon', '<url>', 'wednesday', 'also', 'prime', 'get'}
+621345130700615680		positive	-28.919462763931893	{'day', '#happyprimeday', 'amazon', '<url>', 'lots', 'th', 'july', 'check', 'prime', 'one', 'good', 'deals'}
+621355228009472001		negative	-17.668048781147874	{'released', 'day', 'amazon', 'cheap', 'sneak', 'tomorrow', '<url>', 'peek', 'deals', 'cameras', 'prime', 'nikon', 'woohooo', 'list'}
+621360556868521984		positive	-31.34494599324909	{'friday', 'day', 'feel', 'amazon', 'money', '<url>', 'black', 'th', 'bigger', 'prime', 'happy', 'qchf', 'birthday', 'support', 'save'}
+621375187255083008		positive	-32.65997733434749	{'today', 'friday', 'day', 'offers', 'plan', 'amazon', '<url>', 'black', 'shop', 'prime', 'forget', 'dont', 'deals'}
+621397987722416129		negative	-18.958240793576888	{'real', 'friday', 'day', 'amazon', 'black', 'prime', 'might', 'better'}
+621410470252138496		positive	-14.1352931856721	{'friday', 'day', 'outsold', 'amazon', '<url>', 'black', 'prime', 'verge'}
+621417205742219264		negative	-24.448117222515354	{'retailer', 'day', 'friday', 'amazon', '<url>', 'black', 'bigger', 'launches', 'prime', 'big', 'offers', 'deals'}
+621441702021210112		positive	-20.142506089748224	{'today', 'friday', 'day', '#happyprimeday', 'amazon', 'scored', 'black', '<url>', 'deals', 'prime', '~', '----&gt'}
+621554188288421888		positive	-16.789854701823323	{'day', 'tis', 'proud', 'amazon', 'already', 'doh', 'july', 'sale', 'prime', 'self', 'gimmick', 'falling'}
+621743210059198464		positive	-27.23258292552432	{'whiners', 'friday', 'day', 'amazon', 'see', 'black', 'thing', 'competition', '%', 'sales', 'prime', 'one', 'little', 'called', 'higher'}
+621761332489154562		positive	-27.455726476838525	{'friday', 'day', 'success', 'record', 'amazon', 'got', 'black', 'sales', 'prime', 'great', 'tv', 'tupperware', '@wews', 'deals', 'audio', 'beating'}
+621831138298871808		positive	-20.728675900406195	{'want', 'truth', 'angela', '<url>', 'tell', 'people', 'merkel', 'awesome', 'best', 'politicians', 'hear'}
+622005331409776641		positive	-22.088416238803532	{'plans', 'friday', 'day', 'detailed', 'amazon', '<url>', 'black', 'cent', 'sales', 'prime', 'make', 'annu', 'per'}
+622054383514177536		positive	-25.959617249711425	{'friday', 'day', 'era', 'amazon', 'mobile', 'via', 'black', '<url>', 'sales', 'prime', '@thedrum', 'edge', 'shopping', 'beats'}
+622155927098146816		positive	-23.187028527471647	{'friday', 'day', 'amazon', '<url>', 'black', 'many', '#primeday', 'wonder', 'prime', 'sales', 'impulse', 'bracket', 'purchases', 'fell', 'beats'}
+623131052031262720		positive	-25.55415214160326	{'friday', 'day', 'amazon', 'money', '@supplychain', '<url>', 'beat', 'black', 'via', '#logistics', '#supplychain', 'prime', 'make'}
+627978419607871488		positive	-25.47979999901737	{'@brianshall', 'see', 'watch', 'already', 'think', 'wearable', 'depends', 'well', 'tech', 'profitable', 'gen', 'viable', 'apple', 'nd'}
+628271880797970432		positive	-26.642950808823045	{'door', 'wrist', '#applewatch', '#august', 'watch', 'smart', '<url>', 'unlock', '#apps', 'apple', 'lock'}
+628885558488637440		positive	-35.264389066813244	{'@amazon', 'today', 'amazon', 'cars', 'emails', 'ball', 'prime', 'make', 'may', 'series', 'announcing', 'clarkson', 'hammond', 'knew'}
+629226490152914944		positive	-33.10556249587884	{'@microsoft', 'system', 'business', 'damn', 'branch', 'make', 'may', '#windows', 'gaming', 'operating', 'fine', 'microsoft', 'prefer'}
+629541944063074305		negative	-21.28233937827074	{'adaptor', 'power', 'need', 'amazon', 'alone', 'stressful', '@dailyjulianne', 'tomorrow', 'enough', 'next', 'luggage', 'prime', 'may', 'tbh', 'buy'}
+629650766580609026		positive	-28.575615731128334	{'works', 'ssd', '@microsoft', 'ever', 'surface', 'hopefully', '/', 'gb', 'pro', 'laptop', 'tablet', 'ordered', '=', 'st', 'replace', 'dev'}
+629984420049592320		positive	-28.725731251768398	{'locate', 'amazon', 'though', 'p', 'recommend', 'show', 'prime', 'may', 'good', 'means', 'transparent', 'another', 'dont', 'watching'}
+630159517058142208		positive	-29.397839953963427	{'day', 'sunday', 'morning', 'time', '@microsoft', '<url>', 'welcome', 'quiet', '@windows', '#windows'}
+630801838544031744		negative	-19.76446865936213	{'beautiful', 'words', 'amazon', '@tadamzz', 'im', 'thing', 'tomorrow', 'getting', 'prime', 'big', 'hyped'}
+630871616575139840		positive	-26.879577710474543	{'blink-', 'friday', 'day', 'weekend', 'tinley', 'ac/dc', 'ever', 'center', 'next', 'ago', 'best', 'years', 'united', 'saw'}
+630949831817605120		positive	-37.1550884838962	{'amazon', 'see', 'got', 'like', 'due', 'tomorrow', 'sure', 'think', 'help', 'risers', 'elsewhere', 'prime', 'sets', 'couple', 'go', '@baltanii'}
+631368262979297281		positive	-12.84931899751437	{'global', 'partner', '#vote', 'non', '@microsoft', 'become', 'th', 'profit', '#upgradeyourworld', '@aiesec', 'us', '@aiesecgermany', 'together'}
+631696872323850240		positive	-16.592686636912376	{'cant', 'see', 'wait', '@microsoft', 'sun', '@nationwide', '@mispeedway', 'race', '@trucker_squigz'}
+631842974268305408		positive	-14.596626704171591	{'@microsoft', 'mind', 'chance', 'isntall', 'newest', '@gabeaul', 'may', 'version', '@scottarbeit'}
+631863912976252928		positive	-31.009473256960963	{'cant', 'timesxxxx', 'exciting', 'amazon', 'wait', 'tomorrow', 'made', '-', 'prime', 'reality', 'ill', 'ordered', '@stephaniepratt'}
+632260719245967360		positive	-19.11185788067447	{'dundas', 'take', 'ac/dc', '<url>', 'pm', 'check', 'band', 'highway', 'ftatr', '#dundascactus', 'stage', 'main', 'sat', 'cover'}
+632293803072729089		negative	-24.823894117627823	{'tomorrows', 'thiefs', 'ac/dc', 'country', 'requests', 'miller', 'banter', 'band', 'oasis', 'make', 'steve', '#mfclive', 'big', 'cut', 'playlist', '&amp'}
+632362695602245632		positive	-25.285643984576403	{'@annkillion', 'day', 'van', 'ac/dc', 'halen', 'pat', 'july', 'green', 'foreigner', 'aerosmith', 'travers', 'best'}
+632477400178233344		positive	-29.19221313932209	{'van', 'see', 'ultimate', 'faves', 'ac/dc', 'new', 'th', 'night', 'halen', 'also', '@suziperry', 'days', 'time-followed', 'york'}
+632569836049141761		positive	-29.871396084707396	{'n', 'amazon', 'original', 'man', 'c', 'spending', 'related', 'prime', 'saturday', 'e', 'l', 'done', 'u', 'watching'}
+632598549872672768		positive	-37.15834163289995	{'live', 'day', 'berry', 'windows', 'ac/dc', 'black', 'covering', 'sun', 'chuck', 'driving', 'capri', 'good', 'early', 'listening'}
+632658096150716416		positive	-32.34227893312987	{'day', '@brandrepublic', '#dog', 'amazon', 'rescue', '#campaign', '<url>', 'next', 'spot', 'delivery', 'shows', 'coming', 'nice', 'lame', 'nd', 'primes', '#tv'}
+632911254957350912		positive	-18.319249906583888	{'friday', 'morning', 'amazon', 'cutters', 'drivers', 'trust', 'house', 'arrived', 'getting', 'well', 'prime', 'paid', 'pair', 'ordered', 'cardboard'}
+633367771191971840		positive	-20.21047016934258	{'tix', 'stadium', 'ac/dc', '<url>', 'gillette', '/', 'available', 'vintage', 'limited', 'trouble', 'sat'}
+633464854737633280		positive	-19.527373324636137	{'classes', 'concert', 'since', 'start', 'ac/dc', 'jay-z', 'th', 'eminem', 'realize', '#thatwasgoat', 'best'}
+633621678392770560		positive	-17.11835876879536	{'hype', 'amazon', 'episode', '#raydonovan', 'seeing', 'prime', 'make', 'decided', 'heavy', 'going', 'st'}
+633662951778557952		negative	-16.530657307782818	{'see', 'ac/dc', 'foxborough', 'damn', 'pretty', 'saturday', 'impressed', 'going', 'gino'}
+633684233005895680		positive	-38.01383626049133	{'concert', 'stadium', 'im', 'extra', 'ac/dc', 'night', 'gillette', '<url>', 'looking', 'saturday', 'tickets', 'field'}
+633757225945665537		negative	-25.5733942347389	{'today', 'redmond', '@sqlserver', 'im', 'excited', 'invitation', 'tomorrow', '@microsoft', '-', 'traveled', 'visiting', 'engineers', 'feeling'}
+633837726106841088		positive	-17.640405711214274	{'charts', 'back', 'ac/dc', 'black', 'uk', 'august', 'album'}
+633839875989590017		positive	-22.558175697617095	{'real', 'rain', 'deliver', 'amazon', 'yeah', '<url>', 'hopefully', 'wont', 'crack', 'pretty', 'prime', 'lol', 'thats'}
+634107085647511553		negative	-15.28772726020369	{'#cloud', '#analytics', 'learn', 'excited', '@microsoft', 'tomorrow', '<url>', '#tech', '#rva', 'us', 'join'}
+634596962608672768		positive	-19.740466540096847	{'ac/dc', 'come', 'least', 'win', '#rock', 'won', 'thunderstruck', '@therockfm', 'nd'}
+634728738941456384		positive	-21.59786808032617	{'event', 'chevy', '#skype', '@microsoft', 'md', '<url>', 'th', 'b', 'nacr', 'business', 'skype', '#contactcenter', 'chase', 'sept', 'register'}
+634738654175342592		positive	-35.011108421078795	{'order', 'day', 'sunday', 'amazon', 'got', 'miss', 'delivery', 'prime', 'guaranteed', 'something', 'placed', 'date', 'free'}
+634869623075303424		positive	-22.800737334788405	{'tuesday', '@goldenbrookss', 'concert', 'weekend', 'right', 'ac/dc', '@hab', 'nyc', 'dont', 'heading', 'lyf'}
+634896402594836484		positive	-19.39953995312625	{'concert', '@cbsboston', 'ac/dc', '@ericfisher', 'night', 'tomorrow', 'gillette', 'looking', 'eric', 'weather'}
+635106856612925440		negative	-22.668633739390636	{'morning', 'amazon', 'sure', 'use', 'making', 'prime', 'get', 'saturday', 'account', 'ritual'}
+635230466329681920		positive	-17.30401922685483	{'@thisisrobthomas', 'cd', 'amazon', 'got', 'sounds', 'new', 'favorite', 'download', 'prime', 'great', 'may', 'unknown', 'free'}
+635658548265947136		positive	-8.66970067820118	{'#hololens', 'personal', '@microsoft', '<url>', 'via', '@businessinsider', '#microsoft', 'may', 'reinvent', 'computing'}
+635844755356819456		negative	-7.5862375164769045	{'amazon', 'wednesday', '@gameofkittens', 'prime', '@heathersolos', 'squee'}
+635867899173957634		positive	-12.941126546767492	{'*counts', 'amazon', 'shipping*', '@jillshalvis', 'th', 'blesses', 'prime', 'october', 'days'}
+635952446402072576		negative	-20.415651640823047	{'ac/dc', 'scorpions', 'downloaded', 'like', 'guns', 'cause', 'cmon', 'playing', '@smilelikepink', 'yesterday', 'beatles', 'u'}
+635976557098573825		positive	-20.034706013094784	{'@suzannemalveaux', 'god', 'choice', '@microsoft', '@hollyrpeete', 'b', 'made', '@sfujita', 'biographer', 'suzanne', '@teamgleason', '@rocsidiaz', 'st', 'fyi'}
+636287426235924480		positive	-21.191299422354305	{'year', 'ive', 'waited', 'shit', 'im', 'ac/dc', 'tomorrow', 'nearly', 'seeing', 'realized', 'holy'}
+636380976432680960		positive	-25.062500433262198	{'ticket', 'see', 'ac/dc', 'tomorrow', 'ill', 'buy', 'someone'}
+636396611900321792		negative	-26.716458285977843	{'cant', 'even', 'see', 'ac/dc', 'excited', '<url>', 'tomorrow', 'begin', 'tell', 'go'}
+636542685214437377		negative	-18.875206599875895	{'wooo', 'see', 'ac/dc', 'got', 'im', 'th', 'going', 'reminded', 'totally'}
+636702823577612288		positive	-23.004462800245513	{'ep', '@hurricanedana', 'amazon', '/', 'hooked', 'stream', 'way', 'prime', 'seasons', 'first', 'st'}
+636904941328728064		positive	-16.09670752126338	{'#sneakypete', 'amazon', 'sneaky', '<url>', 'episode', 'loved', 'prime', 'pete', 'st'}
+636956939008786433		positive	-28.326496693410867	{'trial', 'amazon', 'tomorrow', 'stream', 'prime', 'saturday', 'expires', 'ordered', 'stuff', 'free'}
+637023375987109892		negative	-24.264278329692395	{'jack', 'take', 'sunday', 'ac/dc', 'excited', 'th', 'tribute', 'band', 'fall', 'september', 'jam', 'big', 'announce', 'stage', 'main'}
+637081475070844929		positive	-50.87223409206119	{'concert', 'need', 'got', 'ac/dc', 'yeah', 'already', 'center', 'coming', 'ford', 'september', 'find', 'tickets', 'stage', 'go', 'field', 'hell', 'someone'}
+637211482787287040		positive	-15.104524695442	{'theriault', 'john', 'see', 'ac/dc', 'holly', '<url>', 'th', 'way', 'magnetic', 'september', 'alex', 'rockin', 'hill'}
+637229009844215808		positive	-14.161847208394652	{'peace', 'angela', '<url>', 'strong', 'merkel', 'link', 'euro'}
+637452274655211520		positive	-24.28134237537954	{'friends', 'friday', 'royal', 'talking', 'tweeting', 'life', 'ac/dc', 'whisky', 'night', 'crown', 'good', 'listening', 'sipping', 'home'}
+637722386683424768		positive	-9.570700823772091	{'crackers', 'amazon', 'amazing', 'experience', 'prime', 'st', 'holy'}
+637867653139271682		positive	-21.92526859743451	{'pink', 'concert', 'la', 'palace', 'n', 'ac/dc', '@hartleyjustin', 'check', 'staying', 'ill', 'sept', 'place'}
+638129191817379840		positive	-23.213582550194197	{'leader', 'angela', 'fellow', '<url>', 'also', 'last', 'merkel', 'beings', 'crisis', 'human', 'refugee'}
+638268341052948480		positive	-21.77322096780403	{'startup', 'right', '@microsoft', '<url>', 'battle', 'way', 'apply', 'monday', 'pitch', '#jointheuprise'}
+638358086990741504		negative	-22.42599884482945	{'kj', 'ac/dc', 'hosted', 'night', 'pump', '&amp', 'martin', '<url>', 'dj', 'monday', 'ladies', 'karaoke', 'cover', 'tiring'}
+638374587525238786		positive	-18.205617484653818	{'remembered', 'see', 'ac/dc', 'im', 'going', 'lol', 'thursday'}
+638545792047972352		positive	-24.160714387590925	{'ac/dc', '#bigosbumping', 'direction', 'tonight', 'itttttt', 'saturday', 'one', 'get', 'lets'}
+638618791711084544		positive	-26.694244103210597	{'friends', '#msapc', 'tomorrows', 'keynote', '@microsoft', '<url>', 'luck', 'happy', '@sarahvaughan', 'good', 'hour'}
+638881767542263808		positive	-14.906287683342146	{'team', 'involved', '@microsoft', '<url>', '<happy>', 'incorporate', 'release', '#llvm', 'nd', 'congrats', 'contributions'}
+639002332219502592		positive	-20.29641259914331	{'bit', 'online', 'tuesday', 'amazon', 'got', 'pleasant', 'subscribers', 'retail', 'prime', 'traveling', 'announced&amp', 'giant', 'nbsp'}
+639036500299116544		positive	-28.148994423052862	{'bless', 'refugees', 'mrs', 'syrian', 'budapest', 'angela', 'hungary', 'thank', '<url>', 'father', 'merkel', 'us', 'may', 'prayer', 'join'}
+639121032830394368		positive	-17.953005511629005	{'heres', 'amazon', '<url>', 'tomorrow', 'well', 'prime', 'review', 'days', '#handofgod', 'trailer', 'arrives'}
+639151037094469633		positive	-16.20313698411011	{'@downsviewpark', 'see', 'ac/dc', '<url>', 'th', '#justasec', 'coming', 'tickets'}
+639160139820498944		positive	-26.931776391976907	{'every', 'time', '@microsoft', 'leave', 'screen', 'think', 'finally', 'paperclip', 'use', 'left', 'may', 'word', 'clippy', 'never', 'brain'}
+639410002260791296		positive	-27.307927112416294	{'apparently', 'angela', 'germany', '<url>', 'way', 'well', 'leads', 'merkel', 'done'}
+639457875270742017		positive	-23.973938480447593	{'concert', 'therapy', 'ac/dc', 'extra', '<url>', 'recreational', 'th', 'ford', 'september', 'tickets', 'tues', 'field', 'strive'}
+639555024423649280		positive	-24.865580077047092	{'bless', 'god', 'leading', 'angela', 'germany', 'example', '<url>', 'government', 'uk', 'way', 'people', 'merkel', 'follow', 'may'}
+639580199303016448		positive	-15.717217899558475	{'free/very', 'know', '@adobe', 'ngo/npos', 'low-cost', '@microsoft', '@symantec', '<url>', '@techsoup', 'software', 'lots', '&amp'}
+639842757289373696		positive	-16.927055823336808	{'weekend', '@signalnoise', 'ac/dc', 'homegirl', 'nauss', 'tomorrow', 'tonight', 'darcy', 'hangs', '#winning', 'mc', 'burritos', 'lunch', 'long'}
+640077457257795584		positive	-15.933804050326525	{'tuesday', 'else', 'see', 'ac/dc', 'to/interested', 'going', 'anyone'}
+640242420228222976		positive	-20.60351275745219	{'tuesday', 'really', 'see', 'ac/dc', 'wish', 'going'}
+640446365731057664		negative	-11.183549777065352	{'sunday', 'deliver', 'amazon', 'prime', 'saying'}
+640490887861137409		positive	-16.809272787680428	{'want', 'rocking', 'listen', 'stadium', 'ac/dc', '<url>', 'domain', 'november', 'perths', 'cue'}
+640529937481379841		positive	-21.11433838121818	{'tuesday', 'suisse', 'anxiously', 'else', 'kyle', 'ac/dc', 'forward', 'night', 'looking', 'kelsey', 'bob', 'wilson', 'going'}
+640890222230798336		positive	-38.23480353238295	{'bless', 'want', 'refugees', 'god', 'really', 'angela', 'letting', 'thank', 'merkel', 'shows', 'may', 'humanity', '#refugeeswelcome'}
+640896835234701312		positive	-14.655688260454243	{'friday', 'amazon', 'free', '<url>', 'new', 'episode', 'prepare', 'dry', 'prime', 'pits', '@madonna', 'watching'}
+640954164437237760		negative	-21.919729037599318	{'concert', 'ac/dc', 'excited', 'im', 'tomorrow', 'reason'}
+641018928421060608		positive	-23.239969305367392	{'alarms', 'nfl', 'see', 'ac/dc', 'every', 'morning', 'night', 'tomorrow', 'tonight', '#startschoolyearoffwithnosleep', 'vatech/osu', 'm', 'kicks', 'thursday', 'lets'}
+641033718275133441		negative	-22.91435161274338	{'day', 'ac/dc', 'tomorrow', 'next', 'ill', 'school', 'going', 'tbh', 'idek', '@jamiscoates'}
+641097610040877056		positive	-15.733133354864375	{'see', 'ac/dc', 'thursday', 'come', 'someone'}
+641186469944651776		positive	-21.569743211042766	{'blogpost', 'want', 'ml', '@thehumblesage', 'amazon', 'gary', '<url>', 'sharing', 'check', 'well', '<happy>', 'may', 'course', 'thanks'}
+641191685234421760		positive	-38.43172388859805	{'cant', 'concert', 'ac/dc', 'lots', 'forward', 'looking', 'tell', 'ok', 'um', 'son', 'december', 'much'}
+641215923362271232		positive	-23.801369215096315	{'cool', 'plans', '-inch', 'release', 'amazon', '<url>', '$', 'tech', 'september', 'tablet'}
+641253680365334528		positive	-19.667803939720933	{'friday', 'amazon', 'comedy', 'forsaken', '<url>', 'love', 'also', 'sequels', 'pick', 'hell', 'free'}
+641256781428183042		negative	-18.61933635505913	{'amazon', '<url>', '#mockingjaypart', 'uk', 'thanks', 'us', 'october', 'heads', '&amp', '@thatkiddjoe'}
+641267504296382464		positive	-17.563044590056805	{'amazon', 'ebooks', 'piggy', '<url>', 'bank', 'childrens', 'september', 'kindle', '|', 'mending', 'roundup', 'free'}
+641274412629553152		positive	-27.030058661412838	{'amazon', 'got', 'mouse', 'new', 'night', 'tomorrow', '@strawbsoda', 'last', 'prime', 'woo', 'ordered', 'gonna', 'pad'}
+641284529982959616		positive	-24.390757161365407	{'really', 'amazon', 'got', '@mwvme', 'netflix', 'gen', 'prime', 'roku', 'enjoy', 'weve', 'nd'}
+641287889112928256		positive	-26.726332417762094	{'-inch', 'price', 'amazon', '$', 'low-priced', '-', 'current', 'intro', 'may', 'half', 'model', 'holiday', 'season', 'tablet'}
+641310847470567424		negative	-12.841777853668882	{'games', 'millions', 'brings', 'razer', 'amazon', 'ouya', 'appletv', 'tomorrow', 'unlike', 'apple', 'etc', 'matter', 'appletvs'}
+641323432186089473		positive	-9.124413721143672	{'book-sized', 'judging', 'amazon', 'awaiting', 'bookshop', 'arrival', 'packages', 'tomorrow', 'member', 'owner', 'indie', 'local', 'prime', '#awkward'}
+641330241965789184		positive	-17.116757487428387	{'smrecords', 'amazon', 'suite', '#', '<url>', 'tomorrow', 'check', '#urbanartsent', 'preview', '#doingjusticeishine', 'album'}
+641342385348210690		positive	-27.64885369938689	{'echo', 'kit', 'youre', 'right', 'got', 'advances', '@bzamayo', 'given', 'think', 'api', 'amazons', 'alexa', 'party', 'rd', 'skills', 'siri', 'cards'}
+641357094654885888		positive	-35.11820655663516	{'fire', 'amazon', '<url>', 'new', '$', 'cooking', 'reportedly', 'internet', 'may', 'tablet', 'tablets', 'working', 'giant'}
+641358180711206915		negative	-17.415363550733193	{'released', '#amreading', 'amazon', '<url>', 'apprentice', 'users', 'series', 'get', 'rd', 'book', 'vikings', '#rt'}
+641368361343975424		positive	-13.312765226213946	{'tuesday', '#soundcloud', '#aftertheholiday', 'n', 'ac/dc', '<url>', '#tuesday', 'thru', 'epic', 'get', 'badal', '#np', 'lets', 'carles'}
+641372287694823424		positive	-36.305595232945564	{'bit', 'see', 'im', 'wait', '@microsoft', 'coming', 'might', '@clayton_simms', 'gonna', 'sat', 'patch'}
+641380820180172801		positive	-27.020245039964518	{'thor', 'amazon', 'adventures', 'time', 'cute', '<url>', 'coming', 'soon', 'bath', 'childrens', 'beagle', 'book', 'nd'}
+641403775442362368		negative	-11.830176941990402	{'live', 'amazon', '<url>', 'thank', 'tomorrow', 'saddle', 'evening', 'cinch', 'gift', 'cents'}
+641407598084923393		positive	-18.53282400688195	{'fucking', 'friday', 'itll', 'amazon', 'one', 'ordered', '@jurxssicpratt', 'roll', 'lets'}
+641426301845393412		negative	-2.049841071903545	{'somewhere', 'involved', 'amazon', 'mother', 'hat', 'babies', 'desperately', 'straight', 'cowboy', 'clicks', 'sat', 'bed'}
+641454770897588224		positive	-18.953793301526076	{'gave', 'stars', '#juvenilefiction', 'amazon', '-', 'harp', 'grady', 'top', '#chapterbooks', 'reviewer', 'book', 'st', 'nd', '#sophieandscottie'}
+641468264413945856		positive	-30.751684108497248	{'future', 'purchase', 'amazon', 'wanna', 'wish', 'quite', 'may', 'items', 'list', 'added', 'earlier'}
+641476313761611776		positive	-30.03172567048664	{'two', 'offering', 'amazon', 'im', 'try', 'tomorrow', 'one', 'hour', 'shipping', 'going', 'free'}
+641506752848990208		positive	-34.20303127384487	{'docking', 'amazon', 'would', 'cause', 'tomorrow', 'impulsively', 'said', 'laptop', 'one', 'ordered', 'station', 'needed', 'bought', 'arrive'}
+641514019304697856		positive	-21.047043168791383	{'day', 'amazon', '<url>', 'new', 'wish', 'hoping', 'tomorrow', '<happy>', '@chaturbate', 'get', 'list'}
+641566947566616576		positive	-39.17307317097587	{'copy', 'youre', 'ready', 'amazon', 'sure', 'shop', 'november', 'local', '<happy>', 'make', 'issue', '@adams', 'snag', 'thanks'}
+641594046968918016		positive	-32.34127943279678	{'today', 'iphone', '#cantwait', 'day', 'new', 'th', 'made', 'realising', 'apple', 'sept', '#excited', '#appleevent', '&amp', 'announcing'}
+641595682948841472		negative	-21.645840287279878	{'starts', 'ignoring', 'event', 'minutes', 'worthy', 'whatever', 'class', 'psa', 'apple', 'may', 'distraction'}
+641602373131988992		positive	-26.844359623850654	{'believe', 'change', 'watch', 'new', '<url>', 'way', 'apple', 'television', 'may', 'big', 'tv', 'star', 'apples'}
+641609620688097280		positive	-29.84632244715528	{'allows', 'event', 'interesting', 'windows', 'watch', '<url>', 'apple', 'stream', 'browser', 'microsoft', 'edge'}
+641620321544507392		negative	-17.44239222312111	{'today', 'excited', '<url>', 'new', 'apple', 'tech', 'hear'}
+641623037914284033		positive	-27.87224142113327	{'#iphone', 'event', '#apple', 'special', '<url>', 'tonight', 'september', 'd', '#live', '#september', 'apples'}
+641626146262552576		positive	-17.269131967854392	{'ipad', 'force', 'apple', 'may', 'unleash', 'touch', '#appleevent', 'come', 'monster'}
+641627924785963008		positive	-37.39113544004631	{'hype', 'time', 'watch', 'pm', 'tomorrow', 'uk', 'nothing', 'product', 'apple', 'race', 'calm', 'get', 'caught', 'launch', 'buy', 'home'}
+641629066223833088		positive	-20.047951239844807	{'online', 'listen', 'sign', 'amazon', 'free', '<url>', 'ad', 'music'}
+641631875472195584		positive	-48.20110755903527	{'live', 'event', 'requires', 'windows', '&lt', '<url>', 'apple', 'stream', 'pc', '@gabeaul', 'microsoft', 'edge', 'list', 'long', 'stuff&gt'}
+641633209445425152		positive	-24.06273397923072	{'area', 'hang', 'come', 'time', 'watch', 'pm', 'th', '@nmiuga', 'announcements', 'folks', 'grady', 'big', 'floor', 'common', 'apples'}
+641635449925189632		positive	-35.17589235720743	{'watches', '<url>', 'pm', '/', 'love', 'apple', 'sales', '-', '@districthall', '@appneta', 'st', 'fall', 'invitational', 'est', 'join'}
+641636191767498752		positive	-19.513653259893676	{'iphone', 'hours', '<url>', 'new', 'thing', 'arrived', 'away', 'becoming', 'september', 'means', 'official', 'apples'}
+641638855477731328		negative	-16.376506627955557	{'see', 'wanna', 'ac/dc', 'bad', 'th', 'go'}
+641640811696795648		negative	-27.45417044733688	{'tuning', 'want', 'event', 'babu', 'im', 'thing', 'apple', 'may', 'support', 'still', 'sick'}
+641641510384087040		positive	-26.812849845618445	{'drops', 'taking', 'day', 'im', 'tomorrow', 'apple', 'school', 'going', 'drake', 'music'}
+641646262786375681		positive	-37.50219397681879	{'news', 'live', '@wsjds', 'cant', 'watch', 'iphones', '<url>', 'rose', 'say', 'stream', 'blog', 'follow', 'somebody', 'video', 'gold', 'apples'}
+641648591279378433		positive	-19.13166050797065	{'jessie', 'winning', 'amazon', '<url>', '$', 'july/august', 'challenge', 'job', 'great', 'card', 'congratulations', 'gift'}
+641649387492503552		negative	-21.327386556161336	{'live', 'event', 'minutes', '<url>', 'apple', 'go'}
+641653341659901953		positive	-25.528834333618967	{'want', 'directly', 'event', 'watch', 'scope', '<url>', 'apple', 'site', 'livestream', 'go', 'dont', '#apple'}
+641654835037736960		negative	-16.242975235331038	{'obsess', 'sell', 'minutes', 'cmon', 'apple', 'something', 'body', 'good', 't-minus', 'gimme'}
+641656816846405632		positive	-21.305412729121727	{'event', '<url>', 'starting', 'apple', '#apple', 'announcement'}
+641658989139357696		negative	-13.439614854424503	{'even', 'skipping', 'promising', 'cook', 'announcements', '<url>', 'taken', '-', 'tim', 'regular', 'updates', 'mega', 'stage', 'apples'}
+641659630595244032		positive	-32.911047592196226	{'faces', 'rd-party', 'messenger', 'watch', 'new', 'airstrip', '+', '-', 'apple', 'gopro', 'coming', '#appleevent', 'complications', 'facebook', '&amp'}
+641660922214359040		positive	-13.139196460529584	{'apparently', 'event', 'serious', 'nero', 'start', '<url>', 'apple', 'get', 'gaming'}
+641661698366025728		positive	-34.74362905594454	{'beautiful', 'really', 'collab', 'excited', 'watches', 'new', 'available', 'os', 'models', 'apple', '#hermes', '-', 'update', 'sept', 'everything'}
+641662294125072384		negative	-23.826086528081678	{'live', 'event', 'today', 'like', '<url>', 'looks', 'blog', 'apple', 'best'}

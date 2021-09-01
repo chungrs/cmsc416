@@ -1,0 +1,1164 @@
+<corpus lang="en">
+<lexelt item="sentiment">
+<instance id="620979391984566272">
+<context>
+On another note, it seems Greek PM Tsipras married Angela Merkel to Francois Hollande on Sunday #happilyeverafter http://t.co/gTKDxivf79
+</context>
+</instance>
+<instance id="621340584804888578">
+<context>
+Amazon Prime Day is just like Black Friday if you only buy bulk protein powder and will-making software on Black Friday.
+</context>
+</instance>
+<instance id="621351052047028224">
+<context>
+Amazon Prime Day Disappoints Some Shoppers: Amazon Prime Day promised 24 hours with "more deals than Black Fri... http://t.co/IC2k72pSXV
+</context>
+</instance>
+<instance id="621357165211742208">
+<context>
+This Amazon Prime Day thing is just like Black Friday, if you ignore the part where Amazon didn't put anything you want to buy on sale.
+</context>
+</instance>
+<instance id="621392677519540224">
+<context>
+Amazon Prime Day disaster: 16 people who may never get over it: Amazon Prime Day, despi... http://t.co/rhQjPgJcaG http://t.co/uag8Lw1DTu
+</context>
+</instance>
+<instance id="621403164856549376">
+<context>
+Amazon Prime day is black friday for people with a fixed address #PrimeDay
+</context>
+</instance>
+<instance id="621422587382358016">
+<context>
+&gt;Gamergate is a hate group &gt;Amazon Prime Day is going to be bigger than Black Friday  What do these two things have in common....
+</context>
+</instance>
+<instance id="621423173880315904">
+<context>
+Amazon Prime Day is a bust. This was going to replace Black Friday? Now I feel justified in sleeping through "sales." #AmazonPrimeDay
+</context>
+</instance>
+<instance id="621426617479335936">
+<context>
+I knew Amazon Prime Day was destined to fail when I saw it was held on the 15th. 15 is composite not prime... #PrimeDayFail
+</context>
+</instance>
+<instance id="621435426197368832">
+<context>
+Granted, I'm comparing it to giving birth to our 2nd kid, but I'll add my "Well, that was anti-climactic" to the pile re: Amazon Prime Day.
+</context>
+</instance>
+<instance id="621442454743568384">
+<context>
+So Amazon Prime day got rained out right? Cause there's no way those deals rival Black Friday deals. When's the rain date?
+</context>
+</instance>
+<instance id="621468278909579266">
+<context>
+Amazon Prime Day... tried to be Black Friday but realized it was, in fact, born white. #PrimeDayFail
+</context>
+</instance>
+<instance id="621477327592124416">
+<context>
+Amazon Prime Day is basically all the stuff that was left over on January 2, right? LAME.
+</context>
+</instance>
+<instance id="621499402474139648">
+<context>
+We have finally discovered a day of the week worse than Monday: Amazon Prime Day. Seriously, Monday &gt; Prime Day. #PrimeDay #PrimeDayFail
+</context>
+</instance>
+<instance id="621513803532890113">
+<context>
+After witnessing it, I now realize I've seen Amazon Prime day every Saturday for years....we call them "garage sales"
+</context>
+</instance>
+<instance id="621519370921967620">
+<context>
+So it turns out Amazon Prime Day *did* turn out a lot like Black Friday--overhyped and not worth the time. #BitterOldManTweet
+</context>
+</instance>
+<instance id="621675777654935552">
+<context>
+Moving video illustrates Europe's refugee problem: Angela Merkel tells sobbing asylum seeker why she can't stay  http://t.co/tkHyxMJPPH
+</context>
+</instance>
+<instance id="621701322815995904">
+<context>
+wow, angela merkel tells sobbing asylum seeker why she cannot stay in germany (VIDEO): http://t.co/QUavlhnL76 http://t.co/TR8c2FSCeu
+</context>
+</instance>
+<instance id="621726465067847680">
+<context>
+Angela Merkel tells sobbing teenage refugee slated for deportation that Germany "just can't manage" to help everyone http://t.co/ycbO01W8X5
+</context>
+</instance>
+<instance id="622029088044261376">
+<context>
+It didn't live up to the "Black Friday" hype IMO --&gt; Amazon Prime Day leads to sales surge and consumer complaints http://t.co/2QUmJYts5y
+</context>
+</instance>
+<instance id="622898205873733632">
+<context>
+I don't agree with Germany bailing out Greece for the 3rd time.Angela Merkel is retarded and this New World Order is a senseless stupid idea
+</context>
+</instance>
+<instance id="623590958102392832">
+<context>
+I'm sure they are changing the species. Look at the Obamas and Angela Merkel. Planet of the Apes...here we come.  https://t.co/KdpOwI89u3
+</context>
+</instance>
+<instance id="628810212095475712">
+<context>
+Trying to watch Any Given Sunday on Amazon Prime and there's big chunks of the film cut out
+</context>
+</instance>
+<instance id="628976607420645377">
+<context>
+@Microsoft how about you make a system that doesn't eat my friggin discs. This is the 2nd time this has happened and I am so sick of it!
+</context>
+</instance>
+<instance id="629122242236932096">
+<context>
+I'm bummed with Amazon Prime right now. I ordered something and it was supposed to be delivered today, but it wasn't and I leave tomorrow :(
+</context>
+</instance>
+<instance id="629394528336637953">
+<context>
+@Microsoft 2nd computer with same error!!! #Windows10fail Guess we will shelve this until SP1! http://t.co/QCcHlKuy8Q
+</context>
+</instance>
+<instance id="629991453154897921">
+<context>
+@cnni  Not to worry, Trump won't remember it tomorrow. But think about the ramifications of using this kind of language about Angela Merkel.
+</context>
+</instance>
+<instance id="630636736746422272">
+<context>
+@MSAU @Microsoft spent over 40 mins &amp; gave up coz it changes just before you print every time. C'mon team. Earn your dosh pls.
+</context>
+</instance>
+<instance id="631223085476261890">
+<context>
+#teens @BillGates 1st company failed miserably. When Gates &amp; @PaulGAllen tried to sell the product it wouldn't work #nevergiveup @Microsoft
+</context>
+</instance>
+<instance id="631954824100102144">
+<context>
+I'm kind of confused why my Amazon Prime stuff that shipped today isn't coming until the 19th-24th. That's certainly not two days.
+</context>
+</instance>
+<instance id="632374683334258688">
+<context>
+Hey @Microsoft, I reserved my copy of @Windows 10 back in June, but i haven't been invited to download. Any updates on the timeline?
+</context>
+</instance>
+<instance id="632536348419690496">
+<context>
+@eyesonfoxorg @Microsoft I'm still using Vista on one &amp; Win-7 on another, Vista is a dinosaur, unfortunately I may use a free 10 with limits
+</context>
+</instance>
+<instance id="632805868334153728">
+<context>
+@Microsoft Is it normal that it takes hours to check the email name for creating an microsoft account? 2nd try!
+</context>
+</instance>
+<instance id="633021033281388544">
+<context>
+The ONE time we want to use the Amazon Prime streaming and it's down... grrr ruined my Sunday night! @AmazonUK
+</context>
+</instance>
+<instance id="633119630417129476">
+<context>
+@Microsoft On hold with support for 52 minutes now. C'mon.
+</context>
+</instance>
+<instance id="633500866096574464">
+<context>
+Beyond frustrated with my #Xbox360 right now, and that as of June, @Microsoft doesn't support it. Gotta find someone else to fix the drive.
+</context>
+</instance>
+<instance id="633905855797309440">
+<context>
+Such a retard! Somehow managed to get another trial for Amazon Prime and I've forgot to cancel it for a 2nd time
+</context>
+</instance>
+<instance id="634005145563570176">
+<context>
+@AviWoolf @laurakfillault I see it like this: Angela Merkel: German multiculturalism has 'utterly failed' http://t.co/hJmDawZ7dK
+</context>
+</instance>
+<instance id="634098901025484800">
+<context>
+Call from "John" @Microsoft "hello, i'd like to look at your computer, over the phone" Me:" ok, may I ask why your calling about my..(1/2)
+</context>
+</instance>
+<instance id="634299598467678208">
+<context>
+@TechCrunch the phone will be too tall and bulky and annoying to tolerate use. @Microsoft may lose it like @BlackBerry has
+</context>
+</instance>
+<instance id="634517732067778561">
+<context>
+@microsoft using Office 2013's Bing dictionary. type in "bound." This is the 3rd picture they show me. WTF?... http://t.co/VzwGIoLxco
+</context>
+</instance>
+<instance id="634728000702021632">
+<context>
+Red Sox game I have tickets to tonight may get rained out, same with AC/DC concert tomorrow night. Somebody give me some good news...
+</context>
+</instance>
+<instance id="634842103588233217">
+<context>
+Promised to take my niece to AC/DC tomorrow.  Soooo not in the mood now.
+</context>
+</instance>
+<instance id="634926683284336640">
+<context>
+Now I'm trying to get to @MicrosoftHelps @Microsoft @Windows support online for about the 5th time.m
+</context>
+</instance>
+<instance id="635669962074554368">
+<context>
+Yeah, I know it's Sunday delivery &amp; whatnot - and who else does that?! - but my Amazon Prime package is 3 and a half hours late... So far...
+</context>
+</instance>
+<instance id="636712645568163842">
+<context>
+Finally broke down and got Amazon Prime and the delivery on my 1st purchase as a member is late. @amazon I was expecting better.
+</context>
+</instance>
+<instance id="636861074256592896">
+<context>
+I hate you @Adobe, u crash more then any other application Tho @Microsoft office ur close 2nd U both can share #firstplace 4 my dislike 2day
+</context>
+</instance>
+<instance id="637179517832982528">
+<context>
+Illogical things are not Democracy. After Deutschen Nazis accussing Angela Merkel in betrayal, she may crack them by Police to be clear
+</context>
+</instance>
+<instance id="637830987108343808">
+<context>
+3rd rep just hung up on me. Absolutely devastated at how @microsoft's customer service treated me, wow.
+</context>
+</instance>
+<instance id="638643398090620928">
+<context>
+Angela Merkel told UK to take more of her 800,000 immigrants.That was April.Now she's putting in border controls http://t.co/lQNpkaGJZC
+</context>
+</instance>
+<instance id="639111212870037504">
+<context>
+Amazon Prime fucks me off so much, like you get really into something and then after like the 3rd season you have to pay. FUCK OFF.
+</context>
+</instance>
+<instance id="639292679524872192">
+<context>
+Angela Merkel's jackets: many colours but just one look http://t.co/ifVnBuQfgf
+</context>
+</instance>
+<instance id="639716079430967296">
+<context>
+@Microsoft why is the game evolve only available until Monday on the Xbox one? Why don't you just give it to us for free?
+</context>
+</instance>
+<instance id="640261386417897473">
+<context>
+@microsoft ur company will give me my 500 pounds plus the cost of the laptop on Monday for what u did to my laptop!
+</context>
+</instance>
+<instance id="640278345461141504">
+<context>
+Yes that's right @BBC close down your best channel why don't you? You're not meant to be Netflix or Amazon Prime. https://t.co/lGjY1zGkaV
+</context>
+</instance>
+<instance id="640681655271845888">
+<context>
+dear German citizens any concerns or criticisms you may have over my actions mean you are xenophobic and racist. i win love Angela Merkel
+</context>
+</instance>
+<instance id="640860896282046464">
+<context>
+Kinda sucks that the AC/DC concert is tomorrow cause I can't wait to see them play, but I don't want to go to school
+</context>
+</instance>
+<instance id="640960724215439360">
+<context>
+My grandma "despises" me going to see an AC/DC concert tomorrow
+</context>
+</instance>
+<instance id="641143732897628161">
+<context>
+@ReaganiteGOPer @Freedomoffreedo they are ORGANISING this invasion with the help of 5th columnista Angela  MERKEL who is selling out Germany
+</context>
+</instance>
+<instance id="641218935053000704">
+<context>
+E-books in US: prices rise due to deal Big 5 publishers with Amazon, sales down 9.3% (Jan-Jun 15) http://t.co/iaqoUrslrR /v @michaelbhaskar
+</context>
+</instance>
+<instance id="641303378719543296">
+<context>
+Aw man!My pre-ordered Blu-Ray copy from Amazon doesn't get here until the 14th!I should have just gone to the store! https://t.co/86ng9gtUMJ
+</context>
+</instance>
+<instance id="641368424145387521">
+<context>
+For anyone who lives in the UK &amp;has ordered Shay's book from Amazon, it isn't available for release day delivery so it won't come on the 6th
+</context>
+</instance>
+<instance id="641437722045890561">
+<context>
+Well one $99 Amazon prime fiasco later my stuff for the game Friday is guaranteed to be here Thursday...I'm counting on u Amazon!
+</context>
+</instance>
+<instance id="641472127665864704">
+<context>
+Amazon's refusal to integrate nicely with the Android ecosystem may have been its undoing in the Fire phone market.  http://t.co/6mBZz0eazc
+</context>
+</instance>
+<instance id="641499203730960384">
+<context>
+My Amazon package was supposed to be delivered today by 8pm. Guess that means I'll get it tomorrow before 8pm?
+</context>
+</instance>
+<instance id="641510138235367424">
+<context>
+@AmazonHelp You may please check my pending complaint with Amazon for which I write many emails and called customer care.
+</context>
+</instance>
+<instance id="641586058388344832">
+<context>
+I should remember that I may not care what Apple is announcing,but I do care about massive #sf disruptions like Apple @ Bill Graham. #fb
+</context>
+</instance>
+<instance id="641605506973306880">
+<context>
+Guy I'm working with probably disappointed that I don't care he's going to see AC/DC tomorrow
+</context>
+</instance>
+<instance id="641629245790404608">
+<context>
+AC/DC is in Toronto tomorrow and I can't believe I'm gonna miss it
+</context>
+</instance>
+<instance id="641648879646175232">
+<context>
+Amazon prime is literally a lie....I ordered a book LAST MONDAY &amp; it still isn't here. do better @amazon
+</context>
+</instance>
+<instance id="641654885583351808">
+<context>
+Come on Win10 users, just to screw with Apple's statistics let's stream their live event from the Edge browser :) http://t.co/e7SphsrFHr
+</context>
+</instance>
+<instance id="641661164783468545">
+<context>
+I'd call it plugins but Apple calls it complications https://t.co/dMNUgyf7G0
+</context>
+</instance>
+<instance id="620838510191362048">
+<context>
+Varoufakis may have some expertise in game theory, but Angela Merkel is the Grand Master of the game  http://t.co/mnz0XfzF1K
+</context>
+</instance>
+<instance id="621335034859925504">
+<context>
+**If you love a great deal-- don't forget Amazon Prime Day is today!    They have "Black Friday" type deals.  I... http://t.co/Tp8LQYoLzG
+</context>
+</instance>
+<instance id="621339506529054720">
+<context>
+It's AMAZON PRIME DAY  -- they say it's better than  BLACK FRIDAY so enjoy! http://t.co/sLkWG5d8fZ
+</context>
+</instance>
+<instance id="621341016587698176">
+<context>
+Today is "Wishlist Wednesday!"  It also happens to be Amazon Prime Day...get to it: http://t.co/BRsTDbinPI
+</context>
+</instance>
+<instance id="621345130700615680">
+<context>
+Amazon Prime Day, July 15th All Day, One Day Only Lots of good deals, check it out #happyprimeday... http://t.co/C56fTxkj3E
+</context>
+</instance>
+<instance id="621355228009472001">
+<context>
+WOOHOOO! They have released a list of the sneak peek deals for Amazon Prime Day tomorrow! Cheap Nikon Cameras,... http://t.co/iFxPpGGs8d
+</context>
+</instance>
+<instance id="621360556868521984">
+<context>
+Happy 20th Birthday Amazon! Amazon Prime day is bigger than black friday! Support QCHF, save money, and feel... http://t.co/VQAymDOG8N
+</context>
+</instance>
+<instance id="621375187255083008">
+<context>
+Today only is Amazon Prime Day, which offers more deals than Black Friday! If you plan to shop, don't forget to... http://t.co/NAr3TbYeMd
+</context>
+</instance>
+<instance id="621397987722416129">
+<context>
+Amazon Prime day might be better than Black Friday for real
+</context>
+</instance>
+<instance id="621410470252138496">
+<context>
+verge: Amazon Prime Day just outsold Black Friday http://t.co/BehdYR1U3m http://t.co/YkH7a6gWC4
+</context>
+</instance>
+<instance id="621417205742219264">
+<context>
+Amazon Prime Day: The big offers as retailer launches day of deals bigger than Black Friday https://t.co/ead3WAFEbT
+</context>
+</instance>
+<instance id="621441702021210112">
+<context>
+What have you scored today?   It's Amazon Prime Day ~ More Deals Than Black Friday! #HappyPrimeDay ----&gt; http://t.co/yKhWFKrvH3
+</context>
+</instance>
+<instance id="621554188288421888">
+<context>
+Self: Tis July 16 already. So proud of you for not falling for the Amazon Prime Day sale gimmick!   Other self: D'oh!
+</context>
+</instance>
+<instance id="621743210059198464">
+<context>
+"Amazon Prime Day had 18% higher sales than Black Friday, you whiners!"   See, little one, Black Friday has this thing called "competition".
+</context>
+</instance>
+<instance id="621761332489154562">
+<context>
+@WEWS Amazon Prime day was success in record sales. beating Black Friday, I got great deals on TV audio. so it's not just tupperware
+</context>
+</instance>
+<instance id="621831138298871808">
+<context>
+The best politicians tell people the truth, not what people want to hear.  Angela Merkel is awesome!  http://t.co/INXtjEBiyJ
+</context>
+</instance>
+<instance id="622005331409776641">
+<context>
+Amazon Prime Day sales up 18 per cent on Black Friday: Amazon has detailed its plans to make Prime Day an annu... http://t.co/vHkl7tO7vx
+</context>
+</instance>
+<instance id="622054383514177536">
+<context>
+Amazon Prime Day beats Black Friday sales: we're at the edge of the mobile shopping era http://t.co/7NqbNQ8IYZ via @TheDrum
+</context>
+</instance>
+<instance id="622155927098146816">
+<context>
+I wonder how many of the purchases fell into the impulse bracket? #PrimeDay Amazon Prime Day beats Black Friday sales http://t.co/a1MdPbWsri
+</context>
+</instance>
+<instance id="623131052031262720">
+<context>
+http://t.co/0yYKgupOm0 Amazon Prime Day beat Black Friday, but did they make any money? via @SupplyChain247 #logistics #supplychain
+</context>
+</instance>
+<instance id="627978419607871488">
+<context>
+@brianshall Depends on wearable tech being viable. I think so and the Apple Watch is already profitable so I think we'll see 2nd gen.
+</context>
+</instance>
+<instance id="628271880797970432">
+<context>
+Unlock your door from your wrist with #August Smart Lock for Apple Watch http://t.co/4RCmwFBipl #applewatch #apps
+</context>
+</instance>
+<instance id="628885558488637440">
+<context>
+On the ball, @Amazon: 2 emails today announcing that Clarkson, Hammond and May are to make a series about cars for Amazon Prime! Who knew?
+</context>
+</instance>
+<instance id="629226490152914944">
+<context>
+Microsoft, I may not prefer your gaming branch of business. But, you do make a damn fine operating system. #Windows10 @Microsoft
+</context>
+</instance>
+<instance id="629541944063074305">
+<context>
+@DailyJulianne But if I need a power adaptor that may be my next Amazon Prime buy tomorrow...tbh the luggage alone was stressful enough.
+</context>
+</instance>
+<instance id="629650766580609026">
+<context>
+Just ordered my 1st ever tablet; @Microsoft Surface Pro 3, i7/8GB 512GB SSD. Hopefully it works out for dev to replace my laptop =)
+</context>
+</instance>
+<instance id="629984420049592320">
+<context>
+Transparent is a good show, recommend it! On Amazon Prime though so if you don't have it you may have to locate another means of watching :P
+</context>
+</instance>
+<instance id="630159517058142208">
+<context>
+Sunday morning, quiet day so time to welcome in #Windows10 @Microsoft @Windows http://t.co/7VtvAzhWmV
+</context>
+</instance>
+<instance id="630801838544031744">
+<context>
+@TADAMZZ Those are some big words, I'm hyped. I'm getting it tomorrow, Amazon Prime is a beautiful thing.
+</context>
+</instance>
+<instance id="630871616575139840">
+<context>
+6 years ago this weekend, I saw AC/DC at United Center on a Friday and Blink-182 in Tinley the next day. it was the best weekend ever.
+</context>
+</instance>
+<instance id="630949831817605120">
+<context>
+@BaltanII Risers will help for sure I think, just got a couple sets from Amazon Prime due tomorrow to see if I like them or go elsewhere
+</context>
+</instance>
+<instance id="631368262979297281">
+<context>
+#Vote for @AIESEC to become the 10th Global non profit partner of @Microsoft for us to #UpgradeYourWorld together. @AIESECGermany
+</context>
+</instance>
+<instance id="631696872323850240">
+<context>
+@trucker_squigz @Microsoft @MISpeedway @nationwide88 Cant wait to see you up here. I will be at the race on sun
+</context>
+</instance>
+<instance id="631842974268305408">
+<context>
+@ScottArbeit @GabeAul @Microsoft isntall the newest version and you may chance your mind!
+</context>
+</instance>
+<instance id="631863912976252928">
+<context>
+@stephaniepratt Made in reality ordered from Amazon Prime - I'll have it tomorrow !!! Cant wait exciting timesxxxx
+</context>
+</instance>
+<instance id="632260719245967360">
+<context>
+Take the Highway to Dundas and check out FTATR (AC/DC cover band) on Sat at 6pm on the Main Stage! #dundascactus40 http://t.co/xiQdkga2Bk
+</context>
+</instance>
+<instance id="632293803072729089">
+<context>
+Requests for Oasis, Steve Miller Band, AC/DC, Big Country &amp; The Banter Thiefs all make the cut for tomorrow's #MFCLive Playlist.
+</context>
+</instance>
+<instance id="632362695602245632">
+<context>
+@annkillion Best day on the Green for me was Aerosmith, Foreigner, Pat Travers, Van Halen, AC/DC, (July 23, 1978).
+</context>
+</instance>
+<instance id="632477400178233344">
+<context>
+@suziperry Also I am off to New York in 7 days to see AC/DC (my ultimate faves) for the 29th time-followed by Van Halen the night after!
+</context>
+</instance>
+<instance id="632569836049141761">
+<context>
+Related: spending my Saturday watching the original Man From U.N.C.L.E. on Amazon Prime because HOW HAVE I NOT DONE THIS BEFORE??????
+</context>
+</instance>
+<instance id="632598549872672768">
+<context>
+Listening to early, live, AC/DC, covering Chuck Berry, while driving a black capri, with the windows down, in the sun. It's a good day.
+</context>
+</instance>
+<instance id="632658096150716416">
+<context>
+Nice: @BrandRepublic 2nd spot in Amazon Prime's #TV #campaign shows next day delivery coming to rescue of a lame #dog http://t.co/8Blxhg0SV7
+</context>
+</instance>
+<instance id="632911254957350912">
+<context>
+Ordered pair of cardboard cutters Friday on Amazon Prime arrived at my house at 3:32 this morning. I trust the drivers are getting paid well
+</context>
+</instance>
+<instance id="633367771191971840">
+<context>
+AC/DC with Vintage Trouble at Gillette Stadium on Sat, 8/22! Limited tix are available at http://t.co/eg2rut3Lv8 http://t.co/ROW0b2lfkh
+</context>
+</instance>
+<instance id="633464854737633280">
+<context>
+When you realize classes start the 9th so the AC/DC concert will be the best concert since Eminem and Jay-Z #thatwasgoat
+</context>
+</instance>
+<instance id="633621678392770560">
+<context>
+Decided to make the most of my Amazon Prime, by seeing what all the hype about #RayDonovan is about. 1st episode is heavy going..
+</context>
+</instance>
+<instance id="633662951778557952">
+<context>
+1981 Gino is pretty damn impressed with 2015 Gino for going to see AC/DC in Foxborough on Saturday.
+</context>
+</instance>
+<instance id="633684233005895680">
+<context>
+I have 2 extra tickets (on the field!) for the AC/DC concert on Saturday night at Gillette Stadium.  I'm looking... http://t.co/q2YaY6S3ch
+</context>
+</instance>
+<instance id="633757225945665537">
+<context>
+I traveled to Redmond today. I'm visiting with @Microsoft @SQLServer engineers tomorrow - at their invitation. Feeling excited.
+</context>
+</instance>
+<instance id="633837726106841088">
+<context>
+BACK IN BLACK by AC/DC was no.1 in the UK album charts on 18 August 1980
+</context>
+</instance>
+<instance id="633839875989590017">
+<context>
+Yeah, that's pretty real. Amazon Prime is that crack! Hopefully it won't rain until they deliver it to you. Lol https://t.co/YRzygSrRky
+</context>
+</instance>
+<instance id="634107085647511553">
+<context>
+We're excited to learn about #cloud #analytics from @Microsoft tomorrow! Join us https://t.co/p0bMREBBHC #tech #rva http://t.co/1XHmPdSvzq
+</context>
+</instance>
+<instance id="634596962608672768">
+<context>
+AC/DC will win #rock1000 with Thunderstruck! Has not won before but come 2nd at least once! @therockfm
+</context>
+</instance>
+<instance id="634728738941456384">
+<context>
+http://t.co/luX5VvBrmJ   Register 4 the NACR Skype for Business event with @Microsoft for Sept 16th Chevy Chase, MD #skype4B #contactcenter
+</context>
+</instance>
+<instance id="634738654175342592">
+<context>
+Did I miss something?  Just placed an order from Amazon Prime with free 2 day delivery and got a guaranteed date of Sunday?!?
+</context>
+</instance>
+<instance id="634869623075303424">
+<context>
+@GoldenBrookss @hab4lyf73  Right now, don't have any for the weekend. By Tuesday heading to AC/DC concert and then NYC!
+</context>
+</instance>
+<instance id="634896402594836484">
+<context>
+@ericfisher @cbsboston Eric, how is the weather for the AC/DC concert tomorrow night at Gillette looking?
+</context>
+</instance>
+<instance id="635106856612925440">
+<context>
+Making sure I get the most use out of my Amazon Prime account is my Saturday morning ritual.
+</context>
+</instance>
+<instance id="635230466329681920">
+<context>
+Just got my The Great Unknown  download Free on Amazon Prime! Sounds great!!! @ThisIsRobThomas it  just may be my new favorite CD!
+</context>
+</instance>
+<instance id="635658548265947136">
+<context>
+@Microsoft may just reinvent personal computing  http://t.co/dTVc3mtEO3  via @BusinessInsider  #HoloLens #Microsoft http://t.co/TrKifgMfTO
+</context>
+</instance>
+<instance id="635844755356819456">
+<context>
+@HeatherSolos @gameofkittens Amazon Prime should have it here by Wednesday. Squee!
+</context>
+</instance>
+<instance id="635867899173957634">
+<context>
+*counts down the days until October 6th and blesses Amazon Prime shipping* @JillShalvis
+</context>
+</instance>
+<instance id="635952446402072576">
+<context>
+@smilelikepink I like Scorpions, Guns, Ac/dc, I downloaded u playing Yesterday cause C'mon it's Beatles
+</context>
+</instance>
+<instance id="635976557098573825">
+<context>
+@SuzanneMalveaux @hollyrpeete @Microsoft @sfujita55 @TeamGleason @rocsidiaz FYI Suzanne was my 1st choice 2 b my biographer but GOD made it
+</context>
+</instance>
+<instance id="636287426235924480">
+<context>
+I just realized I'm seeing AC/DC tomorrow. Holy shit, I've waited nearly a year for this!
+</context>
+</instance>
+<instance id="636380976432680960">
+<context>
+Someone see AC/DC with me tomorrow, I'll buy your ticket
+</context>
+</instance>
+<instance id="636396611900321792">
+<context>
+I can't even begin to tell you how excited I am to go see AC/DC tomorrow http://t.co/APSkCbG9Wx
+</context>
+</instance>
+<instance id="636542685214437377">
+<context>
+Totally just got reminded I'm going to see AC/DC on the 20th!!! Wooo!!!
+</context>
+</instance>
+<instance id="636702823577612288">
+<context>
+@HurricaneDana If you have Amazon Prime, you can stream the first 2 seasons. I was hooked 1/2 way through the 1st ep.
+</context>
+</instance>
+<instance id="636904941328728064">
+<context>
+Sneaky Pete on Amazon Prime! Loved the 1st episode! #sneakypete https://t.co/uUuZac3g64
+</context>
+</instance>
+<instance id="636956939008786433">
+<context>
+Ordered some stuff off Amazon for the stream! should be here Saturday because of my free Amazon Prime trial that expires tomorrow.
+</context>
+</instance>
+<instance id="637023375987109892">
+<context>
+We're excited to announce that AC/DC tribute band Big Jack will take the main stage at Fall Jam on Sunday September 27th!
+</context>
+</instance>
+<instance id="637081475070844929">
+<context>
+AC/DC concert coming in September 8 at ford field already got me 2 tickets hell yeah! Just need to find me someone to go with ! Center stage
+</context>
+</instance>
+<instance id="637211482787287040">
+<context>
+Alex Theriault: AC/DC!! John and Holly are rockin'! All the way to Magnetic Hill to see AC/DC on September 5th!... http://t.co/tX2yciTzJH
+</context>
+</instance>
+<instance id="637229009844215808">
+<context>
+Angela Merkel: strong link between the euro and peace https://t.co/0AOvzufdIz
+</context>
+</instance>
+<instance id="637452274655211520">
+<context>
+It's Friday night, at home sipping on some Crown Royal Whisky, listening to AC/DC, talking and tweeting with friends.   Life is good!
+</context>
+</instance>
+<instance id="637722386683424768">
+<context>
+Just had my 1st experience with Amazon Prime. Holy. Crackers. Amazing.
+</context>
+</instance>
+<instance id="637867653139271682">
+<context>
+@Hartleyjustin I'll be in LA sept 27 for AC/DC concert and staying at the Pink Palace. Will be n LA so will check the place out!
+</context>
+</instance>
+<instance id="638129191817379840">
+<context>
+'They are fellow human beings' Angela Merkel on the refugee crisis. At last, a leader who is also a human being; http://t.co/rUGaSQsdWv
+</context>
+</instance>
+<instance id="638268341052948480">
+<context>
+Startup your Monday in the right way. Apply 2 our Pitch battle by @microsoft at #jointheUPRISE http://t.co/MoWnEAObqk http://t.co/Fkl9WdFkUZ
+</context>
+</instance>
+<instance id="638358086990741504">
+<context>
+Monday tiring you down? Pump it up with some AC/DC cover from the ladies night &amp; karaoke hosted by KJ &amp; DJ Martin... http://t.co/QvO1aJ2Azg
+</context>
+</instance>
+<instance id="638374587525238786">
+<context>
+Just remembered I'm going to see AC/DC this Thursday lol
+</context>
+</instance>
+<instance id="638545792047972352">
+<context>
+AC/DC tonight...One Direction on saturday, lets get itttttt #BigOsBumping
+</context>
+</instance>
+<instance id="638618791711084544">
+<context>
+Happy hour at @Microsoft #msapc2015 with @sarahvaughan and friends. Good luck for tomorrow's keynote http://t.co/emvqoeRS6j
+</context>
+</instance>
+<instance id="638881767542263808">
+<context>
+#llvm 3.7 is the 2nd release to incorporate contributions from my team at @microsoft. Congrats to all involved! :) https://t.co/IUtbNxonfw
+</context>
+</instance>
+<instance id="639002332219502592">
+<context>
+Traveling just got a bit more pleasant for Amazon Prime subscribers. On Tuesday, the online retail giant announced&amp;nbsp;that it's now
+</context>
+</instance>
+<instance id="639036500299116544">
+<context>
+Join us in prayer for Syrian refugees in Hungary Budapest,may our.Father bless Mrs Angela Merkel.Thank you Mrs Merkel http://t.co/ig7wPVCGKV
+</context>
+</instance>
+<instance id="639121032830394368">
+<context>
+2 days until #HandofGod arrives on Amazon Prime. We'll have a review for you tomorrow. Until then, here's a trailer: https://t.co/GX2dj7mTUe
+</context>
+</instance>
+<instance id="639151037094469633">
+<context>
+Tickets to see AC/DC @downsviewpark on the 10th coming up on #JustASec http://t.co/DN1CZLoct5
+</context>
+</instance>
+<instance id="639160139820498944">
+<context>
+Every time I use a paperclip I think of Clippy from @Microsoft Word. He may have (finally) left my screen, but he will never leave my brain!
+</context>
+</instance>
+<instance id="639410002260791296">
+<context>
+Apparently Germany leads the way. Well done Angela Merkel.  http://t.co/z4d0IFlAvq
+</context>
+</instance>
+<instance id="639457875270742017">
+<context>
+Strive Recreational Therapy has a few extra tickets for the AC/DC concert at Ford Field, Tues September 8th.... http://t.co/34lpoFLSZc
+</context>
+</instance>
+<instance id="639555024423649280">
+<context>
+God bless Angela Merkel and the people of Germany . . . Leading the way. May the UK government follow their example http://t.co/GRAl0rMwv4
+</context>
+</instance>
+<instance id="639580199303016448">
+<context>
+All NGO/NPOs should know about @techsoup: free/VERY low-cost software from @symantec, @Microsoft @Adobe &amp; lots more! https://t.co/MS5L2vzTxJ
+</context>
+</instance>
+<instance id="639842757289373696">
+<context>
+Burritos with my homegirl Darcy for lunch, hangs with @Signalnoise and MC Nauss tonight, AC/DC tomorrow and a long weekend. #winning
+</context>
+</instance>
+<instance id="640077457257795584">
+<context>
+Is anyone else going to/interested in going to see AC/DC on Tuesday?
+</context>
+</instance>
+<instance id="640242420228222976">
+<context>
+I really wish I was going to see AC/DC this Tuesday...
+</context>
+</instance>
+<instance id="640446365731057664">
+<context>
+Amazon Prime deliver on a Sunday...just saying...
+</context>
+</instance>
+<instance id="640490887861137409">
+<context>
+AC/DC is rocking out Perth's Domain Stadium in November... and we want you to be there!  Listen out for the cue... http://t.co/Ycra9z4MJn
+</context>
+</instance>
+<instance id="640529937481379841">
+<context>
+Anxiously looking forward to AC/DC on Tuesday night with Bob Wilson, Kyle Wilson and Kelsey Suisse!  Who else is going???
+</context>
+</instance>
+<instance id="640890222230798336">
+<context>
+I really want to thank Angela Merkel for letting all those refugees in. She shows what humanity is about. May God bless her #refugeeswelcome
+</context>
+</instance>
+<instance id="640896835234701312">
+<context>
+The new episode will be up on Friday but you can prepare by watching @Madonna dry her pits for free on Amazon Prime. http://t.co/PqzgM739gp
+</context>
+</instance>
+<instance id="640954164437237760">
+<context>
+Only reason im excited for tomorrow is the AC/DC concert
+</context>
+</instance>
+<instance id="641018928421060608">
+<context>
+Let's see... VaTech/OSU tonight AC/DC tomorrow night NFL kicks off Thursday 5:00 a.m. alarms every morning #startschoolyearoffwithnosleep!
+</context>
+</instance>
+<instance id="641033718275133441">
+<context>
+AC/DC tomorrow with @jamiscoates356 Idek if ill be going to school the next day tbh
+</context>
+</instance>
+<instance id="641097610040877056">
+<context>
+Someone come see AC/DC with me Thursday
+</context>
+</instance>
+<instance id="641186469944651776">
+<context>
+@TheHumbleSage Thanks for sharing this course Gary. :) You may want to check out this blogpost on Amazon ML as well: http://t.co/OyOBwIfDaj
+</context>
+</instance>
+<instance id="641191685234421760">
+<context>
+I can't tell you how much I am looking forward to AC/DC concert with my son in December. Um...OK, I can. Lots.
+</context>
+</instance>
+<instance id="641215923362271232">
+<context>
+Amazon to Release a $50 Tablet   Amazon plans to release a $50 tablet with a 6-inch  September 8, 2015 http://t.co/pMn4qxYB1d Cool Tech!!!
+</context>
+</instance>
+<instance id="641253680365334528">
+<context>
+Also, The Forsaken Comedy is free until Friday!  Pick up From Hell with Love and the sequels from Amazon http://t.co/oWLap47lZ7
+</context>
+</instance>
+<instance id="641256781428183042">
+<context>
+Out October 1 on Amazon US &amp; UK. (Thanks for the heads up @thatkiddjoe!) #MockingjayPart2 https://t.co/L83F32XlOl
+</context>
+</instance>
+<instance id="641267504296382464">
+<context>
+Mending the Piggy Bank | 10 FREE Children's Kindle eBooks on Amazon (September 8 Roundup) http://t.co/rzKDbZUpBU
+</context>
+</instance>
+<instance id="641274412629553152">
+<context>
+@strawbsoda I just got Amazon prime last night and ordered a new mouse pad, and it's gonna be here TOMORROW woo
+</context>
+</instance>
+<instance id="641284529982959616">
+<context>
+@mwVme we've got a 2nd gen roku and really enjoy it. same here with Netflix and Amazon Prime
+</context>
+</instance>
+<instance id="641287889112928256">
+<context>
+Amazon may intro a 6-inch, $50 tablet - half the price of its current low-priced model, for the holiday season
+</context>
+</instance>
+<instance id="641310847470567424">
+<context>
+When Apple brings games to AppleTV tomorrow, it will matter because unlike OUYA, Amazon. Razer, etc, Apple has 10's of millions of AppleTVs
+</context>
+</instance>
+<instance id="641323432186089473">
+<context>
+Judging by all the book-sized packages awaiting her arrival tomorrow, our local indie bookshop owner is an Amazon Prime member. #awkward
+</context>
+</instance>
+<instance id="641330241965789184">
+<context>
+Preview "Suite 12" on Amazon and check out the album tomorrow! #urbanartsent #1smrecords #doingjusticeishine http://t.co/HKC5T0VQKE
+</context>
+</instance>
+<instance id="641342385348210690">
+<context>
+. @bzamayo I think you're right. Given Amazon's advances with Alexa Skills Kit and Echo, a 3rd party Siri API has got to be on the cards.
+</context>
+</instance>
+<instance id="641357094654885888">
+<context>
+Amazon may be cooking up a $50 tablet The Internet giant is reportedly working on new Fire tablets for the... http://t.co/yRmqFq3PxN
+</context>
+</instance>
+<instance id="641358180711206915">
+<context>
+#RT The 3rd book in The Viking's Apprentice series has been released. Amazon users get it here http://t.co/0pJjo6xXN7 #amreading
+</context>
+</instance>
+<instance id="641368361343975424">
+<context>
+Let's get thru this Epic Tuesday with T.N.T. (AC/DC) by Carles Badal #np on #SoundCloud https://t.co/R96hlA1NaP #tuesday #aftertheholiday
+</context>
+</instance>
+<instance id="641372287694823424">
+<context>
+@clayton_simms @Microsoft I might but I'm gonna wait a bit to see if they patch it. You coming sat?
+</context>
+</instance>
+<instance id="641380820180172801">
+<context>
+Adventures of Thor,  Bath Time. 2nd  children's book coming soon to Amazon. It's about a cute beagle and bath time. http://t.co/gRhsRLeCZM
+</context>
+</instance>
+<instance id="641403775442362368">
+<context>
+CINCH YOUR SADDLE is live on Amazon!  Only 99 cents until tomorrow evening.Thank you gift! http://t.co/J5t7LzjquS http://t.co/MOO1hUsmIQ
+</context>
+</instance>
+<instance id="641407598084923393">
+<context>
+@jurxssicpratt i just ordered one from Amazon it'll be here on Friday let's fucking rOLL
+</context>
+</instance>
+<instance id="641426301845393412">
+<context>
+Somewhere, my mother just sat straight up in bed. "Is that...a cowboy hat? ARE THERE BABIES INVOLVED?" ::she desperately clicks on Amazon::
+</context>
+</instance>
+<instance id="641454770897588224">
+<context>
+Grady Harp - Top 100 Reviewer on Amazon gave my 1st #sophieandscottie book 4 stars and the 2nd book 5 stars. #chapterbooks #juvenilefiction
+</context>
+</instance>
+<instance id="641468264413945856">
+<context>
+there and I added quite a few items to my "Wish List" that they have on Amazon for items I may wanna purchase in the future)and earlier
+</context>
+</instance>
+<instance id="641476313761611776">
+<context>
+Amazon is offering free two hour shipping or 7.99 one hour shipping. I'm going to have to try this out tomorrow.
+</context>
+</instance>
+<instance id="641506752848990208">
+<context>
+; A; impulsively bought a docking station for my laptop 'cause I needed one and amazon said it would arrive tomorrow if I ordered now
+</context>
+</instance>
+<instance id="641514019304697856">
+<context>
+New wish list on Amazon.  Hoping to get on @chaturbate tomorrow during the day ;) http://t.co/1PJi1AeCfY
+</context>
+</instance>
+<instance id="641566947566616576">
+<context>
+@adams0421 Thanks! Make sure you snag a copy from Amazon or your local shop so you're ready for issue 11 in November :)
+</context>
+</instance>
+<instance id="641594046968918016">
+<context>
+Realising that its 9th sept today &amp; Apple will be announcing the new iphone at #AppleEvent today made my day!! #CantWait #Excited
+</context>
+</instance>
+<instance id="641595682948841472">
+<context>
+PSA:  Apple event starts in 10 minutes, a worthy distraction for ignoring whatever class you may be in.
+</context>
+</instance>
+<instance id="641602373131988992">
+<context>
+How the new Apple TV may change the way we watch television: Believe it or not, but the star of Apple's big me... http://t.co/D6wzcLhPA1
+</context>
+</instance>
+<instance id="641609620688097280">
+<context>
+Interesting, the Apple event stream now allows you to watch from the Microsoft Edge browser on Windows 10 http://t.co/oOprswkxA1
+</context>
+</instance>
+<instance id="641620321544507392">
+<context>
+Excited to hear about the new tech today from Apple !! https://t.co/mlCNRQ53fk
+</context>
+</instance>
+<instance id="641623037914284033">
+<context>
+Apple's September Special Event tonight :D #iphone6S #iphone #apple #live #september http://t.co/2GJKSixJKd
+</context>
+</instance>
+<instance id="641626146262552576">
+<context>
+May the Force (touch) be with you, Apple. Unleash that monster iPad. Come on! #AppleEvent
+</context>
+</instance>
+<instance id="641627924785963008">
+<context>
+Apple product launch at 6pm UK time. I will race home to watch, get caught up in the hype, then calm down tomorrow and buy nothing.
+</context>
+</instance>
+<instance id="641629066223833088">
+<context>
+amazon: http://t.co/bS0inFfjok Listen to ad free music online with Amazon Here http://t.co/9Y3QhDQVHB and sign up for free
+</context>
+</instance>
+<instance id="641631875472195584">
+<context>
+@GabeAul Live stream of Apple event requires &lt;long list of Apple stuff&gt;, or a PC with Microsoft Edge on Windows 10. http://t.co/XDATnjSpAA
+</context>
+</instance>
+<instance id="641633209445425152">
+<context>
+It's time! Come hang out with @nmiuga folks in the common area of the 4th floor of Grady to watch Apple's big announcements at 1PM!
+</context>
+</instance>
+<instance id="641635449925189632">
+<context>
+Love sales and Apple watches? Join @AppNeta on 9/16 from 6-8PM EST @DistrictHall for the 1st Fall Sales Invitational http://t.co/T5VrG6hSWz
+</context>
+</instance>
+<instance id="641636191767498752">
+<context>
+9 September has arrived, which means Apple's new iPhone is now just hours away from becoming an official thing. http://t.co/t6BgVRns0Z
+</context>
+</instance>
+<instance id="641638855477731328">
+<context>
+I wanna go see AC/DC so bad on the 15th.
+</context>
+</instance>
+<instance id="641640811696795648">
+<context>
+May be sick, but I'm still tuning into the Apple event thing at 10, because I want to support my babu.
+</context>
+</instance>
+<instance id="641641510384087040">
+<context>
+If drake drops at Apple music I'm not going school tomorrow I'm taking a day off
+</context>
+</instance>
+<instance id="641646262786375681">
+<context>
+If you can't watch Apple's video stream, follow the news in @wsjd's live blog: http://t.co/sQ7PVmld9F Did somebody say "rose gold iPhones"?
+</context>
+</instance>
+<instance id="641648591279378433">
+<context>
+Congratulations to Jessie, for winning the July/August challenge! A $250.00 gift card to Amazon! Great job Jessie!!! http://t.co/GN5ZeuWjD7
+</context>
+</instance>
+<instance id="641649387492503552">
+<context>
+Just 30 minutes to go for the Apple event live: http://t.co/QnvxEYM6l8
+</context>
+</instance>
+<instance id="641653341659901953">
+<context>
+Don't want to watch a scope of the #Apple Event livestream? Go directly to Apple site. http://t.co/ZCqcFKlw44
+</context>
+</instance>
+<instance id="641654835037736960">
+<context>
+t-minus 10 minutes! c'mon Apple, gimme something good to obsess about and sell my body for
+</context>
+</instance>
+<instance id="641656816846405632">
+<context>
+Apple announcement event just starting... http://t.co/0nL7gTzYmb #apple
+</context>
+</instance>
+<instance id="641658989139357696">
+<context>
+Apple's Tim Cook has just taken to the stage promising some mega announcements - even skipping the regular updates: http://t.co/Ck2ZfTwXrI
+</context>
+</instance>
+<instance id="641659630595244032">
+<context>
+From the #AppleEvent - New watch faces &amp; 3rd-party complications + Facebook messenger, GoPro, and Airstrip coming to Apple watch
+</context>
+</instance>
+<instance id="641660922214359040">
+<context>
+Nero: Apple event is about to start. Apparently they are about to get serious about gaming. Again. http://t.co/lro0FWTISB
+</context>
+</instance>
+<instance id="641661698366025728">
+<context>
+Really excited about Apple Watches collab with #Hermes - so beautiful! The new models with a new OS update - everything is available Sept 16
+</context>
+</instance>
+<instance id="641662294125072384">
+<context>
+This looks like the best live blog of Apple event today http://t.co/bjePxegdYe
+</context>
+</instance>
+</lexelt>
+</corpus>

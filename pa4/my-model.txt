@@ -1,0 +1,1293 @@
+Training data information:
+
+Word sense frequency:
+phone: 178
+product: 196
+
+-1W frequency:
+('phone', 'access')		15
+('product', 'the')		7
+('product', 'struggling')		1
+('phone', 'new')		1
+('product', 'computer')		6
+('product', 'previous')		1
+('product', 'three')		1
+('product', 'skin-care')		2
+('product', 'Atlas')		1
+('phone', 'the')		45
+('product', 'furniture')		1
+('phone', 'gab')		3
+('phone', 'tip')		2
+('phone', 'telephone')		32
+('product', 'microprocessor')		2
+('product', 'non-food')		1
+('product', 'rail-intermodal')		1
+('phone', 'dedicated')		1
+('product', 'car')		9
+('product', 'complete')		1
+('product', 'luxury-car')		1
+('phone', 'outside')		2
+('product', 'Smith')		1
+('phone', 'telephone-')		2
+('product', 'food')		2
+('product', 'their')		1
+('phone', 'as')		1
+('product', "'s")		1
+('product', 'similar')		2
+('product', 'R')		1
+('product', 'a')		19
+('phone', 'bisexual')		1
+('phone', 'complaint')		1
+('product', 'truck')		1
+('product', 'IBM')		3
+('product', 'integrated')		1
+('product', 'new')		9
+('product', 'popular')		1
+('product', 'diagnostics')		1
+('phone', 'toll-free')		1
+('product', 'several')		1
+('phone', 'trading')		3
+('product', "company's")		2
+('phone', 'whose')		2
+('phone', 'radio')		1
+('product', 'such')		1
+('phone', 'unsecured')		1
+('phone', 'private')		2
+('product', 'older')		1
+('product', 'Carleton')		1
+('product', 'other')		1
+('phone', 'subscriber')		2
+('product', 'fragrance')		1
+('product', 'PC')		1
+('phone', 'The')		7
+('phone', 'dead')		1
+('product', 'aerospace')		1
+('product', 'in')		1
+('product', 'GM-')		1
+('product', 'apparel')		1
+('product', 'those')		1
+('product', 'billion')		1
+('product', 'cereal')		1
+('phone', '"gab"')		1
+('product', 'perfume')		1
+('product', 'Jeep')		1
+('product', '-model')		1
+('product', 'A')		2
+('product', 'torpedo')		1
+('product', 'lastest')		1
+('product', 'marketing')		2
+('product', 'broader')		1
+('product', 'latest')		1
+('phone', 'other')		1
+('phone', 'customer')		2
+('product', 'diaper')		1
+('product', '"older')		1
+('product', 'product')		4
+('product', 'These')		1
+('product', 'Prix')		1
+('product', 'PS/')		6
+('product', 'his')		2
+('product', 'full')		2
+('phone', 'your')		1
+('product', 'Cougar')		1
+('product', 'cracker')		1
+('phone', 'gab-')		1
+('product', 'dreamboat')		1
+('phone', 'a')		1
+('product', 'Kids')		1
+('product', 'equipment')		1
+('product', 'tire')		1
+('phone', 'this')		1
+('product', '$')		1
+('phone', 'open')		1
+('product', 'menswear')		1
+('product', 'products')		2
+('product', 'jewelry')		1
+('product', 'shoe')		1
+('phone', 'million')		1
+('product', 'camera')		1
+('phone', 'that')		1
+('product', "women's")		1
+('phone', 'romance')		1
+('phone', 'than')		2
+('product', "Sun's")		1
+('phone', 'all')		1
+('phone', 'party')		2
+('product', 'software')		1
+('product', 'Macintosh')		1
+('phone', 'crossed')		1
+('product', 'Amiga')		1
+('product', 'Spectrum')		1
+('phone', 'direct')		4
+('product', "GM's")		1
+('phone', 'using')		1
+('phone', 'party-')		1
+('product', 'old')		2
+('phone', 'important')		1
+('product', 'Ziari')		1
+('phone', 'and')		1
+('phone', 'only')		1
+('phone', 'information')		2
+('product', 'specialized')		1
+('product', 'its')		3
+('product', 'Lexus')		1
+('product', 'current')		2
+('product', 'drink')		1
+('product', 'at')		1
+('product', 'office-equipment')		1
+('product', 'Corsica')		1
+('product', 'credit')		1
+('product', 'building-materials')		1
+('phone', 'with')		1
+('product', 'specialty-food')		1
+('product', 'Transformers')		1
+('phone', 'exchange')		1
+('phone', 'his')		1
+('product', 'Clarion')		1
+('product', 'machinery')		1
+('product', 'some')		2
+('product', 'Denton')		1
+('phone', 'Hospital')		1
+('product', 'military')		1
+('product', 'George')		1
+('product', 'long-awaited')		1
+('product', 'chemicals')		1
+('product', 'nail-polish')		1
+('product', 'exclusive')		1
+('phone', 'about')		3
+('phone', 'clogged')		1
+('product', 'Lanterns')		1
+('product', 'acquired')		1
+('product', 'The')		1
+('product', 'PW')		1
+('phone', 'private-')		1
+('product', 'consumer-products')		1
+('product', 'sewing')		1
+('product', 'health-club')		1
+('phone', 'extending')		1
+('phone', 'Business')		1
+('phone', 'asynchronous')		1
+('product', "Coleco's")		1
+('product', 'bit')		1
+('product', 'Zytel')		1
+('phone', 'another')		1
+('phone', 'X-rated')		1
+('product', 'advertised')		1
+('phone', 'one-on-one')		1
+('product', 'filter')		1
+('product', 'VAX')		2
+('phone', 'emergency')		1
+('product', 'priced')		1
+('product', 'huge')		1
+('product', 'Marx')		1
+('phone', 'subscriber-')		1
+('product', 'optometric')		1
+('product', 'ground-coffee')		1
+('phone', 'sex')		1
+('product', '{product}')		1
+('product', 'Fox')		1
+('phone', 'chat')		1
+('phone', 'ordinary')		1
+('phone', 'communications')		1
+('product', 'X')		1
+('product', 'future')		1
+('phone', '"')		1
+('product', 'Lancome')		1
+
++1W frequency:
+('phone', 'growth')		3
+('product', 'as')		2
+('product', 'was')		1
+('phone', 'to')		13
+('product', 'and')		10
+('product', 'at')		2
+('product', 'is')		6
+('product', 'could')		2
+('phone', 'have')		1
+('phone', 'that')		5
+('phone', 'busy')		1
+('phone', 'increased')		3
+('product', 'which')		3
+('product', '"')		4
+('product', 'of')		56
+('phone', 'making')		2
+('phone', 'and')		15
+('product', 'may')		1
+('phone', 'was')		12
+('product', 'in')		4
+('phone', 'but')		2
+('phone', 'increase')		1
+('phone', 'used')		1
+('product', 'made')		1
+('phone', 'recently')		2
+('phone', 'of')		1
+('product', 'through')		3
+('product', 'showed')		1
+('phone', 'for')		2
+('product', 'such')		1
+('phone', 'yesterday')		1
+('phone', 'first')		1
+('product', 'by')		2
+('phone', 'into')		1
+('product', 'to')		6
+('product', 'into')		2
+('phone', 'the')		2
+('product', 'will')		2
+('phone', 'while')		2
+('phone', "let's")		1
+('phone', 'light')		1
+('phone', 'charges')		2
+('product', 'from')		3
+('product', "wouldn't")		1
+('phone', 'over')		1
+('phone', 'were')		5
+('product', 'ranging')		1
+('product', 'were')		2
+('product', 'with')		2
+('phone', '"')		3
+('product', '"Elizabeth')		1
+('phone', 'will')		1
+('phone', 'called')		1
+('product', 'this')		1
+('phone', 'grew')		3
+('product', 'but')		2
+('product', 'products"')		1
+('product', 'particularly')		1
+('product', 'under')		1
+('phone', 'just')		1
+('product', 'are')		3
+('phone', 'at')		3
+('phone', 'no')		1
+('product', 'that')		2
+('phone', 'once')		1
+('phone', 'dialed')		1
+('phone', 'in')		8
+('phone', 'proprietors')		1
+('phone', 'went')		3
+('phone', 'open')		2
+('phone', 'from')		1
+('product', 'had')		1
+('phone', 'between')		1
+('phone', 'or')		1
+('phone', 'if')		1
+('phone', '--')		3
+('product', 'where')		1
+('product', 'built')		1
+('phone', 'mainly')		2
+('product', 'pacing')		1
+('product', 'rose')		1
+('phone', 'with')		1
+('product', 'has')		2
+('phone', 'they')		2
+('product', 'moved')		1
+('phone', 'a')		3
+('product', 'called')		1
+('phone', 'because')		1
+('phone', 'effect')		1
+('product', 'he')		1
+('phone', 'adapters')		1
+('phone', 'last')		1
+('phone', 'says')		1
+('phone', 'which')		1
+('product', 'said')		1
+('phone', 'is')		2
+('product', 'machines')		1
+('product', '--')		1
+('product', 'the')		1
+('phone', 'so')		1
+('product', 'last')		2
+('product', ';')		1
+('phone', 'be')		1
+('product', 'have')		2
+('product', 'fell')		1
+('phone', 'sir')		1
+('phone', 'like')		2
+('product', 'it')		1
+('phone', 'according')		1
+('phone', 'during')		1
+('product', 'making')		1
+('product', 'planned')		1
+('phone', 'appealing')		1
+('product', 'there')		1
+('product', "won't")		1
+('product', 'they')		1
+('product', 'Bally')		1
+('product', 'for')		2
+('product', "Cray's")		1
+('phone', 'played')		1
+('product', 'included')		1
+('product', 'because')		1
+('product', 'so')		1
+('phone', 'charge')		1
+('phone', 'jumped')		1
+('phone', 'are')		1
+('product', 'Hormel')		1
+('phone', 'noise')		1
+('product', 'anymore')		1
+
+-2W, -1W frequency:
+('phone', ('%', 'access'))		1
+('product', ('establish', 'the'))		1
+('product', ('the', 'struggling'))		1
+('phone', ('about', 'new'))		1
+('product', ('mid-range', 'computer'))		1
+('product', ('the', 'previous'))		1
+('product', ('the', 'three'))		1
+('product', ('Prairie', 'skin-care'))		1
+('product', ('certain', 'Atlas'))		1
+('phone', ('on', 'the'))		21
+('product', ('The', 'furniture'))		1
+('phone', ('the', 'gab'))		1
+('phone', ('telephone', 'tip'))		1
+('phone', ('thousand', 'access'))		2
+('phone', ('keep', 'the'))		1
+('phone', ('residential', 'telephone'))		1
+('product', ('the', 'microprocessor'))		1
+('phone', ('long-distance', 'telephone'))		1
+('product', ('its', 'non-food'))		1
+('product', ('The', 'rail-intermodal'))		1
+('phone', ('or', 'dedicated'))		1
+('product', ('between', 'car'))		1
+('product', ('more', 'complete'))		1
+('phone', ('private', 'telephone'))		3
+('product', ('new', 'luxury-car'))		1
+('phone', ('switched', 'the'))		1
+('phone', ('an', 'outside'))		2
+('product', ('Jaclyn', 'Smith'))		1
+('phone', ('telephone', 'access'))		3
+('phone', ('up', 'the'))		1
+('phone', ('"largest', 'telephone-'))		1
+('product', ('frozen', 'food'))		1
+('phone', ('over', 'the'))		2
+('product', ('expand', 'their'))		1
+('phone', ('many', 'as'))		1
+('product', ('Corp', "'s"))		1
+('product', ('a', 'similar'))		2
+('product', ('and', 'R'))		1
+('product', ('launch', 'a'))		2
+('phone', ('of', 'the'))		10
+('phone', ("Megaquest's", 'bisexual'))		1
+('phone', ('York', 'telephone'))		1
+('phone', ('toll-free', 'complaint'))		1
+('product', ('and', 'truck'))		1
+('product', ('new', 'IBM'))		3
+('product', ('its', 'integrated'))		1
+('product', ('the', 'new'))		1
+('product', ('a', 'popular'))		1
+('phone', ('necessary', 'telephone'))		1
+('product', ("company's", 'diagnostics'))		1
+('phone', ('a', 'toll-free'))		1
+('product', ('of', 'several'))		1
+('phone', ('their', 'trading'))		1
+('product', ('apparel', "company's"))		1
+('product', ('highest-volume', 'car'))		1
+('phone', ('off', 'the'))		2
+('phone', ('phone', 'whose'))		1
+('product', ('create', 'a'))		1
+('product', ('popular', 'car'))		1
+('phone', ('and', 'telephone'))		1
+('phone', ('open', 'radio'))		1
+('product', ('acquired', 'food'))		1
+('product', ('building', 'the'))		1
+('phone', ('you', 'the'))		1
+('phone', ('new', 'telephone'))		2
+('product', ('While', 'such'))		1
+('phone', ('an', 'unsecured'))		1
+('phone', ('dedicated', 'private'))		1
+('product', ('from', 'older'))		1
+('product', ('its', 'Carleton'))		1
+('phone', ('see', 'the'))		1
+('product', ("Brands'", 'other'))		1
+('phone', ('pay', 'subscriber'))		1
+('phone', ('new', 'access'))		3
+('product', ('Montana', 'fragrance'))		1
+('product', ('IBM', 'PC'))		1
+('phone', ('four', 'telephone'))		1
+('phone', ('over', 'telephone'))		2
+('product', ('out', 'a'))		1
+('phone', ('a', 'dead'))		1
+('product', ('its', 'aerospace'))		1
+('product', ('sellers', 'in'))		1
+('product', ('The', 'GM-'))		1
+('product', ('the', 'apparel'))		1
+('product', ('that', 'those'))		1
+('product', ('$', 'billion'))		1
+('product', ('produces', 'a'))		1
+('product', ("Nabisco's", 'cereal'))		1
+('product', ('its', 'new'))		2
+('product', ('the', "company's"))		1
+('phone', ('provide:', '"gab"'))		1
+('product', ('tried', 'a'))		1
+('product', ('new', 'perfume'))		1
+('phone', ('special', 'telephone'))		1
+('product', ('the', 'Jeep'))		1
+('product', ('its', '-model'))		1
+('product', ('BRIEFS:', 'A'))		1
+('phone', ('toll-free', 'telephone'))		2
+('product', ('current', 'car'))		1
+('product', ('submarine-seeking', 'torpedo'))		1
+('product', ("IBM's", 'lastest'))		1
+('product', ('and', 'marketing'))		1
+('phone', ('New', 'telephone'))		1
+('product', ('much', 'broader'))		1
+('product', ("source's", 'latest'))		1
+('phone', ('the', 'other'))		1
+('phone', ('New', 'customer'))		1
+('phone', ('than', 'access'))		1
+('product', ('adult', 'diaper'))		1
+('product', ('mostly', '"older'))		1
+('product', ('most', 'product'))		1
+('product', ('Grand', 'Prix'))		1
+('product', ("'s", 'PS/'))		1
+('product', ('from', 'his'))		1
+('product', ('its', 'full'))		1
+('phone', ('clogged', 'the'))		1
+('product', ("IBM's", 'PS/'))		2
+('phone', ('dozen', 'telephone'))		1
+('phone', ('on', 'your'))		1
+('phone', ('direct', 'trading'))		1
+('product', ('and', 'Cougar'))		1
+('phone', ('in', 'subscriber'))		1
+('product', ('and', 'cracker'))		1
+('product', ('dropping', 'the'))		1
+('phone', ('residents', 'whose'))		1
+('phone', ('Calif', 'gab'))		1
+('phone', ('about', 'access'))		1
+('phone', ('other', 'gab-'))		1
+('product', ("Hollywood's", 'dreamboat'))		1
+('phone', ('keep', 'a'))		1
+('product', ('Patch', 'Kids'))		1
+('product', ('excavation', 'equipment'))		1
+('product', ('American', 'tire'))		1
+('product', ('a', 'new'))		6
+('phone', ('Keep', 'this'))		1
+('phone', ('lost', 'the'))		1
+('product', ('to', '$'))		1
+('phone', ('an', 'open'))		1
+('product', ('midrange', 'product'))		1
+('product', ('complete', 'menswear'))		1
+('product', ('eye-care', 'products'))		1
+('product', ('of', 'jewelry'))		1
+('product', ('athletic', 'shoe'))		1
+('phone', ('clogged', 'telephone'))		2
+('phone', ('has', 'million'))		1
+('product', ('its', 'camera'))		1
+('phone', ('on', 'that'))		1
+('phone', ('dedicated', 'telephone'))		1
+('product', ('the', "women's"))		1
+('phone', ('said', 'access'))		1
+('phone', ('of', 'telephone'))		1
+('product', ('Tower', 'computer'))		1
+('product', ('a', 'full'))		1
+('phone', ('and', 'romance'))		1
+('phone', ('more', 'than'))		2
+('product', ('produce', 'a'))		1
+('phone', ('installed', 'trading'))		1
+('product', ('of', "Sun's"))		1
+('phone', ('Edmonton', 'the'))		1
+('phone', ('but', 'all'))		1
+('phone', ('toll-call', 'party'))		1
+('product', ('Choice', 'software'))		1
+('phone', ('some', 'private'))		1
+('product', ("'s", 'Macintosh'))		1
+('product', ('Mirage', 'car'))		1
+('phone', ('to', 'crossed'))		1
+('product', ('its', 'Amiga'))		1
+('product', ('The', 'Spectrum'))		1
+('phone', ('by', 'direct'))		1
+('product', ('time', "GM's"))		1
+('phone', ('for', 'using'))		1
+('phone', ('customer', 'access'))		1
+('product', ('II', 'computer'))		1
+('product', ('its', 'computer'))		1
+('phone', ('new', 'customer'))		1
+('phone', ('the', 'telephone'))		2
+('phone', ('The', 'party-'))		1
+('product', ('its', 'old'))		1
+('product', ('for', 'the'))		1
+('phone', ('another', 'telephone'))		1
+('phone', ('most', 'important'))		1
+('product', ("'s", 'Ziari'))		1
+('phone', ('hardware', 'and'))		1
+('phone', ('handle', 'only'))		1
+('phone', ('running', 'gab'))		1
+('product', ('manufacture', 'a'))		1
+('phone', ('The', 'information'))		1
+('product', ('other', 'marketing'))		1
+('product', ('a', 'specialized'))		1
+('product', ('broaden', 'its'))		1
+('product', ('luxury', 'Lexus'))		1
+('product', ('upscale', 'car'))		1
+('phone', ('through', 'telephone'))		1
+('product', ('because', 'its'))		1
+('phone', ('for', 'direct'))		1
+('product', ('its', 'current'))		2
+('product', ('soft', 'drink'))		1
+('phone', ('of', 'access'))		1
+('product', ('just', 'at'))		1
+('product', ('its', 'office-equipment'))		1
+('product', ('the', 'old'))		1
+('product', ('Chevrolet', 'Corsica'))		1
+('product', ('The', 'credit'))		1
+('product', ('the', 'building-materials'))		1
+('phone', ('including', 'telephone'))		1
+('phone', ('business', 'with'))		1
+('phone', ('and', 'the'))		1
+('phone', ('poorest', 'telephone-'))		1
+('product', ('smaller', 'specialty-food'))		1
+('phone', ('a', 'direct'))		2
+('product', ('IBM', 'PS/'))		1
+('product', ('read', 'the'))		1
+('product', ('its', 'skin-care'))		1
+('product', ('and', 'Transformers'))		1
+('phone', ('foreign', 'exchange'))		1
+('phone', ('Would', 'his'))		1
+('product', ('and', 'Clarion'))		1
+('product', ('agricultural', 'machinery'))		1
+('product', ('all', 'its'))		1
+('product', ('for', 'some'))		1
+('product', ('under', 'the'))		1
+('phone', ('"secure"', 'telephone'))		1
+('phone', ('more', 'telephone'))		1
+('product', ('Dr', 'Denton'))		1
+('product', ('have', 'a'))		1
+('phone', ('the', 'Hospital'))		1
+('product', ('lucrative', 'military'))		1
+('product', ('of', 'his'))		1
+('product', ('by', 'George'))		1
+('product', ('markets', 'a'))		1
+('product', ('its', 'long-awaited'))		1
+('product', ('basic', 'chemicals'))		1
+('product', ('and', 'nail-polish'))		1
+('phone', ('million', 'access'))		1
+('product', ('its', 'microprocessor'))		1
+('product', ('an', 'exclusive'))		1
+('phone', ('for', 'about'))		1
+('product', ('its', 'car'))		1
+('product', ('products', 'a'))		1
+('phone', ('says', 'clogged'))		1
+('product', ('main', 'computer'))		1
+('product', ('Oh', 'Lanterns'))		1
+('product', ('the', 'acquired'))		1
+('product', ("Pratt's", 'PW'))		1
+('product', ('its', 'PS/'))		2
+('phone', ('consumer', 'information'))		1
+('product', ('shedding', 'some'))		1
+('phone', ('sentence', 'the'))		1
+('phone', ('many', 'private-'))		1
+('product', ('other', 'consumer-products'))		1
+('product', ('personal', 'computer'))		1
+('product', ('introduced', 'a'))		4
+('product', ('its', 'sewing'))		1
+('phone', ('installing', 'about'))		1
+('product', ('the', 'health-club'))		1
+('phone', ('that', 'extending'))		1
+('phone', ('or', 'asynchronous'))		1
+('product', ('of', "Coleco's"))		1
+('product', ('drilling', 'bit'))		1
+('product', ('its', 'Zytel'))		1
+('phone', ('on', 'another'))		1
+('phone', ('their', 'telephone'))		1
+('phone', ('new', 'X-rated'))		1
+('product', ('nationally', 'advertised'))		1
+('product', ('with', 'a'))		1
+('phone', ('a', 'one-on-one'))		1
+('product', ('initial', 'filter'))		1
+('phone', ('serves', 'about'))		1
+('phone', ('three', 'telephone'))		1
+('product', ("company's", 'car'))		1
+('product', ('its', 'VAX'))		1
+('product', ('for', 'a'))		1
+('product', ("Digital's", 'VAX'))		1
+('phone', ('the', 'emergency'))		1
+('product', ('reasonably', 'priced'))		1
+('product', ('new', 'product'))		1
+('product', ('already', 'huge'))		1
+('product', ('&', 'Marx'))		1
+('product', ('with', 'the'))		1
+('product', ('existing', 'product'))		1
+('product', ('consumer', 'products'))		1
+('phone', ('the', 'subscriber-'))		1
+('product', ('The', 'optometric'))		1
+('product', ('its', 'ground-coffee'))		1
+('product', ('and', 'a'))		1
+('phone', ('in', 'sex'))		1
+('product', ('the', '{product}'))		1
+('product', ('entry-level', 'Fox'))		1
+('phone', ('a', 'chat'))		1
+('phone', ('over', 'ordinary'))		1
+('phone', ('business', 'telephone'))		1
+('phone', ('renting', 'communications'))		1
+('product', ('sturdy', 'X'))		1
+('product', ('testing', 'a'))		1
+('phone', ('the', 'tip'))		1
+('product', ('some', 'future'))		1
+('phone', ('no', '"'))		1
+('product', ('a', 'car'))		1
+('product', ("'s", 'Lancome'))		1
+('phone', ('the', 'party'))		1
+
+-1W, +1W frequency:
+('phone', ('access', 'growth'))		1
+('product', ('the', 'as'))		1
+('product', ('struggling', 'was'))		1
+('phone', ('new', 'to'))		1
+('product', ('computer', 'and'))		1
+('product', ('three', 'at'))		1
+('product', ('skin-care', 'is'))		1
+('product', ('Atlas', 'and'))		1
+('phone', ('the', 'to'))		2
+('product', ('furniture', 'could'))		1
+('phone', ('gab', 'have'))		1
+('phone', ('tip', 'that'))		1
+('phone', ('the', 'busy'))		1
+('phone', ('telephone', 'increased'))		1
+('phone', ('telephone', 'that'))		2
+('product', ('rail-intermodal', 'which'))		1
+('product', ('car', '"'))		1
+('product', ('complete', 'of'))		1
+('phone', ('the', 'making'))		1
+('phone', ('telephone', 'and'))		5
+('product', ('luxury-car', 'may'))		1
+('phone', ('the', 'was'))		4
+('phone', ('outside', 'and'))		1
+('product', ('Smith', 'in'))		1
+('phone', ('access', 'making'))		1
+('phone', ('the', 'but'))		1
+('phone', ('telephone-', 'increase'))		1
+('product', ('their', '"'))		1
+('phone', ('telephone', 'used'))		1
+('phone', ('as', 'and'))		1
+('product', ("'s", 'of'))		1
+('product', ('similar', 'and'))		1
+('product', ('R', 'made'))		1
+('product', ('a', 'of'))		17
+('phone', ('bisexual', 'recently'))		1
+('phone', ('telephone', 'of'))		1
+('phone', ('complaint', 'and'))		1
+('product', ('truck', 'through'))		1
+('product', ('integrated', 'of'))		1
+('product', ('new', 'of'))		9
+('product', ('popular', 'of'))		1
+('product', ('diagnostics', 'showed'))		1
+('phone', ('toll-free', 'for'))		1
+('product', ('several', 'such'))		1
+('phone', ('trading', 'yesterday'))		1
+('phone', ('the', 'first'))		1
+('product', ('car', 'at'))		1
+('phone', ('whose', 'was'))		1
+('product', ('car', 'by'))		1
+('phone', ('telephone', 'into'))		1
+('phone', ('radio', 'and'))		1
+('product', ('food', 'to'))		1
+('product', ('the', 'into'))		1
+('phone', ('telephone', 'the'))		1
+('product', ('such', 'will'))		1
+('phone', ('unsecured', 'while'))		1
+('phone', ('private', 'and'))		1
+('product', ('Carleton', 'of'))		1
+('phone', ('the', "let's"))		1
+('phone', ('the', 'light'))		1
+('phone', ('subscriber', 'charges'))		2
+('phone', ('access', 'the'))		1
+('product', ('fragrance', 'from'))		1
+('product', ('PC', "wouldn't"))		1
+('phone', ('The', 'was'))		6
+('phone', ('telephone', 'over'))		1
+('phone', ('access', 'were'))		2
+('phone', ('dead', 'but'))		1
+('product', ('in', 'ranging'))		1
+('product', ('GM-', 'is'))		1
+('product', ('those', 'were'))		1
+('product', ('billion', 'of'))		1
+('product', ('cereal', 'with'))		1
+('phone', ('the', '"'))		2
+('product', ("company's", 'of'))		1
+('phone', ('"gab"', 'that'))		1
+('product', ('perfume', '"Elizabeth'))		1
+('phone', ('telephone', 'called'))		1
+('product', ('Jeep', 'which'))		1
+('product', ('-model', 'this'))		1
+('product', ('A', 'of'))		2
+('product', ('lastest', 'of'))		1
+('product', ('marketing', 'and'))		1
+('phone', ('telephone', 'grew'))		1
+('product', ('broader', 'but'))		1
+('phone', ('other', '"'))		1
+('phone', ('customer', 'grew'))		1
+('product', ('diaper', 'in'))		1
+('product', ('"older', 'products"'))		1
+('product', ('product', 'particularly'))		1
+('product', ('These', 'and'))		1
+('product', ('Prix', 'is'))		1
+('product', ('PS/', 'of'))		2
+('product', ('his', 'of'))		1
+('product', ('full', 'under'))		1
+('phone', ('the', 'just'))		1
+('product', ('PS/', 'are'))		1
+('phone', ('telephone', 'at'))		1
+('phone', ('your', 'and'))		1
+('phone', ('trading', 'to'))		2
+('phone', ('the', 'no'))		1
+('product', ('PS/', 'that'))		1
+('product', ('cracker', 'and'))		1
+('phone', ('whose', 'were'))		1
+('phone', ('gab', 'once'))		1
+('phone', ('outside', 'dialed'))		1
+('phone', ('access', 'in'))		3
+('phone', ('gab-', 'proprietors'))		1
+('phone', ('The', 'went'))		1
+('phone', ('the', 'and'))		2
+('phone', ('a', 'open'))		1
+('product', ('Kids', 'could'))		1
+('product', ('equipment', 'are'))		1
+('phone', ('this', 'open'))		1
+('phone', ('the', 'from'))		1
+('phone', ('telephone', 'in'))		1
+('product', ('$', 'of'))		1
+('phone', ('open', 'to'))		1
+('product', ('product', 'but'))		1
+('product', ('products', 'had'))		1
+('product', ('jewelry', 'from'))		1
+('product', ('shoe', 'to'))		1
+('phone', ('the', 'between'))		1
+('phone', ('telephone', 'or'))		1
+('phone', ('million', 'in'))		1
+('product', ('camera', 'which'))		1
+('phone', ('that', 'if'))		1
+('phone', ('telephone', '--'))		3
+('product', ("women's", 'where'))		1
+('phone', ('access', 'increased'))		1
+('phone', ('telephone', 'to'))		1
+('product', ('computer', 'built'))		1
+('product', ('full', 'of'))		1
+('phone', ('than', 'mainly'))		2
+('product', ("Sun's", 'and'))		1
+('phone', ('the', 'were'))		1
+('phone', ('telephone', 'growth'))		1
+('phone', ('all', 'were'))		1
+('product', ('software', 'pacing'))		1
+('product', ('Macintosh', 'rose'))		1
+('phone', ('the', 'with'))		1
+('product', ('Amiga', 'of'))		1
+('product', ('Spectrum', 'has'))		1
+('phone', ('direct', 'to'))		4
+('product', ("GM's", 'of'))		1
+('phone', ('using', 'they'))		1
+('phone', ('access', 'grew'))		1
+('product', ('computer', 'is'))		1
+('product', ('computer', 'moved'))		1
+('phone', ('customer', 'a'))		1
+('phone', ('the', 'in'))		1
+('product', ('similar', 'called'))		1
+('phone', ('telephone', 'because'))		1
+('phone', ('party-', 'effect'))		1
+('product', ('old', 'of'))		1
+('product', ('the', 'he'))		1
+('product', ('Ziari', 'of'))		1
+('phone', ('and', 'adapters'))		1
+('phone', ('gab', 'last'))		1
+('phone', ('the', 'says'))		1
+('phone', ('information', 'which'))		1
+('product', ('marketing', 'said'))		1
+('product', ('specialized', 'of'))		1
+('product', ('its', 'by'))		1
+('product', ('Lexus', 'in'))		1
+('product', ('car', 'through'))		1
+('phone', ('telephone', 'is'))		1
+('product', ('its', 'machines'))		1
+('product', ('current', 'of'))		2
+('product', ('at', 'that'))		1
+('product', ('old', '--'))		1
+('product', ('credit', 'to'))		1
+('product', ('building-materials', 'the'))		1
+('phone', ('with', 'they'))		1
+('phone', ('the', 'went'))		2
+('phone', ('telephone-', 'growth'))		1
+('phone', ('the', 'so'))		1
+('product', ('the', 'in'))		1
+('product', ('skin-care', 'last'))		1
+('product', ('Transformers', ';'))		1
+('phone', ('his', 'be'))		1
+('product', ('Clarion', 'have'))		1
+('product', ('machinery', 'fell'))		1
+('phone', ('the', 'sir'))		1
+('phone', ('the', 'like'))		1
+('product', ('some', '"'))		1
+('product', ('the', 'it'))		1
+('phone', ('telephone', 'according'))		1
+('product', ('Denton', 'of'))		1
+('product', ('a', 'into'))		1
+('phone', ('Hospital', 'was'))		1
+('product', ('military', 'of'))		1
+('product', ('his', 'to'))		1
+('product', ('George', 'is'))		1
+('phone', ('telephone', 'during'))		1
+('product', ('long-awaited', 'of'))		1
+('product', ('chemicals', 'from'))		1
+('product', ('exclusive', 'of'))		1
+('phone', ('about', 'in'))		2
+('product', ('car', 'making'))		1
+('phone', ('clogged', 'recently'))		1
+('product', ('Lanterns', 'of'))		1
+('product', ('acquired', 'to'))		1
+('product', ('The', 'planned'))		1
+('product', ('PW', 'have'))		1
+('product', ('PS/', 'last'))		1
+('phone', ('information', 'appealing'))		1
+('product', ('some', 'and'))		1
+('phone', ('private-', 'and'))		1
+('phone', ('the', 'is'))		1
+('product', ('consumer-products', 'there'))		1
+('phone', ('the', 'for'))		1
+('product', ('computer', "won't"))		1
+('product', ('sewing', 'they'))		1
+('phone', ('about', 'at'))		1
+('product', ('health-club', 'Bally'))		1
+('phone', ('extending', 'to'))		1
+('phone', ('Business', 'increased'))		1
+('product', ("Coleco's", 'and'))		1
+('product', ('bit', 'is'))		1
+('product', ('Zytel', 'of'))		1
+('phone', ('one-on-one', 'like'))		1
+('product', ('filter', 'for'))		1
+('product', ('a', 'for'))		1
+('phone', ('access', 'while'))		1
+('product', ('car', 'and'))		1
+('product', ('VAX', 'has'))		1
+('product', ('VAX', "Cray's"))		1
+('product', ('PS/', 'as'))		1
+('phone', ('emergency', 'played'))		1
+('product', ('priced', 'of'))		1
+('product', ('product', 'included'))		1
+('product', ('huge', 'of'))		1
+('product', ('Marx', 'to'))		1
+('product', ('the', 'because'))		1
+('phone', ('the', 'that'))		1
+('product', ('product', 'will'))		1
+('product', ('products', 'so'))		1
+('phone', ('subscriber-', 'charge'))		1
+('product', ('optometric', 'were'))		1
+('product', ('ground-coffee', 'through'))		1
+('phone', ('the', 'at'))		1
+('phone', ('sex', 'and'))		1
+('phone', ('the', 'a'))		1
+('product', ('{product}', '"'))		1
+('phone', ('telephone', 'jumped'))		1
+('phone', ('communications', 'to'))		1
+('product', ('X', 'with'))		1
+('phone', ('tip', 'are'))		1
+('product', ('future', 'Hormel'))		1
+('phone', ('"', 'noise'))		1
+('product', ('car', 'anymore'))		1
+('product', ('Lancome', 'are'))		1
+('phone', ('party', 'a'))		1
+
++1W, +2W frequency:
+('phone', ('growth', 'in'))		1
+('product', ('as', 'the'))		1
+('product', ('was', 'scrapped'))		1
+('phone', ('to', 'current'))		1
+('product', ('and', 'its'))		1
+('product', ('at', 'more'))		1
+('product', ('is', '"a'))		1
+('product', ('and', 'properties'))		1
+('phone', ('to', 'order'))		1
+('product', ('could', 'fetch'))		1
+('phone', ('have', 'been'))		1
+('phone', ('that', 'has'))		1
+('phone', ('busy', 'for'))		1
+('phone', ('increased', '%'))		3
+('phone', ('that', 'link'))		1
+('product', ('which', 'consists'))		1
+('product', ('"', 'Mr'))		1
+('product', ('of', 'mammography'))		1
+('phone', ('making', 'a'))		1
+('phone', ('and', 'spread'))		1
+('product', ('may', 'not'))		1
+('phone', ('was', 'dead'))		6
+('phone', ('and', 'so'))		1
+('product', ('in', 'is'))		1
+('phone', ('making', 'it'))		1
+('phone', ('but', 'many'))		1
+('phone', ('increase', 'ever'))		1
+('product', ('"', 'said'))		1
+('phone', ('used', 'in'))		1
+('phone', ('and', 'phones'))		1
+('product', ('of', 'aircraft'))		1
+('product', ('and', 'I'))		1
+('product', ('made', 'by'))		1
+('product', ('of', 'deluxe'))		1
+('phone', ('was', 'that'))		1
+('phone', ('recently', 'got'))		1
+('phone', ('of', "Millionaire's"))		1
+('phone', ('and', 'has'))		1
+('product', ('through', 'Dec'))		1
+('product', ('of', 'software'))		1
+('product', ('of', 'computers'))		4
+('product', ('of', 'cherubic'))		1
+('product', ('showed', 'an'))		1
+('phone', ('for', 'its'))		1
+('product', ('such', 'as'))		1
+('phone', ('yesterday', 'possibly'))		1
+('phone', ('first', 'as'))		1
+('product', ('at', 'Chevrolet'))		1
+('phone', ('was', 'secure'))		1
+('product', ('of', 'oversize'))		1
+('product', ('by', '%'))		1
+('phone', ('into', 'the'))		1
+('phone', ('and', 'swore'))		1
+('product', ('to', 'Kraft'))		1
+('product', ('into', 'a'))		1
+('phone', ('the', 'worst'))		1
+('product', ('will', 'continue'))		1
+('phone', ('while', 'Mr'))		1
+('phone', ('and', 'public'))		1
+('product', ('of', 'precision'))		1
+('phone', ("let's", 'call'))		1
+('phone', ('light', 'up'))		1
+('phone', ('to', 'their'))		1
+('phone', ('the', 'poorest'))		1
+('product', ('from', 'Monteil'))		1
+('product', ("wouldn't", 'still'))		1
+('phone', ('and', 'one'))		1
+('phone', ('over', 'cellular'))		1
+('phone', ('were', 'added'))		2
+('product', ('of', 'clothing'))		1
+('phone', ('but', 'no'))		1
+('product', ('ranging', 'from'))		1
+('product', ('is', 'aimed'))		1
+('product', ('were', 'hurt'))		1
+('product', ('of', 'mid-sized'))		1
+('product', ('of', 'more'))		1
+('product', ('with', 'its'))		1
+('product', ('of', 'personal'))		4
+('phone', ('"', 'Fuqua'))		1
+('product', ('of', 'PDP'))		1
+('product', ('of', 'Limited'))		1
+('phone', ('that', 'dozens'))		1
+('product', ('of', 'frozen-cheese'))		1
+('product', ('"Elizabeth', "Taylor's"))		1
+('phone', ('will', 'be'))		1
+('phone', ('called', '"Soap'))		1
+('product', ('which', 'rose'))		1
+('product', ('this', 'fall'))		1
+('product', ('of', 'shoes'))		2
+('phone', ('and', 'conduct'))		1
+('product', ('and', 'involving'))		1
+('phone', ('grew', '%'))		2
+('product', ('but', 'they'))		1
+('phone', ('"', 'he'))		1
+('product', ('in', 'the'))		2
+('product', ('products"', 'sold'))		1
+('product', ('particularly', 'in'))		1
+('product', ('and', 'the'))		1
+('product', ('is', 'capable'))		1
+('product', ('of', 'plush'))		1
+('product', ('under', 'its'))		1
+('phone', ('just', 'to'))		1
+('product', ('are', 'expected'))		1
+('phone', ('at', 'the'))		2
+('phone', ('and', "I'll"))		1
+('phone', ('to', 'the'))		4
+('phone', ('no', 'doubt'))		1
+('phone', ('charges', 'and'))		1
+('product', ('that', 'it'))		1
+('product', ('and', 'in'))		1
+('phone', ('were', 'allegedly'))		1
+('phone', ('once', 'talked'))		1
+('phone', ('dialed', 'Homicide'))		1
+('phone', ('in', 'a'))		1
+('phone', ('proprietors', 'Megaquest'))		1
+('phone', ('went', 'dead'))		3
+('phone', ('and', 'leaves'))		1
+('phone', ('open', 'for'))		1
+('product', ('could', 'draw'))		1
+('product', ('are', 'well'))		1
+('product', ('of', 'high-end'))		1
+('phone', ('from', 'the'))		1
+('phone', ('in', 'Britain'))		1
+('product', ('of', 'frozen'))		3
+('phone', ('to', 'his'))		1
+('product', ('but', 'declined'))		1
+('product', ('had', 'sales'))		1
+('product', ('of', 'minicomputers'))		1
+('product', ('from', 'Crystal'))		1
+('product', ('to', 'a'))		1
+('phone', ('between', 'them'))		1
+('phone', ('or', 'that'))		1
+('phone', ('in', 'service'))		3
+('product', ('which', 'has'))		1
+('phone', ('if', 'he'))		1
+('phone', ('--', 'its'))		1
+('product', ('where', 'fashionability'))		1
+('phone', ('to', 'record'))		1
+('product', ('built', 'around'))		1
+('product', ('of', 'auto'))		1
+('phone', ('mainly', 'in'))		2
+('phone', ('"', "I've"))		1
+('product', ('of', "men's"))		1
+('phone', ('to', 'about'))		1
+('product', ('and', 'that'))		1
+('product', ('of', 'mid-size'))		1
+('phone', ('were', 'jammed'))		1
+('phone', ('growth', 'by'))		1
+('phone', ('were', 'out'))		1
+('product', ('pacing', 'the'))		1
+('product', ('rose', '%'))		1
+('phone', ('with', 'the'))		1
+('product', ('has', 'been'))		2
+('phone', ('to', 'maybe'))		1
+('product', ('of', 'older'))		1
+('phone', ('they', 'had'))		1
+('phone', ('grew', 'by'))		1
+('product', ('is', 'still'))		1
+('product', ('moved', 'up'))		1
+('phone', ('a', '%'))		1
+('phone', ('in', 'the'))		1
+('product', ('called', 'Healthy'))		1
+('phone', ('because', 'children'))		1
+('phone', ('effect', 'could'))		1
+('product', ('he', 'said'))		1
+('phone', ('--', 'voices'))		1
+('product', ('of', 'sunglasses'))		1
+('phone', ('adapters', 'CIP'))		1
+('phone', ('last', 'year'))		1
+('product', ('of', 'trucks'))		1
+('phone', ('says', 'Steven'))		1
+('product', ('of', '"Captain'))		1
+('phone', ('which', 'includes'))		1
+('product', ('said', 'its'))		1
+('product', ('of', 'beds'))		1
+('product', ('by', 'offering'))		1
+('product', ('through', 'a'))		1
+('phone', ('and', 'to'))		1
+('phone', ('is', 'suddenly'))		1
+('product', ('of', "women's"))		1
+('product', ('machines', 'also'))		1
+('product', ('of', 'midpriced'))		1
+('product', ('that', 'supplement'))		1
+('product', ('--', 'that'))		1
+('product', ('to', 'be'))		1
+('product', ('of', 'mainframes'))		1
+('product', ('the', 'company'))		1
+('phone', ('and', 'then'))		1
+('phone', ('they', 'deem'))		1
+('phone', ('growth', 'since'))		1
+('phone', ('so', 'I'))		1
+('product', ('in', 'a'))		1
+('product', ('last', 'month'))		1
+('product', (';', 'Tonka'))		1
+('product', ('of', 'Chevrolet'))		1
+('phone', ('be', 'tapped'))		1
+('product', ('have', 'a'))		1
+('product', ('fell', 'to'))		1
+('phone', ('sir', '"'))		1
+('phone', ('like', 'they'))		1
+('product', ('it', 'had'))		1
+('phone', ('that', "can't"))		1
+('phone', ('according', 'to'))		1
+('product', ('of', 'sweaters'))		1
+('product', ('into', 'the'))		1
+('phone', ('was', 'still'))		2
+('product', ('of', 'computer'))		1
+('product', ('to', 'survive'))		1
+('product', ('is', 'just'))		1
+('product', ('of', 'Japanese-made'))		1
+('phone', ('during', 'the'))		1
+('product', ('of', 'laptop'))		1
+('product', ('from', 'Imperial'))		1
+('phone', ('was', 'busy'))		1
+('product', ('of', 'stylish'))		1
+('phone', ('in', 'China'))		1
+('product', ('making', 'it'))		1
+('product', ('of', 'plastic'))		1
+('phone', ('recently', 'caused'))		1
+('product', ('of', 'grotesque'))		1
+('product', ('to', 'Cincinnati-based'))		1
+('product', ('planned', 'for'))		1
+('product', ('have', 'reached'))		1
+('product', ('last', 'April'))		1
+('phone', ('appealing', 'for'))		1
+('product', ('and', 'perhaps'))		1
+('phone', ('and', 'Centrex'))		1
+('phone', ('is', 'in'))		1
+('product', ('there', 'including'))		1
+('phone', ('for', 'you'))		1
+('product', ("won't", 'help'))		1
+('product', ('of', 'coronary'))		1
+('product', ('they', 'still'))		1
+('product', ('Bally', 'could'))		1
+('phone', ('to', 'investment'))		1
+('product', ('and', 'sales'))		1
+('product', ('is', '"substantially'))		1
+('product', ('of', 'nylon'))		1
+('phone', ('--', 'checking'))		1
+('product', ('of', 'jeans'))		1
+('phone', ('like', 'the'))		1
+('product', ('for', 'three'))		1
+('phone', ('in', 'central'))		1
+('product', ('for', 'the'))		1
+('phone', ('while', 'a'))		1
+('phone', ('and', 'a'))		1
+('product', ('and', 'a'))		1
+('product', ('of', 'Green'))		1
+('product', ("Cray's", 'spokesman'))		1
+('product', ('as', 'a'))		1
+('phone', ('played', 'at'))		1
+('product', ('of', 'stock'))		1
+('product', ('included', 'the'))		1
+('product', ('of', 'General'))		1
+('product', ('because', 'Noxell'))		1
+('phone', ('that', 'might'))		1
+('product', ('will', 'take'))		1
+('product', ('so', 'it'))		1
+('phone', ('charge', 'by'))		1
+('product', ('of', 'Halloween'))		1
+('product', ('were', 'expected'))		1
+('product', ('through', 'costly'))		1
+('phone', ('at', 'once'))		1
+('product', ('of', 'jockey'))		1
+('phone', ('and', 'gab'))		1
+('phone', ('was', 'John'))		1
+('phone', ('a', 'voice'))		1
+('product', ('"', 'she'))		1
+('phone', ('jumped', '%'))		1
+('phone', ('to', 'tie'))		1
+('product', ('with', 'current'))		1
+('phone', ('are', 'Wall'))		1
+('product', ('Hormel', 'carries'))		1
+('phone', ('noise', '"'))		1
+('product', ('anymore', '"'))		1
+('product', ('are', 'likely'))		1
+('phone', ('a', 'new'))		1
+
+WSD Results for Test Data:
+
+Instance ID		Predicted Word Sense
+line-n.w8_059:8174:		phone
+line-n.w7_098:12684:		phone
+line-n.w8_106:13309:		phone
+line-n.w9_40:10187:		product
+line-n.w9_16:217:		phone
+line-n.w8_119:16927:		product
+line-n.w8_008:13756:		phone
+line-n.w8_041:15186:		phone
+line-n.art7} aphb 05601797:		phone
+line-n.w8_119:2964:		phone
+line-n.w7_040:13652:		phone
+line-n.w7_122:2194:		phone
+line-n.art7} aphb 45903907:		phone
+line-n.art7} aphb 43602625:		phone
+line-n.w8_034:3995:		product
+line-n.w8_139:696:		product
+line-n.art7} aphb 20801955:		phone
+line-n.w8_028:3156:		product
+line-n.art7} aphb 19600919:		phone
+line-n.w8_111:8071:		phone
+line-n.w7_041:4840:		product
+line-n.w7_074:3928:		product
+line-n.w8_049:15000:		product
+line-n.w8_086:3306:		phone
+line-n.w9_8:1533:		phone
+line-n.w8_042:5289:		phone
+line-n.w7_041:11151:		phone
+line-n.w7_059:9261:		phone
+line-n.w9_6:10969:		phone
+line-n.art7} aphb 41702230:		product
+line-n.w7_004:1365:		product
+line-n.art7} aphb 26902918:		product
+line-n.art7} aphb 37804749:		phone
+line-n.w9_6:2907:		phone
+line-n.w7_106:10827:		product
+line-n.art7} aphb 02400926:		product
+line-n.w7_107:12000:		phone
+line-n.w7_087:620:		product
+line-n.art7} aphb 30203503:		product
+line-n.w9_40:10216:		product
+line-n.art7} aphb 24500349:		phone
+line-n.art7} aphb 02200986:		phone
+line-n.w8_024:3051:		phone
+line-n.w7_023:17827:		phone
+line-n.w8_142:13364:		phone
+line-n.w8_083:14895:		product
+line-n.w7_117:10197:		phone
+line-n.w8_013:14047:		product
+line-n.w7_019:14634:		product
+line-n.w7_017:6376:		product
+line-n.art7} aphb 24900680:		phone
+line-n.w7_021:3496:		phone
+line-n.w9_13:9355:		phone
+line-n.w8_098:13314:		phone
+line-n.w8_064:14051:		phone
+line-n.w7_107:7711:		product
+line-n.w9_40:10241:		product
+line-n.w7_111:6250:		phone
+line-n.w9_31:14204:		product
+line-n.w9_20:7066:		phone
+line-n.w8_027:13714:		product
+line-n.w7_006:6674:		phone
+line-n.w7_080:1471:		phone
+line-n.w7_124:728:		product
+line-n.w7_083:9304:		phone
+line-n.w8_019:4936:		product
+line-n.w9_17:14207:		product
+line-n.w7_093:5547:		product
+line-n.w7_085:427:		product
+line-n.w7_112:2163:		product
+line-n.w7_115:6602:		product
+line-n.w8_081:8566:		phone
+line-n.w8_104:2916:		product
+line-n.w7_050:15645:		phone
+line-n.w7_033:3398:		phone
+line-n.w9_8:3899:		phone
+line-n.art7} aphb 37805623:		product
+line-n.w8_016:14692:		product
+line-n.w7_107:826:		phone
+line-n.w7_002:18532:		phone
+line-n.w7_102:12660:		product
+line-n.w8_002:7541:		product
+line-n.w8_063:10855:		product
+line-n.art7} aphb 18601882:		phone
+line-n.w9_7:13171:		phone
+line-n.w9_32:1867:		product
+line-n.w9_29:3437:		product
+line-n.w7_019:18445:		product
+line-n.art7} aphb 45700442:		phone
+line-n.w8_067:14552:		phone
+line-n.w8_053:16416:		phone
+line-n.w9_12:680:		product
+line-n.w9_8:1503:		phone
+line-n.w7_066:3322:		phone
+line-n.w8_100:4429:		product
+line-n.w7_104:8687:		phone
+line-n.art7} aphb 54101892:		phone
+line-n.w8_038:1345:		product
+line-n.w7_126:14239:		product
+line-n.w9_30:3935:		product
+line-n.w9_18:11863:		phone
+line-n.w8_003:16519:		phone
+line-n.art7} aphb 29604729:		phone
+line-n.w9_38:10638:		product
+line-n.w7_046:6144:		phone
+line-n.w8_098:14382:		product
+line-n.w8_074:4317:		phone
+line-n.w7_011:18280:		phone
+line-n.w8_053:3883:		phone
+line-n.w8_040:16402:		phone
+line-n.w7_065:13727:		product
+line-n.w8_007:14740:		phone
+line-n.w8_011:260:		phone
+line-n.w7_003:8955:		product
+line-n.w8_011:298:		phone
+line-n.w7_122:11595:		phone
+line-n.w9_1:4358:		product
+line-n.w7_108:11591:		product
+line-n.w8_065:17112:		phone
+line-n.w8_070:8114:		phone
+line-n.w8_011:13061:		phone
+line-n.w7_100:15579:		product
+line-n.w7_071:6321:		product
+line-n.w8_110:14049:		phone
+line-n.w7_108:4296:		phone
+line-n.w7_057:1203:		phone
