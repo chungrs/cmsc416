@@ -1,4 +1,5 @@
 pa1: Eliza
+--------------------------------------------------------------
 
 Eliza is a chatbot intended to simulate a conversation
 with a therapist. It searches for defined language
@@ -10,7 +11,7 @@ Example input and output:
 [Eliza] User, why do you want to rule the world?
 <User> I don't know, I think I crave power.
 [Eliza] Why don't you tell me more about your cravings.
---------------------------------------------------------------
+
 pa2: N-Gram Language Model
 
 ngram.py is a program that learns an N-gram language model from an arbitrary number of plain text files
